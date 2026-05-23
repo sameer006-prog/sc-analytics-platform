@@ -1,0 +1,9 @@
+supplier_id,supplier_name,supplier_risk,total_orders,on_time_rate,avg_defect_rate,avg_lead_days,invoice_match_rate,total_spend_eur,performance_score,rag_status
+SUP-001,Schmidt Metallteile GmbH,low,150,0.9133,0.0181,5.433333333333334,0.92,1767361.65,9116.0,GREEN
+SUP-002,Fischer Kunststoff AG,medium,168,0.756,0.0482,8.863095238095237,0.9464,2221030.22,8246.0,GREEN
+SUP-003,Müller Rohre & Armaturen,low,132,0.9545,0.018,6.113636363636363,0.9545,1556870.86,9310.0,GREEN
+SUP-004,Weber International Ltd.,high,165,0.5939,0.1078,13.836363636363636,0.9394,1888631.95,7109.0,GREEN
+SUP-005,Krause Logistik KG,medium,150,0.7867,0.05,8.08,0.9267,1901317.07,8370.0,GREEN
+SUP-006,Bauer Präzisionsteile,low,144,0.9028,0.0173,4.5,0.9167,1712292.25,9125.0,GREEN
+SUP-007,Hoffmann Global Supply,high,144,0.6042,0.1035,16.833333333333332,0.9236,1652894.35,6954.000000000001,GREEN
+SUP-008,Schneider Dichtungen GmbH,medium,147,0.8027,0.0489,9.863945578231293,0.966,1653213.21,8410.0,GREEN

@@ -1,0 +1,1201 @@
+order_id,supplier_id,supplier_name,supplier_risk,product_id,product_name,category,order_date,planned_delivery,actual_delivery,planned_lead_days,actual_lead_days,on_time_delivery,quantity_ordered,defect_quantity,defect_rate,unit_price_eur,total_value_eur,invoice_match
+PO-10000,SUP-007,Hoffmann Global Supply,high,VALV-002,Pressure Relief Valve,Valves,2023-09-28,2023-10-14,2023-10-14,16,16,True,70,2,0.0286,15.37,1075.9,False
+PO-10001,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-001,Push-Fit Connector,Fittings,2023-04-10,2023-04-20,2023-04-23,10,13,False,393,8,0.0204,71.18,27973.74,True
+PO-10002,SUP-005,Krause Logistik KG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2024-04-04,2024-04-11,2024-04-11,7,7,True,285,14,0.0491,4.4,1254.0,True
+PO-10003,SUP-008,Schneider Dichtungen GmbH,medium,VALV-002,Pressure Relief Valve,Valves,2024-11-30,2024-12-10,2024-12-10,10,10,True,224,8,0.0357,53.52,11988.48,True
+PO-10004,SUP-001,Schmidt Metallteile GmbH,low,VALV-001,"Ball Valve 1/2""",Valves,2024-04-29,2024-05-05,2024-05-05,6,6,True,378,14,0.037,7.87,2974.86,True
+PO-10005,SUP-002,Fischer Kunststoff AG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-12-12,2023-12-19,2023-12-19,7,7,True,141,1,0.0071,38.81,5472.21,True
+PO-10006,SUP-007,Hoffmann Global Supply,high,VALV-001,"Ball Valve 1/2""",Valves,2023-07-25,2023-08-08,2023-08-13,14,19,False,51,2,0.0392,37.58,1916.58,True
+PO-10007,SUP-005,Krause Logistik KG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-02-06,2024-02-13,2024-02-13,7,7,True,251,15,0.0598,76.32,19156.32,True
+PO-10008,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-12-27,2025-01-04,2025-01-04,8,8,True,262,7,0.0267,34.57,9057.34,True
+PO-10009,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-07-07,2023-07-14,2023-07-20,7,13,False,114,4,0.0351,3.79,432.06,True
+PO-10010,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2023-03-04,2023-03-14,2023-03-18,10,14,False,468,3,0.0064,66.13,30948.84,True
+PO-10011,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2023-05-15,2023-05-19,2023-05-19,4,4,True,467,6,0.0128,10.37,4842.79,True
+PO-10012,SUP-005,Krause Logistik KG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-11-14,2024-11-21,2024-11-21,7,7,True,498,48,0.0964,34.09,16976.82,True
+PO-10013,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-05-17,2024-05-25,2024-05-25,8,8,True,332,14,0.0422,45.63,15149.16,False
+PO-10014,SUP-005,Krause Logistik KG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-07-28,2024-08-05,2024-08-05,8,8,True,145,2,0.0138,59.88,8682.6,True
+PO-10015,SUP-007,Hoffmann Global Supply,high,VALV-001,"Ball Valve 1/2""",Valves,2024-06-24,2024-07-08,2024-07-12,14,18,False,292,54,0.1849,15.8,4613.6,True
+PO-10016,SUP-001,Schmidt Metallteile GmbH,low,FIXT-001,Push-Fit Connector,Fittings,2024-10-07,2024-10-12,2024-10-12,5,5,True,177,6,0.0339,69.11,12232.47,True
+PO-10017,SUP-001,Schmidt Metallteile GmbH,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-01-12,2024-01-18,2024-01-18,6,6,True,165,2,0.0121,31.59,5212.35,True
+PO-10018,SUP-003,Müller Rohre & Armaturen,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-11-14,2023-11-19,2023-11-19,5,5,True,283,10,0.0353,30.35,8589.05,True
+PO-10019,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2023-08-21,2023-08-29,2023-09-01,8,11,False,101,7,0.0693,22.87,2309.87,True
+PO-10020,SUP-005,Krause Logistik KG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-03-22,2023-03-30,2023-03-30,8,8,True,179,0,0.0,36.41,6517.39,True
+PO-10021,SUP-001,Schmidt Metallteile GmbH,low,VALV-001,"Ball Valve 1/2""",Valves,2024-09-29,2024-10-04,2024-10-04,5,5,True,267,2,0.0075,83.82,22379.94,True
+PO-10022,SUP-003,Müller Rohre & Armaturen,low,SEAL-002,Press Fitting Seal,Seals,2023-05-03,2023-05-08,2023-05-08,5,5,True,329,12,0.0365,41.3,13587.7,True
+PO-10023,SUP-007,Hoffmann Global Supply,high,SEAL-002,Press Fitting Seal,Seals,2023-05-24,2023-06-07,2023-06-11,14,18,False,375,64,0.1707,59.9,22462.5,True
+PO-10024,SUP-004,Weber International Ltd.,high,VALV-001,"Ball Valve 1/2""",Valves,2023-12-12,2023-12-25,2023-12-25,13,13,True,197,6,0.0305,55.73,10978.81,True
+PO-10025,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-12-04,2023-12-12,2023-12-12,8,8,True,490,45,0.0918,11.86,5811.4,True
+PO-10026,SUP-003,Müller Rohre & Armaturen,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-05-24,2023-05-30,2023-05-30,6,6,True,109,4,0.0367,24.02,2618.18,True
+PO-10027,SUP-005,Krause Logistik KG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-06-09,2023-06-17,2023-06-19,8,10,False,148,12,0.0811,60.28,8921.44,True
+PO-10028,SUP-006,Bauer Präzisionsteile,low,SEAL-002,Press Fitting Seal,Seals,2024-11-03,2024-11-08,2024-11-08,5,5,True,469,11,0.0235,76.63,35939.47,False
+PO-10029,SUP-006,Bauer Präzisionsteile,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-04-09,2023-04-12,2023-04-19,3,10,False,387,6,0.0155,42.56,16470.72,True
+PO-10030,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2024-08-02,2024-08-13,2024-08-13,11,11,True,353,45,0.1275,64.09,22623.77,True
+PO-10031,SUP-001,Schmidt Metallteile GmbH,low,SEAL-002,Press Fitting Seal,Seals,2023-02-02,2023-02-08,2023-02-08,6,6,True,424,10,0.0236,23.16,9819.84,True
+PO-10032,SUP-003,Müller Rohre & Armaturen,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-10-10,2023-10-17,2023-10-17,7,7,True,335,8,0.0239,55.72,18666.2,True
+PO-10033,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2024-10-20,2024-11-02,2024-11-02,13,13,True,66,6,0.0909,84.55,5580.3,True
+PO-10034,SUP-006,Bauer Präzisionsteile,low,VALV-001,"Ball Valve 1/2""",Valves,2023-02-06,2023-02-09,2023-02-09,3,3,True,230,9,0.0391,49.71,11433.3,True
+PO-10035,SUP-005,Krause Logistik KG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-06-10,2023-06-18,2023-06-20,8,10,False,272,25,0.0919,72.15,19624.8,True
+PO-10036,SUP-002,Fischer Kunststoff AG,medium,SEAL-002,Press Fitting Seal,Seals,2024-10-24,2024-11-01,2024-11-01,8,8,True,435,36,0.0828,29.11,12662.85,True
+PO-10037,SUP-006,Bauer Präzisionsteile,low,SEAL-002,Press Fitting Seal,Seals,2023-02-08,2023-02-11,2023-02-11,3,3,True,75,2,0.0267,69.33,5199.75,True
+PO-10038,SUP-002,Fischer Kunststoff AG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-02-05,2023-02-12,2023-02-19,7,14,False,449,39,0.0869,6.69,3003.81,False
+PO-10039,SUP-002,Fischer Kunststoff AG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-12-27,2025-01-05,2025-01-07,9,11,False,235,6,0.0255,47.27,11108.45,True
+PO-10040,SUP-006,Bauer Präzisionsteile,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-11-22,2024-11-26,2024-11-26,4,4,True,103,1,0.0097,46.81,4821.43,True
+PO-10041,SUP-004,Weber International Ltd.,high,VALV-002,Pressure Relief Valve,Valves,2024-09-11,2024-09-22,2024-09-22,11,11,True,311,33,0.1061,6.76,2102.36,True
+PO-10042,SUP-007,Hoffmann Global Supply,high,SEAL-002,Press Fitting Seal,Seals,2024-10-17,2024-10-31,2024-10-31,14,14,True,155,24,0.1548,29.14,4516.7,True
+PO-10043,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-12-12,2023-12-23,2023-12-30,11,18,False,328,45,0.1372,37.84,12411.52,False
+PO-10044,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-04-06,2023-04-14,2023-04-16,8,10,False,286,27,0.0944,25.59,7318.74,True
+PO-10045,SUP-007,Hoffmann Global Supply,high,FIXT-001,Push-Fit Connector,Fittings,2023-09-04,2023-09-20,2023-09-24,16,20,False,135,3,0.0222,3.69,498.15,False
+PO-10046,SUP-001,Schmidt Metallteile GmbH,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-03-28,2024-04-02,2024-04-02,5,5,True,390,2,0.0051,41.56,16208.4,True
+PO-10047,SUP-007,Hoffmann Global Supply,high,PIPE-002,Steel Pipe 22mm,Pipes,2024-06-05,2024-06-20,2024-06-20,15,15,True,339,1,0.0029,24.02,8142.78,True
+PO-10048,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-11-21,2023-11-29,2023-12-02,8,11,False,433,34,0.0785,55.0,23815.0,True
+PO-10049,SUP-003,Müller Rohre & Armaturen,low,VALV-002,Pressure Relief Valve,Valves,2024-06-28,2024-07-03,2024-07-03,5,5,True,476,7,0.0147,80.17,38160.92,True
+PO-10050,SUP-002,Fischer Kunststoff AG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-07-09,2024-07-16,2024-07-23,7,14,False,435,26,0.0598,5.71,2483.85,True
+PO-10051,SUP-002,Fischer Kunststoff AG,medium,SEAL-002,Press Fitting Seal,Seals,2024-08-27,2024-09-04,2024-09-04,8,8,True,467,23,0.0493,24.01,11212.67,True
+PO-10052,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-03-16,2023-03-23,2023-03-25,7,9,False,326,17,0.0521,82.33,26839.58,True
+PO-10053,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2024-11-19,2024-11-29,2024-11-29,10,10,True,145,13,0.0897,30.62,4439.9,True
+PO-10054,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-06-08,2024-06-14,2024-06-14,6,6,True,410,8,0.0195,33.66,13800.6,True
+PO-10055,SUP-001,Schmidt Metallteile GmbH,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-02-01,2024-02-07,2024-02-07,6,6,True,149,5,0.0336,3.39,505.11,True
+PO-10056,SUP-007,Hoffmann Global Supply,high,VALV-002,Pressure Relief Valve,Valves,2024-12-18,2025-01-03,2025-01-03,16,16,True,388,6,0.0155,43.17,16749.96,True
+PO-10057,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2024-04-13,2024-04-24,2024-04-24,11,11,True,106,19,0.1792,11.86,1257.16,True
+PO-10058,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-09-25,2024-09-28,2024-09-28,3,3,True,270,1,0.0037,31.45,8491.5,True
+PO-10059,SUP-002,Fischer Kunststoff AG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-05-06,2024-05-13,2024-05-20,7,14,False,190,7,0.0368,20.86,3963.4,True
+PO-10060,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-01-29,2023-02-05,2023-02-05,7,7,True,185,6,0.0324,33.38,6175.3,True
+PO-10061,SUP-007,Hoffmann Global Supply,high,SEAL-001,EPDM O-Ring Pack,Seals,2023-08-05,2023-08-19,2023-08-19,14,14,True,119,11,0.0924,60.92,7249.48,True
+PO-10062,SUP-007,Hoffmann Global Supply,high,VALV-001,"Ball Valve 1/2""",Valves,2024-12-14,2024-12-29,2025-01-05,15,22,False,222,20,0.0901,3.44,763.68,False
+PO-10063,SUP-004,Weber International Ltd.,high,SEAL-002,Press Fitting Seal,Seals,2023-12-27,2024-01-09,2024-01-09,13,13,True,397,29,0.073,81.88,32506.36,True
+PO-10064,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-04-27,2023-05-06,2023-05-06,9,9,True,222,0,0.0,82.52,18319.44,True
+PO-10065,SUP-006,Bauer Präzisionsteile,low,FIXT-001,Push-Fit Connector,Fittings,2023-07-22,2023-07-25,2023-07-25,3,3,True,196,4,0.0204,82.47,16164.12,True
+PO-10066,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-02-19,2024-02-22,2024-02-22,3,3,True,423,12,0.0284,34.2,14466.6,True
+PO-10067,SUP-002,Fischer Kunststoff AG,medium,SEAL-002,Press Fitting Seal,Seals,2023-12-24,2023-12-31,2023-12-31,7,7,True,397,15,0.0378,55.86,22176.42,True
+PO-10068,SUP-004,Weber International Ltd.,high,VALV-002,Pressure Relief Valve,Valves,2023-02-10,2023-02-23,2023-02-23,13,13,True,194,15,0.0773,25.58,4962.52,True
+PO-10069,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-001,Push-Fit Connector,Fittings,2024-07-11,2024-07-21,2024-07-21,10,10,True,131,7,0.0534,36.87,4829.97,True
+PO-10070,SUP-002,Fischer Kunststoff AG,medium,SEAL-002,Press Fitting Seal,Seals,2023-08-30,2023-09-08,2023-09-10,9,11,False,423,41,0.0969,69.37,29343.51,True
+PO-10071,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-03-04,2023-03-10,2023-03-10,6,6,True,332,2,0.006,49.45,16417.4,False
+PO-10072,SUP-007,Hoffmann Global Supply,high,PIPE-001,Copper Pipe 15mm,Pipes,2024-02-09,2024-02-25,2024-02-25,16,16,True,246,49,0.1992,84.98,20905.08,True
+PO-10073,SUP-005,Krause Logistik KG,medium,FIXT-001,Push-Fit Connector,Fittings,2024-11-07,2024-11-14,2024-11-14,7,7,True,194,3,0.0155,22.39,4343.66,True
+PO-10074,SUP-005,Krause Logistik KG,medium,FIXT-001,Push-Fit Connector,Fittings,2024-03-21,2024-03-27,2024-03-27,6,6,True,337,9,0.0267,6.37,2146.69,False
+PO-10075,SUP-002,Fischer Kunststoff AG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-03-13,2024-03-21,2024-03-21,8,8,True,355,19,0.0535,72.8,25844.0,True
+PO-10076,SUP-006,Bauer Präzisionsteile,low,VALV-001,"Ball Valve 1/2""",Valves,2024-02-05,2024-02-10,2024-02-16,5,11,False,390,12,0.0308,55.25,21547.5,True
+PO-10077,SUP-008,Schneider Dichtungen GmbH,medium,VALV-002,Pressure Relief Valve,Valves,2023-11-02,2023-11-11,2023-11-11,9,9,True,384,34,0.0885,38.59,14818.56,True
+PO-10078,SUP-006,Bauer Präzisionsteile,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-12-01,2023-12-05,2023-12-05,4,4,True,100,3,0.03,60.06,6006.0,True
+PO-10079,SUP-001,Schmidt Metallteile GmbH,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-05-22,2024-05-26,2024-05-26,4,4,True,102,0,0.0,31.16,3178.32,True
+PO-10080,SUP-003,Müller Rohre & Armaturen,low,VALV-001,"Ball Valve 1/2""",Valves,2023-04-21,2023-04-26,2023-04-26,5,5,True,385,2,0.0052,15.03,5786.55,True
+PO-10081,SUP-008,Schneider Dichtungen GmbH,medium,VALV-002,Pressure Relief Valve,Valves,2024-11-26,2024-12-04,2024-12-04,8,8,True,244,23,0.0943,45.01,10982.44,True
+PO-10082,SUP-003,Müller Rohre & Armaturen,low,VALV-001,"Ball Valve 1/2""",Valves,2023-01-05,2023-01-11,2023-01-11,6,6,True,366,8,0.0219,5.12,1873.92,True
+PO-10083,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-02-15,2023-02-27,2023-03-02,12,15,False,350,6,0.0171,29.03,10160.5,True
+PO-10084,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-02-25,2023-03-01,2023-03-01,4,4,True,97,1,0.0103,7.54,731.38,True
+PO-10085,SUP-001,Schmidt Metallteile GmbH,low,VALV-001,"Ball Valve 1/2""",Valves,2023-09-10,2023-09-16,2023-09-16,6,6,True,105,2,0.019,42.47,4459.35,True
+PO-10086,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-12-31,2024-01-09,2024-01-13,9,13,False,56,4,0.0714,59.19,3314.64,True
+PO-10087,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2023-10-01,2023-10-13,2023-10-17,12,16,False,64,9,0.1406,11.15,713.6,True
+PO-10088,SUP-007,Hoffmann Global Supply,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-09-30,2023-10-16,2023-10-23,16,23,False,349,23,0.0659,21.74,7587.26,True
+PO-10089,SUP-002,Fischer Kunststoff AG,medium,VALV-001,"Ball Valve 1/2""",Valves,2023-08-21,2023-08-28,2023-08-28,7,7,True,277,16,0.0578,46.81,12966.37,True
+PO-10090,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2024-08-17,2024-08-22,2024-08-22,5,5,True,55,1,0.0182,76.72,4219.6,True
+PO-10091,SUP-003,Müller Rohre & Armaturen,low,FIXT-001,Push-Fit Connector,Fittings,2024-01-12,2024-01-17,2024-01-23,5,11,False,247,4,0.0162,32.64,8062.08,True
+PO-10092,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-12-16,2023-12-21,2023-12-23,5,7,False,296,0,0.0,6.76,2000.96,True
+PO-10093,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-01-06,2023-01-15,2023-01-15,9,9,True,124,10,0.0806,73.9,9163.6,True
+PO-10094,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-07-27,2024-08-04,2024-08-04,8,8,True,252,7,0.0278,49.66,12514.32,True
+PO-10095,SUP-006,Bauer Präzisionsteile,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-04-28,2023-05-03,2023-05-03,5,5,True,69,0,0.0,22.5,1552.5,True
+PO-10096,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-05-19,2023-05-29,2023-05-29,10,10,True,308,10,0.0325,6.78,2088.24,True
+PO-10097,SUP-007,Hoffmann Global Supply,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-06-21,2023-07-06,2023-07-09,15,18,False,133,18,0.1353,23.51,3126.83,True
+PO-10098,SUP-003,Müller Rohre & Armaturen,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-07-03,2024-07-10,2024-07-10,7,7,True,144,4,0.0278,79.19,11403.36,True
+PO-10099,SUP-006,Bauer Präzisionsteile,low,FIXT-001,Push-Fit Connector,Fittings,2024-01-11,2024-01-16,2024-01-16,5,5,True,125,4,0.032,33.79,4223.75,True
+PO-10100,SUP-004,Weber International Ltd.,high,SEAL-002,Press Fitting Seal,Seals,2023-12-15,2023-12-28,2023-12-28,13,13,True,319,52,0.163,68.46,21838.74,True
+PO-10101,SUP-003,Müller Rohre & Armaturen,low,VALV-001,"Ball Valve 1/2""",Valves,2023-03-19,2023-03-25,2023-03-25,6,6,True,138,2,0.0145,74.87,10332.06,True
+PO-10102,SUP-007,Hoffmann Global Supply,high,SEAL-002,Press Fitting Seal,Seals,2024-06-09,2024-06-25,2024-06-25,16,16,True,402,40,0.0995,64.18,25800.36,True
+PO-10103,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-05-17,2024-05-22,2024-05-22,5,5,True,153,3,0.0196,21.39,3272.67,True
+PO-10104,SUP-003,Müller Rohre & Armaturen,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-06-28,2023-07-04,2023-07-04,6,6,True,64,1,0.0156,74.99,4799.36,True
+PO-10105,SUP-003,Müller Rohre & Armaturen,low,VALV-002,Pressure Relief Valve,Valves,2023-06-06,2023-06-12,2023-06-12,6,6,True,460,0,0.0,63.88,29384.8,True
+PO-10106,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2024-09-26,2024-10-04,2024-10-04,8,8,True,343,12,0.035,46.76,16038.68,True
+PO-10107,SUP-004,Weber International Ltd.,high,SEAL-002,Press Fitting Seal,Seals,2023-01-15,2023-01-26,2023-01-26,11,11,True,206,29,0.1408,21.41,4410.46,True
+PO-10108,SUP-007,Hoffmann Global Supply,high,VALV-001,"Ball Valve 1/2""",Valves,2023-10-19,2023-11-03,2023-11-09,15,21,False,197,35,0.1777,17.48,3443.56,True
+PO-10109,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-12-12,2023-12-21,2023-12-21,9,9,True,267,13,0.0487,50.86,13579.62,True
+PO-10110,SUP-007,Hoffmann Global Supply,high,SEAL-002,Press Fitting Seal,Seals,2024-11-13,2024-11-27,2024-11-27,14,14,True,377,58,0.1538,56.24,21202.48,True
+PO-10111,SUP-001,Schmidt Metallteile GmbH,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-02-20,2023-02-24,2023-02-24,4,4,True,346,6,0.0173,78.86,27285.56,True
+PO-10112,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-09-13,2024-09-20,2024-09-20,7,7,True,50,2,0.04,74.27,3713.5,True
+PO-10113,SUP-005,Krause Logistik KG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-11-05,2023-11-11,2023-11-11,6,6,True,362,12,0.0331,2.88,1042.56,True
+PO-10114,SUP-001,Schmidt Metallteile GmbH,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-03-16,2023-03-21,2023-03-21,5,5,True,259,9,0.0347,42.17,10922.03,True
+PO-10115,SUP-003,Müller Rohre & Armaturen,low,VALV-002,Pressure Relief Valve,Valves,2023-06-28,2023-07-04,2023-07-04,6,6,True,229,8,0.0349,37.06,8486.74,True
+PO-10116,SUP-007,Hoffmann Global Supply,high,VALV-001,"Ball Valve 1/2""",Valves,2024-10-23,2024-11-07,2024-11-13,15,21,False,98,18,0.1837,17.19,1684.62,True
+PO-10117,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-04-20,2024-04-25,2024-04-25,5,5,True,98,1,0.0102,27.22,2667.56,True
+PO-10118,SUP-003,Müller Rohre & Armaturen,low,VALV-001,"Ball Valve 1/2""",Valves,2024-12-23,2024-12-29,2024-12-29,6,6,True,334,5,0.015,54.06,18056.04,True
+PO-10119,SUP-003,Müller Rohre & Armaturen,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-08-12,2024-08-19,2024-08-19,7,7,True,243,4,0.0165,46.59,11321.37,True
+PO-10120,SUP-003,Müller Rohre & Armaturen,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-10-05,2024-10-10,2024-10-10,5,5,True,104,1,0.0096,80.55,8377.2,True
+PO-10121,SUP-006,Bauer Präzisionsteile,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-01-15,2024-01-18,2024-01-23,3,8,False,337,8,0.0237,61.57,20749.09,False
+PO-10122,SUP-007,Hoffmann Global Supply,high,VALV-001,"Ball Valve 1/2""",Valves,2024-03-18,2024-04-03,2024-04-10,16,23,False,298,10,0.0336,68.49,20410.02,True
+PO-10123,SUP-007,Hoffmann Global Supply,high,SEAL-002,Press Fitting Seal,Seals,2024-02-22,2024-03-09,2024-03-16,16,23,False,337,55,0.1632,73.09,24631.33,True
+PO-10124,SUP-005,Krause Logistik KG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-04-13,2024-04-20,2024-04-20,7,7,True,481,30,0.0624,9.67,4651.27,True
+PO-10125,SUP-005,Krause Logistik KG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-09-15,2024-09-21,2024-09-21,6,6,True,334,29,0.0868,37.27,12448.18,True
+PO-10126,SUP-004,Weber International Ltd.,high,VALV-001,"Ball Valve 1/2""",Valves,2024-01-21,2024-02-03,2024-02-03,13,13,True,445,30,0.0674,71.03,31608.35,True
+PO-10127,SUP-001,Schmidt Metallteile GmbH,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-02-22,2023-02-28,2023-02-28,6,6,True,391,1,0.0026,66.83,26130.53,True
+PO-10128,SUP-003,Müller Rohre & Armaturen,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-12-27,2025-01-01,2025-01-01,5,5,True,258,5,0.0194,24.67,6364.86,True
+PO-10129,SUP-007,Hoffmann Global Supply,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-10-05,2023-10-21,2023-10-21,16,16,True,203,6,0.0296,45.87,9311.61,True
+PO-10130,SUP-003,Müller Rohre & Armaturen,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-05-26,2023-05-31,2023-05-31,5,5,True,90,1,0.0111,25.11,2259.9,True
+PO-10131,SUP-002,Fischer Kunststoff AG,medium,VALV-002,Pressure Relief Valve,Valves,2024-08-21,2024-08-28,2024-09-03,7,13,False,76,6,0.0789,76.75,5833.0,True
+PO-10132,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2024-03-30,2024-04-11,2024-04-11,12,12,True,459,70,0.1525,35.86,16459.74,True
+PO-10133,SUP-002,Fischer Kunststoff AG,medium,VALV-002,Pressure Relief Valve,Valves,2023-12-29,2024-01-05,2024-01-10,7,12,False,420,16,0.0381,22.74,9550.8,True
+PO-10134,SUP-008,Schneider Dichtungen GmbH,medium,VALV-002,Pressure Relief Valve,Valves,2023-04-23,2023-05-03,2023-05-03,10,10,True,276,10,0.0362,80.82,22306.32,True
+PO-10135,SUP-006,Bauer Präzisionsteile,low,FIXT-001,Push-Fit Connector,Fittings,2023-11-08,2023-11-11,2023-11-11,3,3,True,288,6,0.0208,24.14,6952.32,False
+PO-10136,SUP-006,Bauer Präzisionsteile,low,VALV-001,"Ball Valve 1/2""",Valves,2023-12-31,2024-01-05,2024-01-05,5,5,True,203,2,0.0099,41.62,8448.86,True
+PO-10137,SUP-001,Schmidt Metallteile GmbH,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-03-02,2023-03-08,2023-03-08,6,6,True,74,2,0.027,22.83,1689.42,True
+PO-10138,SUP-004,Weber International Ltd.,high,VALV-001,"Ball Valve 1/2""",Valves,2024-04-22,2024-05-04,2024-05-04,12,12,True,324,52,0.1605,28.45,9217.8,True
+PO-10139,SUP-001,Schmidt Metallteile GmbH,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-07-22,2024-07-28,2024-07-28,6,6,True,61,2,0.0328,47.21,2879.81,True
+PO-10140,SUP-005,Krause Logistik KG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2024-12-27,2025-01-02,2025-01-02,6,6,True,247,22,0.0891,83.4,20599.8,True
+PO-10141,SUP-003,Müller Rohre & Armaturen,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-05-03,2024-05-08,2024-05-08,5,5,True,337,12,0.0356,60.71,20459.27,True
+PO-10142,SUP-005,Krause Logistik KG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-09-07,2023-09-15,2023-09-21,8,14,False,56,5,0.0893,27.03,1513.68,True
+PO-10143,SUP-007,Hoffmann Global Supply,high,FIXT-001,Push-Fit Connector,Fittings,2024-08-16,2024-09-01,2024-09-01,16,16,True,472,49,0.1038,40.05,18903.6,True
+PO-10144,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-06-01,2023-06-06,2023-06-06,5,5,True,350,9,0.0257,8.85,3097.5,True
+PO-10145,SUP-007,Hoffmann Global Supply,high,SEAL-001,EPDM O-Ring Pack,Seals,2023-12-30,2024-01-15,2024-01-17,16,18,False,53,3,0.0566,67.73,3589.69,True
+PO-10146,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-001,Push-Fit Connector,Fittings,2024-03-01,2024-03-10,2024-03-10,9,9,True,276,0,0.0,74.28,20501.28,True
+PO-10147,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-02-20,2024-02-28,2024-03-06,8,15,False,78,3,0.0385,65.79,5131.62,True
+PO-10148,SUP-001,Schmidt Metallteile GmbH,low,SEAL-002,Press Fitting Seal,Seals,2024-03-15,2024-03-21,2024-03-21,6,6,True,463,7,0.0151,36.97,17117.11,True
+PO-10149,SUP-006,Bauer Präzisionsteile,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-01-03,2023-01-06,2023-01-06,3,3,True,207,5,0.0242,72.86,15082.02,True
+PO-10150,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-001,Copper Pipe 15mm,Pipes,2024-08-07,2024-08-17,2024-08-17,10,10,True,393,37,0.0941,12.77,5018.61,True
+PO-10151,SUP-005,Krause Logistik KG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-01-15,2024-01-22,2024-01-22,7,7,True,368,17,0.0462,80.44,29601.92,True
+PO-10152,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-07-17,2024-07-23,2024-07-23,6,6,True,398,9,0.0226,56.1,22327.8,True
+PO-10153,SUP-002,Fischer Kunststoff AG,medium,VALV-001,"Ball Valve 1/2""",Valves,2023-08-14,2023-08-21,2023-08-21,7,7,True,290,23,0.0793,81.47,23626.3,True
+PO-10154,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-12-27,2024-12-30,2024-12-30,3,3,True,69,0,0.0,84.58,5836.02,True
+PO-10155,SUP-002,Fischer Kunststoff AG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-03-03,2023-03-10,2023-03-14,7,11,False,318,17,0.0535,20.96,6665.28,True
+PO-10156,SUP-006,Bauer Präzisionsteile,low,FIXT-001,Push-Fit Connector,Fittings,2024-09-01,2024-09-06,2024-09-06,5,5,True,372,7,0.0188,25.02,9307.44,False
+PO-10157,SUP-002,Fischer Kunststoff AG,medium,VALV-002,Pressure Relief Valve,Valves,2023-06-19,2023-06-26,2023-06-26,7,7,True,74,0,0.0,47.95,3548.3,True
+PO-10158,SUP-007,Hoffmann Global Supply,high,FIXT-002,Elbow 90deg 15mm,Fittings,2023-11-24,2023-12-10,2023-12-10,16,16,True,139,26,0.1871,46.44,6455.16,True
+PO-10159,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2024-08-15,2024-08-27,2024-08-27,12,12,True,273,49,0.1795,45.08,12306.84,True
+PO-10160,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-02-09,2023-02-19,2023-02-19,10,10,True,338,26,0.0769,74.99,25346.62,True
+PO-10161,SUP-001,Schmidt Metallteile GmbH,low,VALV-001,"Ball Valve 1/2""",Valves,2024-07-24,2024-07-28,2024-07-28,4,4,True,94,2,0.0213,60.04,5643.76,True
+PO-10162,SUP-006,Bauer Präzisionsteile,low,VALV-002,Pressure Relief Valve,Valves,2023-01-07,2023-01-10,2023-01-10,3,3,True,363,12,0.0331,40.9,14846.7,False
+PO-10163,SUP-008,Schneider Dichtungen GmbH,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-03-12,2024-03-21,2024-03-21,9,9,True,131,10,0.0763,69.98,9167.38,True
+PO-10164,SUP-007,Hoffmann Global Supply,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-08-12,2023-08-26,2023-08-26,14,14,True,162,3,0.0185,48.69,7887.78,True
+PO-10165,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2023-12-31,2024-01-10,2024-01-14,10,14,False,463,20,0.0432,4.02,1861.26,True
+PO-10166,SUP-004,Weber International Ltd.,high,VALV-002,Pressure Relief Valve,Valves,2023-12-01,2023-12-13,2023-12-13,12,12,True,327,44,0.1346,79.82,26101.14,True
+PO-10167,SUP-003,Müller Rohre & Armaturen,low,SEAL-002,Press Fitting Seal,Seals,2023-01-17,2023-01-23,2023-01-23,6,6,True,423,10,0.0236,31.04,13129.92,False
+PO-10168,SUP-002,Fischer Kunststoff AG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-12-04,2024-12-13,2024-12-13,9,9,True,213,12,0.0563,55.92,11910.96,True
+PO-10169,SUP-005,Krause Logistik KG,medium,VALV-001,"Ball Valve 1/2""",Valves,2023-02-02,2023-02-09,2023-02-09,7,7,True,465,31,0.0667,66.06,30717.9,True
+PO-10170,SUP-006,Bauer Präzisionsteile,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-10-12,2023-10-15,2023-10-15,3,3,True,88,2,0.0227,45.98,4046.24,True
+PO-10171,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-11-17,2024-11-26,2024-11-26,9,9,True,76,7,0.0921,74.11,5632.36,False
+PO-10172,SUP-005,Krause Logistik KG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-10-30,2023-11-05,2023-11-05,6,6,True,311,13,0.0418,65.21,20280.31,True
+PO-10173,SUP-002,Fischer Kunststoff AG,medium,VALV-002,Pressure Relief Valve,Valves,2024-06-10,2024-06-18,2024-06-18,8,8,True,369,26,0.0705,74.12,27350.28,True
+PO-10174,SUP-004,Weber International Ltd.,high,SEAL-002,Press Fitting Seal,Seals,2024-06-22,2024-07-04,2024-07-10,12,18,False,358,32,0.0894,15.18,5434.44,True
+PO-10175,SUP-007,Hoffmann Global Supply,high,VALV-001,"Ball Valve 1/2""",Valves,2023-12-15,2023-12-29,2023-12-29,14,14,True,427,68,0.1593,53.37,22788.99,True
+PO-10176,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-09-30,2023-10-04,2023-10-04,4,4,True,277,2,0.0072,48.57,13453.89,True
+PO-10177,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-05-15,2024-05-18,2024-05-18,3,3,True,121,2,0.0165,28.1,3400.1,False
+PO-10178,SUP-002,Fischer Kunststoff AG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-11-16,2023-11-24,2023-11-24,8,8,True,144,9,0.0625,62.06,8936.64,True
+PO-10179,SUP-004,Weber International Ltd.,high,FIXT-002,Elbow 90deg 15mm,Fittings,2024-02-29,2024-03-13,2024-03-13,13,13,True,137,2,0.0146,14.54,1991.98,True
+PO-10180,SUP-007,Hoffmann Global Supply,high,SEAL-002,Press Fitting Seal,Seals,2023-11-06,2023-11-21,2023-11-23,15,17,False,251,47,0.1873,66.5,16691.5,True
+PO-10181,SUP-001,Schmidt Metallteile GmbH,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-08-11,2024-08-16,2024-08-16,5,5,True,243,1,0.0041,83.14,20203.02,True
+PO-10182,SUP-007,Hoffmann Global Supply,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-04-16,2023-05-02,2023-05-02,16,16,True,409,57,0.1394,55.01,22499.09,False
+PO-10183,SUP-006,Bauer Präzisionsteile,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-12-25,2023-12-30,2023-12-30,5,5,True,419,15,0.0358,79.65,33373.35,True
+PO-10184,SUP-004,Weber International Ltd.,high,FIXT-002,Elbow 90deg 15mm,Fittings,2023-04-21,2023-05-04,2023-05-04,13,13,True,133,15,0.1128,48.12,6399.96,True
+PO-10185,SUP-007,Hoffmann Global Supply,high,VALV-001,"Ball Valve 1/2""",Valves,2023-05-07,2023-05-21,2023-05-28,14,21,False,61,1,0.0164,22.89,1396.29,True
+PO-10186,SUP-002,Fischer Kunststoff AG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-07-20,2024-07-28,2024-07-28,8,8,True,441,19,0.0431,74.43,32823.63,False
+PO-10187,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2024-12-23,2025-01-04,2025-01-06,12,14,False,108,4,0.037,56.15,6064.2,True
+PO-10188,SUP-005,Krause Logistik KG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-07-26,2023-08-01,2023-08-01,6,6,True,354,25,0.0706,74.13,26242.02,True
+PO-10189,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2024-05-30,2024-06-11,2024-06-11,12,12,True,201,20,0.0995,47.32,9511.32,True
+PO-10190,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2024-05-26,2024-06-03,2024-06-03,8,8,True,469,12,0.0256,37.29,17489.01,True
+PO-10191,SUP-006,Bauer Präzisionsteile,low,FIXT-001,Push-Fit Connector,Fittings,2023-09-25,2023-09-30,2023-09-30,5,5,True,89,0,0.0,71.47,6360.83,True
+PO-10192,SUP-004,Weber International Ltd.,high,SEAL-002,Press Fitting Seal,Seals,2024-04-22,2024-05-05,2024-05-05,13,13,True,63,2,0.0317,82.64,5206.32,True
+PO-10193,SUP-005,Krause Logistik KG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-11-14,2023-11-21,2023-11-21,7,7,True,160,9,0.0563,51.42,8227.2,True
+PO-10194,SUP-007,Hoffmann Global Supply,high,FIXT-002,Elbow 90deg 15mm,Fittings,2023-05-25,2023-06-10,2023-06-15,16,21,False,115,0,0.0,73.28,8427.2,True
+PO-10195,SUP-004,Weber International Ltd.,high,SEAL-002,Press Fitting Seal,Seals,2024-11-06,2024-11-17,2024-11-21,11,15,False,59,2,0.0339,8.56,505.04,True
+PO-10196,SUP-002,Fischer Kunststoff AG,medium,VALV-002,Pressure Relief Valve,Valves,2023-12-27,2024-01-03,2024-01-03,7,7,True,313,22,0.0703,53.41,16717.33,True
+PO-10197,SUP-004,Weber International Ltd.,high,VALV-002,Pressure Relief Valve,Valves,2023-05-01,2023-05-14,2023-05-14,13,13,True,253,42,0.166,41.66,10539.98,True
+PO-10198,SUP-004,Weber International Ltd.,high,SEAL-001,EPDM O-Ring Pack,Seals,2024-12-19,2024-12-31,2025-01-06,12,18,False,453,5,0.011,24.75,11211.75,True
+PO-10199,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-01-01,2023-01-14,2023-01-20,13,19,False,294,6,0.0204,9.81,2884.14,True
+PO-10200,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-10-03,2023-10-14,2023-10-14,11,11,True,300,57,0.19,2.91,873.0,True
+PO-10201,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-08-11,2023-08-17,2023-08-17,6,6,True,456,2,0.0044,57.52,26229.12,False
+PO-10202,SUP-005,Krause Logistik KG,medium,VALV-002,Pressure Relief Valve,Valves,2023-12-02,2023-12-09,2023-12-09,7,7,True,424,7,0.0165,15.9,6741.6,True
+PO-10203,SUP-005,Krause Logistik KG,medium,SEAL-002,Press Fitting Seal,Seals,2023-12-24,2023-12-30,2023-12-30,6,6,True,224,18,0.0804,59.64,13359.36,True
+PO-10204,SUP-002,Fischer Kunststoff AG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-04-24,2023-05-02,2023-05-02,8,8,True,185,14,0.0757,73.83,13658.55,True
+PO-10205,SUP-001,Schmidt Metallteile GmbH,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-01-01,2023-01-07,2023-01-07,6,6,True,191,4,0.0209,34.99,6683.09,True
+PO-10206,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2024-12-04,2024-12-16,2024-12-18,12,14,False,218,32,0.1468,84.45,18410.1,True
+PO-10207,SUP-007,Hoffmann Global Supply,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-11-20,2023-12-05,2023-12-05,15,15,True,181,29,0.1602,57.58,10421.98,True
+PO-10208,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-12-31,2024-01-06,2024-01-06,6,6,True,359,4,0.0111,56.05,20121.95,True
+PO-10209,SUP-002,Fischer Kunststoff AG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-05-23,2023-05-30,2023-05-30,7,7,True,142,3,0.0211,39.52,5611.84,True
+PO-10210,SUP-004,Weber International Ltd.,high,FIXT-002,Elbow 90deg 15mm,Fittings,2023-09-24,2023-10-07,2023-10-14,13,20,False,379,37,0.0976,65.15,24691.85,True
+PO-10211,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2024-03-25,2024-04-03,2024-04-03,9,9,True,270,10,0.037,30.65,8275.5,True
+PO-10212,SUP-005,Krause Logistik KG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-10-27,2023-11-04,2023-11-04,8,8,True,392,28,0.0714,69.57,27271.44,True
+PO-10213,SUP-005,Krause Logistik KG,medium,FIXT-001,Push-Fit Connector,Fittings,2024-02-11,2024-02-19,2024-02-25,8,14,False,173,11,0.0636,81.26,14057.98,True
+PO-10214,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2023-05-21,2023-06-02,2023-06-09,12,19,False,430,44,0.1023,53.43,22974.9,True
+PO-10215,SUP-005,Krause Logistik KG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-06-05,2023-06-13,2023-06-13,8,8,True,155,11,0.071,52.85,8191.75,True
+PO-10216,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-12-11,2023-12-23,2023-12-28,12,17,False,123,4,0.0325,68.48,8423.04,True
+PO-10217,SUP-001,Schmidt Metallteile GmbH,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-03-20,2024-03-25,2024-03-25,5,5,True,133,4,0.0301,42.39,5637.87,True
+PO-10218,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-001,Push-Fit Connector,Fittings,2023-12-28,2024-01-07,2024-01-07,10,10,True,424,21,0.0495,55.13,23375.12,True
+PO-10219,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-01-10,2023-01-18,2023-01-18,8,8,True,219,7,0.032,76.75,16808.25,True
+PO-10220,SUP-005,Krause Logistik KG,medium,VALV-002,Pressure Relief Valve,Valves,2023-02-19,2023-02-27,2023-02-27,8,8,True,216,2,0.0093,57.57,12435.12,True
+PO-10221,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-08-30,2023-09-03,2023-09-03,4,4,True,157,1,0.0064,73.68,11567.76,True
+PO-10222,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-001,Push-Fit Connector,Fittings,2024-10-16,2024-10-26,2024-10-26,10,10,True,209,5,0.0239,55.13,11522.17,True
+PO-10223,SUP-001,Schmidt Metallteile GmbH,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-11-16,2023-11-22,2023-11-22,6,6,True,195,3,0.0154,35.86,6992.7,True
+PO-10224,SUP-001,Schmidt Metallteile GmbH,low,VALV-001,"Ball Valve 1/2""",Valves,2023-10-07,2023-10-12,2023-10-12,5,5,True,267,9,0.0337,30.32,8095.44,True
+PO-10225,SUP-004,Weber International Ltd.,high,SEAL-002,Press Fitting Seal,Seals,2023-12-19,2024-01-01,2024-01-01,13,13,True,402,28,0.0697,21.2,8522.4,True
+PO-10226,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2024-10-03,2024-10-07,2024-10-13,4,10,False,313,8,0.0256,75.11,23509.43,True
+PO-10227,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-09-16,2023-09-23,2023-09-23,7,7,True,264,9,0.0341,33.72,8902.08,True
+PO-10228,SUP-007,Hoffmann Global Supply,high,FIXT-002,Elbow 90deg 15mm,Fittings,2023-04-26,2023-05-11,2023-05-11,15,15,True,85,10,0.1176,81.84,6956.4,True
+PO-10229,SUP-007,Hoffmann Global Supply,high,SEAL-002,Press Fitting Seal,Seals,2024-09-09,2024-09-24,2024-09-24,15,15,True,104,7,0.0673,64.88,6747.52,True
+PO-10230,SUP-004,Weber International Ltd.,high,VALV-001,"Ball Valve 1/2""",Valves,2024-10-17,2024-10-29,2024-11-03,12,17,False,164,32,0.1951,15.07,2471.48,True
+PO-10231,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2024-09-24,2024-10-06,2024-10-06,12,12,True,455,68,0.1495,9.85,4481.75,True
+PO-10232,SUP-008,Schneider Dichtungen GmbH,medium,VALV-002,Pressure Relief Valve,Valves,2024-07-03,2024-07-12,2024-07-17,9,14,False,200,7,0.035,24.21,4842.0,True
+PO-10233,SUP-003,Müller Rohre & Armaturen,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-03-24,2024-03-31,2024-03-31,7,7,True,239,5,0.0209,39.39,9414.21,True
+PO-10234,SUP-003,Müller Rohre & Armaturen,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-05-23,2023-05-29,2023-05-29,6,6,True,293,10,0.0341,19.7,5772.1,True
+PO-10235,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-06-07,2023-06-15,2023-06-15,8,8,True,183,3,0.0164,14.16,2591.28,True
+PO-10236,SUP-007,Hoffmann Global Supply,high,FIXT-001,Push-Fit Connector,Fittings,2024-11-05,2024-11-20,2024-11-24,15,19,False,255,32,0.1255,82.99,21162.45,True
+PO-10237,SUP-001,Schmidt Metallteile GmbH,low,FIXT-001,Push-Fit Connector,Fittings,2023-10-16,2023-10-22,2023-10-22,6,6,True,159,5,0.0314,76.61,12180.99,True
+PO-10238,SUP-003,Müller Rohre & Armaturen,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-01-25,2023-01-30,2023-01-30,5,5,True,441,8,0.0181,41.95,18499.95,True
+PO-10239,SUP-005,Krause Logistik KG,medium,VALV-002,Pressure Relief Valve,Valves,2023-01-12,2023-01-18,2023-01-18,6,6,True,69,0,0.0,38.76,2674.44,True
+PO-10240,SUP-005,Krause Logistik KG,medium,VALV-001,"Ball Valve 1/2""",Valves,2023-09-11,2023-09-18,2023-09-18,7,7,True,336,26,0.0774,7.56,2540.16,True
+PO-10241,SUP-002,Fischer Kunststoff AG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-11-20,2024-11-27,2024-11-27,7,7,True,132,0,0.0,16.58,2188.56,True
+PO-10242,SUP-006,Bauer Präzisionsteile,low,VALV-001,"Ball Valve 1/2""",Valves,2023-09-20,2023-09-23,2023-09-23,3,3,True,152,1,0.0066,21.38,3249.76,True
+PO-10243,SUP-005,Krause Logistik KG,medium,VALV-002,Pressure Relief Valve,Valves,2024-02-24,2024-03-02,2024-03-02,7,7,True,112,4,0.0357,67.85,7599.2,True
+PO-10244,SUP-003,Müller Rohre & Armaturen,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-06-04,2023-06-10,2023-06-10,6,6,True,278,10,0.036,34.43,9571.54,True
+PO-10245,SUP-006,Bauer Präzisionsteile,low,VALV-001,"Ball Valve 1/2""",Valves,2024-02-09,2024-02-13,2024-02-13,4,4,True,198,1,0.0051,65.22,12913.56,True
+PO-10246,SUP-001,Schmidt Metallteile GmbH,low,FIXT-001,Push-Fit Connector,Fittings,2023-08-01,2023-08-06,2023-08-06,5,5,True,262,0,0.0,18.91,4954.42,False
+PO-10247,SUP-001,Schmidt Metallteile GmbH,low,VALV-001,"Ball Valve 1/2""",Valves,2024-05-11,2024-05-17,2024-05-17,6,6,True,357,2,0.0056,24.45,8728.65,True
+PO-10248,SUP-002,Fischer Kunststoff AG,medium,VALV-002,Pressure Relief Valve,Valves,2024-09-15,2024-09-23,2024-09-23,8,8,True,282,24,0.0851,53.16,14991.12,True
+PO-10249,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2024-09-16,2024-09-23,2024-09-25,7,9,False,474,20,0.0422,59.27,28093.98,True
+PO-10250,SUP-002,Fischer Kunststoff AG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-08-20,2023-08-27,2023-08-27,7,7,True,296,26,0.0878,56.9,16842.4,True
+PO-10251,SUP-007,Hoffmann Global Supply,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-06-22,2023-07-08,2023-07-13,16,21,False,498,4,0.008,39.07,19456.86,False
+PO-10252,SUP-007,Hoffmann Global Supply,high,VALV-001,"Ball Valve 1/2""",Valves,2024-01-20,2024-02-03,2024-02-03,14,14,True,201,20,0.0995,5.43,1091.43,True
+PO-10253,SUP-007,Hoffmann Global Supply,high,FIXT-002,Elbow 90deg 15mm,Fittings,2023-08-16,2023-09-01,2023-09-01,16,16,True,260,9,0.0346,57.06,14835.6,True
+PO-10254,SUP-005,Krause Logistik KG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-12-16,2023-12-23,2023-12-23,7,7,True,369,3,0.0081,37.5,13837.5,True
+PO-10255,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-10-09,2024-10-13,2024-10-13,4,4,True,483,4,0.0083,3.36,1622.88,True
+PO-10256,SUP-001,Schmidt Metallteile GmbH,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-08-05,2023-08-10,2023-08-10,5,5,True,304,9,0.0296,82.4,25049.6,True
+PO-10257,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-01-09,2024-01-17,2024-01-17,8,8,True,400,24,0.06,45.46,18184.0,True
+PO-10258,SUP-002,Fischer Kunststoff AG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-09-30,2023-10-08,2023-10-08,8,8,True,202,11,0.0545,33.52,6771.04,True
+PO-10259,SUP-002,Fischer Kunststoff AG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-02-18,2024-02-25,2024-02-25,7,7,True,484,31,0.064,75.67,36624.28,True
+PO-10260,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-09-22,2024-10-02,2024-10-02,10,10,True,282,17,0.0603,47.38,13361.16,True
+PO-10261,SUP-006,Bauer Präzisionsteile,low,SEAL-002,Press Fitting Seal,Seals,2023-10-29,2023-11-02,2023-11-02,4,4,True,285,3,0.0105,6.94,1977.9,True
+PO-10262,SUP-001,Schmidt Metallteile GmbH,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-04-10,2024-04-15,2024-04-15,5,5,True,485,4,0.0082,69.97,33935.45,True
+PO-10263,SUP-008,Schneider Dichtungen GmbH,medium,VALV-002,Pressure Relief Valve,Valves,2024-04-05,2024-04-14,2024-04-14,9,9,True,238,14,0.0588,63.83,15191.54,True
+PO-10264,SUP-007,Hoffmann Global Supply,high,FIXT-001,Push-Fit Connector,Fittings,2023-01-30,2023-02-15,2023-02-15,16,16,True,330,10,0.0303,65.29,21545.7,True
+PO-10265,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2023-05-09,2023-05-17,2023-05-17,8,8,True,437,17,0.0389,10.68,4667.16,True
+PO-10266,SUP-003,Müller Rohre & Armaturen,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-01-10,2023-01-15,2023-01-15,5,5,True,280,7,0.025,53.24,14907.2,True
+PO-10267,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2024-08-20,2024-08-25,2024-08-25,5,5,True,103,0,0.0,71.2,7333.6,True
+PO-10268,SUP-005,Krause Logistik KG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-01-20,2023-01-28,2023-01-28,8,8,True,272,23,0.0846,27.71,7537.12,True
+PO-10269,SUP-004,Weber International Ltd.,high,SEAL-001,EPDM O-Ring Pack,Seals,2024-01-16,2024-01-28,2024-01-28,12,12,True,276,36,0.1304,13.87,3828.12,False
+PO-10270,SUP-007,Hoffmann Global Supply,high,FIXT-001,Push-Fit Connector,Fittings,2023-07-21,2023-08-05,2023-08-10,15,20,False,106,8,0.0755,34.48,3654.88,True
+PO-10271,SUP-005,Krause Logistik KG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-05-29,2024-06-04,2024-06-04,6,6,True,104,0,0.0,60.49,6290.96,True
+PO-10272,SUP-006,Bauer Präzisionsteile,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-06-08,2023-06-13,2023-06-13,5,5,True,415,11,0.0265,14.79,6137.85,True
+PO-10273,SUP-002,Fischer Kunststoff AG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-04-27,2023-05-06,2023-05-06,9,9,True,68,1,0.0147,38.82,2639.76,True
+PO-10274,SUP-007,Hoffmann Global Supply,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-05-26,2023-06-11,2023-06-15,16,20,False,300,44,0.1467,65.74,19722.0,True
+PO-10275,SUP-001,Schmidt Metallteile GmbH,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-07-17,2023-07-23,2023-07-23,6,6,True,247,7,0.0283,84.27,20814.69,True
+PO-10276,SUP-002,Fischer Kunststoff AG,medium,SEAL-002,Press Fitting Seal,Seals,2024-05-19,2024-05-26,2024-05-26,7,7,True,308,0,0.0,4.66,1435.28,True
+PO-10277,SUP-005,Krause Logistik KG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-07-16,2024-07-22,2024-07-26,6,10,False,351,13,0.037,21.11,7409.61,True
+PO-10278,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-03-15,2023-03-26,2023-03-26,11,11,True,139,20,0.1439,9.15,1271.85,True
+PO-10279,SUP-001,Schmidt Metallteile GmbH,low,SEAL-002,Press Fitting Seal,Seals,2023-11-09,2023-11-14,2023-11-21,5,12,False,365,5,0.0137,13.34,4869.1,True
+PO-10280,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2024-12-25,2024-12-30,2024-12-30,5,5,True,155,1,0.0065,25.78,3995.9,True
+PO-10281,SUP-004,Weber International Ltd.,high,FIXT-002,Elbow 90deg 15mm,Fittings,2024-09-23,2024-10-05,2024-10-12,12,19,False,155,8,0.0516,72.2,11191.0,True
+PO-10282,SUP-004,Weber International Ltd.,high,SEAL-002,Press Fitting Seal,Seals,2024-09-10,2024-09-22,2024-09-22,12,12,True,490,30,0.0612,31.04,15209.6,True
+PO-10283,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-02-03,2024-02-07,2024-02-07,4,4,True,252,5,0.0198,81.98,20658.96,True
+PO-10284,SUP-002,Fischer Kunststoff AG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-05-06,2024-05-14,2024-05-14,8,8,True,363,5,0.0138,83.31,30241.53,True
+PO-10285,SUP-005,Krause Logistik KG,medium,SEAL-002,Press Fitting Seal,Seals,2023-11-01,2023-11-09,2023-11-09,8,8,True,390,13,0.0333,52.7,20553.0,True
+PO-10286,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2024-12-08,2024-12-17,2024-12-17,9,9,True,376,20,0.0532,58.91,22150.16,True
+PO-10287,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-01-28,2023-02-04,2023-02-04,7,7,True,472,25,0.053,60.9,28744.8,True
+PO-10288,SUP-006,Bauer Präzisionsteile,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-07-30,2024-08-03,2024-08-03,4,4,True,51,0,0.0,57.3,2922.3,True
+PO-10289,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2024-03-10,2024-03-18,2024-03-18,8,8,True,125,6,0.048,7.64,955.0,True
+PO-10290,SUP-002,Fischer Kunststoff AG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-12-04,2024-12-13,2024-12-13,9,9,True,497,43,0.0865,30.53,15173.41,True
+PO-10291,SUP-004,Weber International Ltd.,high,FIXT-002,Elbow 90deg 15mm,Fittings,2023-08-02,2023-08-15,2023-08-21,13,19,False,128,22,0.1719,75.07,9608.96,True
+PO-10292,SUP-001,Schmidt Metallteile GmbH,low,SEAL-002,Press Fitting Seal,Seals,2023-02-27,2023-03-04,2023-03-04,5,5,True,115,2,0.0174,7.88,906.2,True
+PO-10293,SUP-001,Schmidt Metallteile GmbH,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-08-15,2023-08-20,2023-08-20,5,5,True,328,4,0.0122,70.32,23064.96,True
+PO-10294,SUP-003,Müller Rohre & Armaturen,low,VALV-001,"Ball Valve 1/2""",Valves,2024-05-18,2024-05-24,2024-05-24,6,6,True,346,8,0.0231,50.15,17351.9,True
+PO-10295,SUP-007,Hoffmann Global Supply,high,SEAL-001,EPDM O-Ring Pack,Seals,2023-08-26,2023-09-10,2023-09-15,15,20,False,317,38,0.1199,16.2,5135.4,True
+PO-10296,SUP-003,Müller Rohre & Armaturen,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-02-09,2023-02-15,2023-02-15,6,6,True,178,2,0.0112,5.25,934.5,True
+PO-10297,SUP-008,Schneider Dichtungen GmbH,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-09-04,2024-09-13,2024-09-13,9,9,True,295,3,0.0102,73.19,21591.05,True
+PO-10298,SUP-007,Hoffmann Global Supply,high,SEAL-002,Press Fitting Seal,Seals,2023-05-09,2023-05-25,2023-05-25,16,16,True,70,4,0.0571,62.33,4363.1,True
+PO-10299,SUP-002,Fischer Kunststoff AG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-07-24,2024-08-02,2024-08-08,9,15,False,74,0,0.0,10.18,753.32,True
+PO-10300,SUP-002,Fischer Kunststoff AG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-10-06,2024-10-15,2024-10-21,9,15,False,314,16,0.051,70.07,22001.98,True
+PO-10301,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2024-01-30,2024-02-11,2024-02-11,12,12,True,413,21,0.0508,28.41,11733.33,True
+PO-10302,SUP-004,Weber International Ltd.,high,VALV-002,Pressure Relief Valve,Valves,2023-10-04,2023-10-16,2023-10-22,12,18,False,212,14,0.066,14.21,3012.52,True
+PO-10303,SUP-002,Fischer Kunststoff AG,medium,VALV-001,"Ball Valve 1/2""",Valves,2023-10-06,2023-10-14,2023-10-14,8,8,True,157,15,0.0955,41.38,6496.66,True
+PO-10304,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2023-09-29,2023-10-11,2023-10-16,12,17,False,96,16,0.1667,16.93,1625.28,True
+PO-10305,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-10-01,2024-10-11,2024-10-11,10,10,True,491,14,0.0285,44.79,21991.89,True
+PO-10306,SUP-003,Müller Rohre & Armaturen,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-09-20,2024-09-25,2024-09-25,5,5,True,191,1,0.0052,77.05,14716.55,True
+PO-10307,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2023-07-26,2023-08-07,2023-08-07,12,12,True,183,20,0.1093,57.84,10584.72,True
+PO-10308,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-07-03,2024-07-12,2024-07-12,9,9,True,377,15,0.0398,13.13,4950.01,True
+PO-10309,SUP-003,Müller Rohre & Armaturen,low,VALV-002,Pressure Relief Valve,Valves,2023-10-08,2023-10-14,2023-10-14,6,6,True,264,7,0.0265,13.01,3434.64,True
+PO-10310,SUP-003,Müller Rohre & Armaturen,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-10-02,2023-10-07,2023-10-07,5,5,True,222,6,0.027,81.93,18188.46,True
+PO-10311,SUP-007,Hoffmann Global Supply,high,PIPE-001,Copper Pipe 15mm,Pipes,2024-05-22,2024-06-07,2024-06-07,16,16,True,447,10,0.0224,20.52,9172.44,True
+PO-10312,SUP-001,Schmidt Metallteile GmbH,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-09-22,2023-09-26,2023-09-26,4,4,True,138,0,0.0,70.52,9731.76,True
+PO-10313,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-02-10,2023-02-15,2023-02-15,5,5,True,313,4,0.0128,74.87,23434.31,True
+PO-10314,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-09-12,2023-09-22,2023-09-22,10,10,True,111,0,0.0,68.05,7553.55,True
+PO-10315,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-07-15,2024-07-23,2024-07-23,8,8,True,374,8,0.0214,23.32,8721.68,True
+PO-10316,SUP-005,Krause Logistik KG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-07-20,2023-07-26,2023-07-30,6,10,False,265,0,0.0,81.36,21560.4,True
+PO-10317,SUP-008,Schneider Dichtungen GmbH,medium,VALV-002,Pressure Relief Valve,Valves,2024-03-13,2024-03-22,2024-03-22,9,9,True,410,6,0.0146,30.62,12554.2,True
+PO-10318,SUP-005,Krause Logistik KG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-07-03,2024-07-09,2024-07-09,6,6,True,181,2,0.011,58.31,10554.11,True
+PO-10319,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2024-08-01,2024-08-13,2024-08-16,12,15,False,396,40,0.101,63.85,25284.6,True
+PO-10320,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-10-26,2024-10-30,2024-10-30,4,4,True,317,11,0.0347,52.34,16591.78,True
+PO-10321,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2024-03-16,2024-03-23,2024-03-23,7,7,True,404,24,0.0594,18.68,7546.72,True
+PO-10322,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-001,Copper Pipe 15mm,Pipes,2024-10-14,2024-10-22,2024-10-29,8,15,False,418,1,0.0024,20.57,8598.26,True
+PO-10323,SUP-002,Fischer Kunststoff AG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-12-07,2023-12-14,2023-12-14,7,7,True,367,1,0.0027,35.24,12933.08,True
+PO-10324,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-001,Push-Fit Connector,Fittings,2024-07-06,2024-07-14,2024-07-18,8,12,False,108,9,0.0833,44.36,4790.88,True
+PO-10325,SUP-003,Müller Rohre & Armaturen,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-10-20,2024-10-27,2024-10-27,7,7,True,95,1,0.0105,16.13,1532.35,True
+PO-10326,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2023-04-19,2023-04-27,2023-04-27,8,8,True,350,33,0.0943,61.77,21619.5,True
+PO-10327,SUP-001,Schmidt Metallteile GmbH,low,VALV-001,"Ball Valve 1/2""",Valves,2023-06-23,2023-06-29,2023-06-29,6,6,True,480,11,0.0229,7.41,3556.8,True
+PO-10328,SUP-002,Fischer Kunststoff AG,medium,VALV-002,Pressure Relief Valve,Valves,2024-11-03,2024-11-12,2024-11-12,9,9,True,196,10,0.051,51.7,10133.2,True
+PO-10329,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2024-10-16,2024-10-27,2024-10-27,11,11,True,496,64,0.129,55.8,27676.8,True
+PO-10330,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-07-29,2023-08-06,2023-08-06,8,8,True,426,7,0.0164,15.23,6487.98,True
+PO-10331,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-08-27,2024-09-03,2024-09-03,7,7,True,399,0,0.0,14.23,5677.77,True
+PO-10332,SUP-003,Müller Rohre & Armaturen,low,VALV-001,"Ball Valve 1/2""",Valves,2023-11-07,2023-11-12,2023-11-12,5,5,True,406,9,0.0222,12.65,5135.9,True
+PO-10333,SUP-007,Hoffmann Global Supply,high,SEAL-002,Press Fitting Seal,Seals,2024-05-19,2024-06-03,2024-06-03,15,15,True,487,39,0.0801,72.78,35443.86,True
+PO-10334,SUP-001,Schmidt Metallteile GmbH,low,FIXT-001,Push-Fit Connector,Fittings,2024-09-25,2024-09-30,2024-09-30,5,5,True,403,7,0.0174,34.2,13782.6,True
+PO-10335,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-01-23,2023-01-29,2023-01-29,6,6,True,362,5,0.0138,4.76,1723.12,True
+PO-10336,SUP-002,Fischer Kunststoff AG,medium,SEAL-002,Press Fitting Seal,Seals,2024-10-29,2024-11-05,2024-11-05,7,7,True,470,16,0.034,75.93,35687.1,True
+PO-10337,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-03-19,2024-03-26,2024-03-26,7,7,True,476,37,0.0777,34.33,16341.08,True
+PO-10338,SUP-001,Schmidt Metallteile GmbH,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-07-29,2024-08-02,2024-08-02,4,4,True,225,8,0.0356,20.48,4608.0,True
+PO-10339,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2024-03-09,2024-03-20,2024-03-24,11,15,False,116,8,0.069,82.03,9515.48,False
+PO-10340,SUP-006,Bauer Präzisionsteile,low,VALV-001,"Ball Valve 1/2""",Valves,2024-03-23,2024-03-28,2024-03-28,5,5,True,355,2,0.0056,28.34,10060.7,True
+PO-10341,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-05-02,2023-05-09,2023-05-09,7,7,True,173,15,0.0867,28.4,4913.2,True
+PO-10342,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2024-01-04,2024-01-15,2024-01-22,11,18,False,450,30,0.0667,34.3,15435.0,True
+PO-10343,SUP-005,Krause Logistik KG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-11-01,2023-11-07,2023-11-07,6,6,True,391,32,0.0818,22.87,8942.17,True
+PO-10344,SUP-002,Fischer Kunststoff AG,medium,SEAL-002,Press Fitting Seal,Seals,2023-04-19,2023-04-28,2023-05-04,9,15,False,479,11,0.023,58.38,27964.02,True
+PO-10345,SUP-004,Weber International Ltd.,high,VALV-001,"Ball Valve 1/2""",Valves,2024-01-20,2024-02-02,2024-02-06,13,17,False,446,43,0.0964,54.16,24155.36,True
+PO-10346,SUP-001,Schmidt Metallteile GmbH,low,VALV-001,"Ball Valve 1/2""",Valves,2023-04-14,2023-04-19,2023-04-19,5,5,True,299,8,0.0268,40.57,12130.43,True
+PO-10347,SUP-005,Krause Logistik KG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2024-09-04,2024-09-11,2024-09-11,7,7,True,113,6,0.0531,51.42,5810.46,True
+PO-10348,SUP-007,Hoffmann Global Supply,high,VALV-002,Pressure Relief Valve,Valves,2023-09-03,2023-09-17,2023-09-17,14,14,True,54,2,0.037,68.02,3673.08,True
+PO-10349,SUP-004,Weber International Ltd.,high,FIXT-002,Elbow 90deg 15mm,Fittings,2024-06-12,2024-06-25,2024-06-25,13,13,True,353,53,0.1501,10.23,3611.19,True
+PO-10350,SUP-007,Hoffmann Global Supply,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-08-16,2023-08-31,2023-08-31,15,15,True,495,38,0.0768,65.35,32348.25,True
+PO-10351,SUP-001,Schmidt Metallteile GmbH,low,VALV-001,"Ball Valve 1/2""",Valves,2024-04-09,2024-04-15,2024-04-15,6,6,True,268,8,0.0299,36.13,9682.84,True
+PO-10352,SUP-004,Weber International Ltd.,high,SEAL-001,EPDM O-Ring Pack,Seals,2023-12-31,2024-01-13,2024-01-15,13,15,False,377,33,0.0875,72.95,27502.15,True
+PO-10353,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2023-05-27,2023-06-06,2023-06-06,10,10,True,492,47,0.0955,5.04,2479.68,True
+PO-10354,SUP-007,Hoffmann Global Supply,high,SEAL-002,Press Fitting Seal,Seals,2023-04-24,2023-05-09,2023-05-09,15,15,True,220,23,0.1045,74.44,16376.8,True
+PO-10355,SUP-005,Krause Logistik KG,medium,SEAL-002,Press Fitting Seal,Seals,2023-07-23,2023-07-30,2023-07-30,7,7,True,84,8,0.0952,19.88,1669.92,False
+PO-10356,SUP-003,Müller Rohre & Armaturen,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-09-21,2023-09-27,2023-09-27,6,6,True,376,0,0.0,2.69,1011.44,True
+PO-10357,SUP-005,Krause Logistik KG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2024-07-02,2024-07-08,2024-07-08,6,6,True,438,35,0.0799,70.31,30795.78,True
+PO-10358,SUP-003,Müller Rohre & Armaturen,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-12-03,2024-12-10,2024-12-10,7,7,True,479,13,0.0271,25.63,12276.77,False
+PO-10359,SUP-003,Müller Rohre & Armaturen,low,VALV-001,"Ball Valve 1/2""",Valves,2024-08-06,2024-08-13,2024-08-13,7,7,True,222,0,0.0,60.06,13333.32,True
+PO-10360,SUP-006,Bauer Präzisionsteile,low,SEAL-002,Press Fitting Seal,Seals,2023-03-07,2023-03-10,2023-03-10,3,3,True,283,5,0.0177,22.48,6361.84,True
+PO-10361,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-07-03,2023-07-12,2023-07-12,9,9,True,339,27,0.0796,25.68,8705.52,True
+PO-10362,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-01-27,2023-01-31,2023-01-31,4,4,True,102,2,0.0196,71.98,7341.96,True
+PO-10363,SUP-005,Krause Logistik KG,medium,FIXT-001,Push-Fit Connector,Fittings,2024-02-07,2024-02-13,2024-02-13,6,6,True,330,29,0.0879,12.64,4171.2,True
+PO-10364,SUP-006,Bauer Präzisionsteile,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-01-10,2023-01-14,2023-01-17,4,7,False,63,0,0.0,40.71,2564.73,True
+PO-10365,SUP-007,Hoffmann Global Supply,high,FIXT-002,Elbow 90deg 15mm,Fittings,2023-01-30,2023-02-15,2023-02-19,16,20,False,313,31,0.099,24.89,7790.57,True
+PO-10366,SUP-002,Fischer Kunststoff AG,medium,SEAL-002,Press Fitting Seal,Seals,2023-12-20,2023-12-29,2024-01-03,9,14,False,98,0,0.0,28.7,2812.6,True
+PO-10367,SUP-002,Fischer Kunststoff AG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-04-06,2023-04-14,2023-04-14,8,8,True,392,18,0.0459,50.62,19843.04,True
+PO-10368,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-06-06,2023-06-19,2023-06-19,13,13,True,156,26,0.1667,24.81,3870.36,True
+PO-10369,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-05-21,2023-06-03,2023-06-03,13,13,True,161,21,0.1304,79.75,12839.75,True
+PO-10370,SUP-007,Hoffmann Global Supply,high,PIPE-002,Steel Pipe 22mm,Pipes,2024-12-29,2025-01-14,2025-01-20,16,22,False,454,16,0.0352,74.73,33927.42,True
+PO-10371,SUP-003,Müller Rohre & Armaturen,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-03-27,2024-04-03,2024-04-03,7,7,True,250,7,0.028,11.19,2797.5,True
+PO-10372,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-04-11,2023-04-19,2023-04-19,8,8,True,77,3,0.039,73.93,5692.61,True
+PO-10373,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-08-15,2023-08-23,2023-08-25,8,10,False,62,5,0.0806,36.86,2285.32,True
+PO-10374,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-11-25,2023-12-04,2023-12-04,9,9,True,489,38,0.0777,55.94,27354.66,True
+PO-10375,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-12-28,2025-01-05,2025-01-09,8,12,False,77,0,0.0,82.9,6383.3,True
+PO-10376,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-03-06,2023-03-09,2023-03-09,3,3,True,276,9,0.0326,57.52,15875.52,True
+PO-10377,SUP-005,Krause Logistik KG,medium,VALV-002,Pressure Relief Valve,Valves,2023-02-22,2023-03-01,2023-03-07,7,13,False,151,0,0.0,30.33,4579.83,True
+PO-10378,SUP-002,Fischer Kunststoff AG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-01-22,2024-01-31,2024-01-31,9,9,True,317,0,0.0,51.6,16357.2,True
+PO-10379,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-07-07,2023-07-19,2023-07-19,12,12,True,389,20,0.0514,40.03,15571.67,True
+PO-10380,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2024-05-16,2024-05-27,2024-06-03,11,18,False,282,14,0.0496,12.42,3502.44,False
+PO-10381,SUP-005,Krause Logistik KG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-02-02,2023-02-10,2023-02-10,8,8,True,293,16,0.0546,55.45,16246.85,True
+PO-10382,SUP-005,Krause Logistik KG,medium,VALV-002,Pressure Relief Valve,Valves,2024-10-08,2024-10-16,2024-10-16,8,8,True,209,16,0.0766,76.63,16015.67,True
+PO-10383,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-001,Push-Fit Connector,Fittings,2023-08-02,2023-08-12,2023-08-12,10,10,True,244,22,0.0902,61.09,14905.96,True
+PO-10384,SUP-005,Krause Logistik KG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-05-04,2023-05-12,2023-05-12,8,8,True,53,4,0.0755,81.52,4320.56,True
+PO-10385,SUP-008,Schneider Dichtungen GmbH,medium,VALV-002,Pressure Relief Valve,Valves,2024-03-09,2024-03-19,2024-03-19,10,10,True,77,1,0.013,66.6,5128.2,True
+PO-10386,SUP-007,Hoffmann Global Supply,high,PIPE-002,Steel Pipe 22mm,Pipes,2024-03-16,2024-03-31,2024-03-31,15,15,True,350,68,0.1943,25.29,8851.5,True
+PO-10387,SUP-004,Weber International Ltd.,high,SEAL-001,EPDM O-Ring Pack,Seals,2024-02-16,2024-02-29,2024-03-02,13,15,False,224,13,0.058,78.19,17514.56,True
+PO-10388,SUP-007,Hoffmann Global Supply,high,SEAL-001,EPDM O-Ring Pack,Seals,2024-05-03,2024-05-18,2024-05-20,15,17,False,419,52,0.1241,3.15,1319.85,True
+PO-10389,SUP-006,Bauer Präzisionsteile,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-02-26,2024-03-02,2024-03-02,5,5,True,273,7,0.0256,43.8,11957.4,True
+PO-10390,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-08-20,2024-08-24,2024-08-24,4,4,True,251,4,0.0159,17.38,4362.38,True
+PO-10391,SUP-006,Bauer Präzisionsteile,low,FIXT-001,Push-Fit Connector,Fittings,2024-06-03,2024-06-06,2024-06-08,3,5,False,258,8,0.031,83.45,21530.1,True
+PO-10392,SUP-004,Weber International Ltd.,high,VALV-002,Pressure Relief Valve,Valves,2024-08-04,2024-08-15,2024-08-19,11,15,False,301,42,0.1395,84.57,25455.57,True
+PO-10393,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2023-05-19,2023-05-23,2023-05-23,4,4,True,68,0,0.0,17.03,1158.04,False
+PO-10394,SUP-006,Bauer Präzisionsteile,low,VALV-002,Pressure Relief Valve,Valves,2024-09-11,2024-09-16,2024-09-16,5,5,True,174,6,0.0345,80.36,13982.64,True
+PO-10395,SUP-002,Fischer Kunststoff AG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-09-04,2023-09-11,2023-09-11,7,7,True,401,9,0.0224,28.07,11256.07,True
+PO-10396,SUP-001,Schmidt Metallteile GmbH,low,VALV-001,"Ball Valve 1/2""",Valves,2024-08-18,2024-08-23,2024-08-23,5,5,True,135,4,0.0296,52.25,7053.75,True
+PO-10397,SUP-004,Weber International Ltd.,high,SEAL-002,Press Fitting Seal,Seals,2023-06-05,2023-06-17,2023-06-17,12,12,True,265,9,0.034,69.17,18330.05,True
+PO-10398,SUP-008,Schneider Dichtungen GmbH,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-09-04,2024-09-14,2024-09-18,10,14,False,413,4,0.0097,57.15,23602.95,True
+PO-10399,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-10-28,2024-11-06,2024-11-06,9,9,True,209,10,0.0478,44.8,9363.2,True
+PO-10400,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2024-08-28,2024-09-10,2024-09-14,13,17,False,395,62,0.157,31.96,12624.2,True
+PO-10401,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2023-04-01,2023-04-13,2023-04-13,12,12,True,163,28,0.1718,76.93,12539.59,True
+PO-10402,SUP-007,Hoffmann Global Supply,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-11-11,2023-11-27,2023-11-27,16,16,True,438,15,0.0342,5.47,2395.86,True
+PO-10403,SUP-005,Krause Logistik KG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2024-08-02,2024-08-08,2024-08-08,6,6,True,361,18,0.0499,50.36,18179.96,True
+PO-10404,SUP-003,Müller Rohre & Armaturen,low,FIXT-001,Push-Fit Connector,Fittings,2024-11-30,2024-12-07,2024-12-07,7,7,True,376,6,0.016,72.28,27177.28,True
+PO-10405,SUP-007,Hoffmann Global Supply,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-03-25,2023-04-10,2023-04-10,16,16,True,158,5,0.0316,51.27,8100.66,True
+PO-10406,SUP-007,Hoffmann Global Supply,high,FIXT-002,Elbow 90deg 15mm,Fittings,2024-05-08,2024-05-22,2024-05-25,14,17,False,320,29,0.0906,75.06,24019.2,True
+PO-10407,SUP-003,Müller Rohre & Armaturen,low,SEAL-002,Press Fitting Seal,Seals,2023-07-08,2023-07-14,2023-07-14,6,6,True,73,0,0.0,56.51,4125.23,True
+PO-10408,SUP-007,Hoffmann Global Supply,high,FIXT-001,Push-Fit Connector,Fittings,2023-09-05,2023-09-21,2023-09-21,16,16,True,400,61,0.1525,13.05,5220.0,False
+PO-10409,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2024-07-19,2024-07-24,2024-07-27,5,8,False,217,2,0.0092,21.16,4591.72,True
+PO-10410,SUP-003,Müller Rohre & Armaturen,low,SEAL-002,Press Fitting Seal,Seals,2024-11-21,2024-11-27,2024-11-27,6,6,True,381,10,0.0262,21.0,8001.0,True
+PO-10411,SUP-005,Krause Logistik KG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-12-09,2023-12-16,2023-12-16,7,7,True,239,6,0.0251,69.99,16727.61,True
+PO-10412,SUP-001,Schmidt Metallteile GmbH,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-05-10,2024-05-16,2024-05-16,6,6,True,277,8,0.0289,83.75,23198.75,True
+PO-10413,SUP-005,Krause Logistik KG,medium,SEAL-002,Press Fitting Seal,Seals,2023-09-29,2023-10-07,2023-10-07,8,8,True,475,7,0.0147,61.02,28984.5,True
+PO-10414,SUP-001,Schmidt Metallteile GmbH,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-10-12,2024-10-17,2024-10-17,5,5,True,322,3,0.0093,52.13,16785.86,True
+PO-10415,SUP-005,Krause Logistik KG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-04-12,2023-04-18,2023-04-18,6,6,True,266,25,0.094,16.7,4442.2,True
+PO-10416,SUP-002,Fischer Kunststoff AG,medium,SEAL-002,Press Fitting Seal,Seals,2023-04-06,2023-04-15,2023-04-15,9,9,True,50,0,0.0,12.57,628.5,True
+PO-10417,SUP-001,Schmidt Metallteile GmbH,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-02-22,2024-02-28,2024-03-01,6,8,False,190,5,0.0263,20.1,3819.0,True
+PO-10418,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-07-14,2024-07-20,2024-07-20,6,6,True,241,3,0.0124,43.44,10469.04,True
+PO-10419,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2023-05-08,2023-05-17,2023-05-21,9,13,False,421,33,0.0784,12.76,5371.96,True
+PO-10420,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2024-12-28,2025-01-06,2025-01-06,9,9,True,439,42,0.0957,47.58,20887.62,False
+PO-10421,SUP-001,Schmidt Metallteile GmbH,low,FIXT-001,Push-Fit Connector,Fittings,2023-10-10,2023-10-15,2023-10-15,5,5,True,289,6,0.0208,68.5,19796.5,True
+PO-10422,SUP-003,Müller Rohre & Armaturen,low,VALV-001,"Ball Valve 1/2""",Valves,2024-04-02,2024-04-07,2024-04-07,5,5,True,477,16,0.0335,26.43,12607.11,True
+PO-10423,SUP-005,Krause Logistik KG,medium,SEAL-002,Press Fitting Seal,Seals,2024-06-02,2024-06-09,2024-06-09,7,7,True,163,14,0.0859,71.21,11607.23,False
+PO-10424,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2023-05-04,2023-05-12,2023-05-12,8,8,True,175,3,0.0171,34.73,6077.75,True
+PO-10425,SUP-006,Bauer Präzisionsteile,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-05-31,2024-06-03,2024-06-03,3,3,True,118,3,0.0254,8.14,960.52,True
+PO-10426,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-01-19,2023-01-28,2023-01-28,9,9,True,499,19,0.0381,19.45,9705.55,True
+PO-10427,SUP-004,Weber International Ltd.,high,FIXT-002,Elbow 90deg 15mm,Fittings,2024-01-26,2024-02-08,2024-02-12,13,17,False,177,3,0.0169,64.45,11407.65,True
+PO-10428,SUP-002,Fischer Kunststoff AG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-12-14,2024-12-21,2024-12-21,7,7,True,267,26,0.0974,39.63,10581.21,True
+PO-10429,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2024-02-16,2024-02-24,2024-02-24,8,8,True,131,5,0.0382,60.63,7942.53,True
+PO-10430,SUP-004,Weber International Ltd.,high,SEAL-001,EPDM O-Ring Pack,Seals,2024-01-22,2024-02-03,2024-02-03,12,12,True,340,19,0.0559,24.65,8381.0,True
+PO-10431,SUP-006,Bauer Präzisionsteile,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-03-14,2024-03-19,2024-03-19,5,5,True,279,4,0.0143,8.14,2271.06,True
+PO-10432,SUP-003,Müller Rohre & Armaturen,low,VALV-002,Pressure Relief Valve,Valves,2024-04-27,2024-05-04,2024-05-04,7,7,True,358,13,0.0363,3.75,1342.5,True
+PO-10433,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2024-04-25,2024-05-03,2024-05-03,8,8,True,149,0,0.0,23.09,3440.41,True
+PO-10434,SUP-003,Müller Rohre & Armaturen,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-09-23,2023-09-28,2023-09-28,5,5,True,199,0,0.0,79.97,15914.03,True
+PO-10435,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2024-02-18,2024-02-29,2024-03-02,11,13,False,418,78,0.1866,34.31,14341.58,True
+PO-10436,SUP-003,Müller Rohre & Armaturen,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-10-11,2024-10-16,2024-10-16,5,5,True,155,1,0.0065,63.5,9842.5,True
+PO-10437,SUP-002,Fischer Kunststoff AG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-02-23,2023-03-03,2023-03-07,8,12,False,390,16,0.041,77.95,30400.5,True
+PO-10438,SUP-005,Krause Logistik KG,medium,VALV-001,"Ball Valve 1/2""",Valves,2023-03-14,2023-03-22,2023-03-27,8,13,False,322,21,0.0652,47.62,15333.64,True
+PO-10439,SUP-005,Krause Logistik KG,medium,SEAL-002,Press Fitting Seal,Seals,2023-02-08,2023-02-14,2023-02-14,6,6,True,160,0,0.0,63.44,10150.4,True
+PO-10440,SUP-001,Schmidt Metallteile GmbH,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-03-10,2023-03-16,2023-03-16,6,6,True,345,5,0.0145,31.78,10964.1,True
+PO-10441,SUP-001,Schmidt Metallteile GmbH,low,VALV-001,"Ball Valve 1/2""",Valves,2024-06-11,2024-06-16,2024-06-16,5,5,True,187,2,0.0107,75.51,14120.37,True
+PO-10442,SUP-007,Hoffmann Global Supply,high,FIXT-001,Push-Fit Connector,Fittings,2024-05-18,2024-06-02,2024-06-02,15,15,True,407,60,0.1474,63.79,25962.53,True
+PO-10443,SUP-003,Müller Rohre & Armaturen,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-05-04,2024-05-09,2024-05-09,5,5,True,439,5,0.0114,68.48,30062.72,True
+PO-10444,SUP-001,Schmidt Metallteile GmbH,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-07-02,2024-07-06,2024-07-10,4,8,False,390,13,0.0333,36.44,14211.6,True
+PO-10445,SUP-006,Bauer Präzisionsteile,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-11-10,2024-11-14,2024-11-14,4,4,True,86,1,0.0116,67.18,5777.48,True
+PO-10446,SUP-008,Schneider Dichtungen GmbH,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-11-28,2024-12-06,2024-12-06,8,8,True,263,1,0.0038,43.97,11564.11,True
+PO-10447,SUP-004,Weber International Ltd.,high,VALV-002,Pressure Relief Valve,Valves,2023-07-26,2023-08-06,2023-08-06,11,11,True,471,24,0.051,56.55,26635.05,True
+PO-10448,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-001,Push-Fit Connector,Fittings,2024-10-06,2024-10-14,2024-10-20,8,14,False,291,23,0.079,75.24,21894.84,True
+PO-10449,SUP-003,Müller Rohre & Armaturen,low,VALV-002,Pressure Relief Valve,Valves,2023-03-10,2023-03-15,2023-03-15,5,5,True,493,10,0.0203,39.07,19261.51,True
+PO-10450,SUP-005,Krause Logistik KG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-02-21,2023-02-27,2023-02-27,6,6,True,351,33,0.094,77.89,27339.39,True
+PO-10451,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-12-28,2024-01-05,2024-01-05,8,8,True,146,13,0.089,28.79,4203.34,True
+PO-10452,SUP-005,Krause Logistik KG,medium,VALV-001,"Ball Valve 1/2""",Valves,2023-02-08,2023-02-15,2023-02-15,7,7,True,310,25,0.0806,58.35,18088.5,True
+PO-10453,SUP-003,Müller Rohre & Armaturen,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-12-26,2024-12-31,2024-12-31,5,5,True,214,6,0.028,36.42,7793.88,True
+PO-10454,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-02-14,2023-02-22,2023-02-22,8,8,True,134,9,0.0672,61.8,8281.2,True
+PO-10455,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-10-16,2023-10-20,2023-10-24,4,8,False,465,4,0.0086,76.0,35340.0,True
+PO-10456,SUP-004,Weber International Ltd.,high,VALV-001,"Ball Valve 1/2""",Valves,2024-11-04,2024-11-15,2024-11-19,11,15,False,255,12,0.0471,16.27,4148.85,True
+PO-10457,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-01-17,2024-01-22,2024-01-22,5,5,True,224,7,0.0312,64.69,14490.56,True
+PO-10458,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-03-24,2024-04-01,2024-04-01,8,8,True,190,11,0.0579,74.32,14120.8,True
+PO-10459,SUP-005,Krause Logistik KG,medium,SEAL-002,Press Fitting Seal,Seals,2024-03-08,2024-03-14,2024-03-20,6,12,False,344,23,0.0669,14.28,4912.32,True
+PO-10460,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-11-01,2023-11-09,2023-11-09,8,8,True,354,27,0.0763,80.99,28670.46,True
+PO-10461,SUP-003,Müller Rohre & Armaturen,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-09-08,2023-09-13,2023-09-13,5,5,True,78,2,0.0256,54.35,4239.3,True
+PO-10462,SUP-001,Schmidt Metallteile GmbH,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-10-29,2024-11-02,2024-11-02,4,4,True,370,12,0.0324,40.87,15121.9,True
+PO-10463,SUP-004,Weber International Ltd.,high,VALV-001,"Ball Valve 1/2""",Valves,2024-09-21,2024-10-02,2024-10-02,11,11,True,462,78,0.1688,17.63,8145.06,True
+PO-10464,SUP-003,Müller Rohre & Armaturen,low,VALV-001,"Ball Valve 1/2""",Valves,2024-11-23,2024-11-29,2024-11-29,6,6,True,281,3,0.0107,3.78,1062.18,True
+PO-10465,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-06-01,2024-06-11,2024-06-11,10,10,True,341,18,0.0528,72.45,24705.45,True
+PO-10466,SUP-002,Fischer Kunststoff AG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-11-29,2023-12-06,2023-12-06,7,7,True,69,3,0.0435,84.77,5849.13,True
+PO-10467,SUP-003,Müller Rohre & Armaturen,low,VALV-001,"Ball Valve 1/2""",Valves,2024-11-24,2024-11-30,2024-11-30,6,6,True,108,1,0.0093,60.8,6566.4,True
+PO-10468,SUP-003,Müller Rohre & Armaturen,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-04-23,2024-04-30,2024-04-30,7,7,True,463,12,0.0259,20.46,9472.98,True
+PO-10469,SUP-004,Weber International Ltd.,high,SEAL-001,EPDM O-Ring Pack,Seals,2023-05-04,2023-05-16,2023-05-16,12,12,True,256,29,0.1133,6.51,1666.56,True
+PO-10470,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2024-01-03,2024-01-10,2024-01-10,7,7,True,363,0,0.0,65.08,23624.04,True
+PO-10471,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2024-07-24,2024-08-06,2024-08-06,13,13,True,432,64,0.1481,75.96,32814.72,True
+PO-10472,SUP-007,Hoffmann Global Supply,high,SEAL-001,EPDM O-Ring Pack,Seals,2024-07-29,2024-08-13,2024-08-13,15,15,True,294,9,0.0306,54.67,16072.98,True
+PO-10473,SUP-005,Krause Logistik KG,medium,VALV-001,"Ball Valve 1/2""",Valves,2023-02-23,2023-03-03,2023-03-09,8,14,False,492,42,0.0854,73.57,36196.44,True
+PO-10474,SUP-003,Müller Rohre & Armaturen,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-12-02,2023-12-07,2023-12-07,5,5,True,227,7,0.0308,34.08,7736.16,True
+PO-10475,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-001,Copper Pipe 15mm,Pipes,2024-01-19,2024-01-28,2024-01-28,9,9,True,288,21,0.0729,55.03,15848.64,True
+PO-10476,SUP-006,Bauer Präzisionsteile,low,FIXT-001,Push-Fit Connector,Fittings,2023-06-05,2023-06-08,2023-06-08,3,3,True,318,10,0.0314,56.51,17970.18,True
+PO-10477,SUP-005,Krause Logistik KG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-07-26,2023-08-03,2023-08-03,8,8,True,389,29,0.0746,66.33,25802.37,True
+PO-10478,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-001,Copper Pipe 15mm,Pipes,2024-11-07,2024-11-17,2024-11-17,10,10,True,430,10,0.0233,75.03,32262.9,True
+PO-10479,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-11-20,2024-11-29,2024-11-29,9,9,True,415,13,0.0313,75.77,31444.55,True
+PO-10480,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-001,Push-Fit Connector,Fittings,2023-08-18,2023-08-27,2023-08-27,9,9,True,380,26,0.0684,69.55,26429.0,True
+PO-10481,SUP-003,Müller Rohre & Armaturen,low,VALV-002,Pressure Relief Valve,Valves,2024-10-13,2024-10-20,2024-10-20,7,7,True,140,4,0.0286,69.05,9667.0,True
+PO-10482,SUP-003,Müller Rohre & Armaturen,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-10-16,2024-10-21,2024-10-21,5,5,True,340,4,0.0118,4.35,1479.0,True
+PO-10483,SUP-003,Müller Rohre & Armaturen,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-05-22,2024-05-27,2024-05-27,5,5,True,215,7,0.0326,3.91,840.65,True
+PO-10484,SUP-004,Weber International Ltd.,high,SEAL-002,Press Fitting Seal,Seals,2024-11-25,2024-12-08,2024-12-08,13,13,True,491,61,0.1242,48.98,24049.18,True
+PO-10485,SUP-002,Fischer Kunststoff AG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-06-20,2024-06-27,2024-06-27,7,7,True,68,4,0.0588,38.99,2651.32,True
+PO-10486,SUP-004,Weber International Ltd.,high,SEAL-002,Press Fitting Seal,Seals,2023-07-30,2023-08-12,2023-08-12,13,13,True,159,19,0.1195,33.15,5270.85,True
+PO-10487,SUP-005,Krause Logistik KG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-10-22,2024-10-29,2024-10-29,7,7,True,162,15,0.0926,40.55,6569.1,True
+PO-10488,SUP-008,Schneider Dichtungen GmbH,medium,VALV-001,"Ball Valve 1/2""",Valves,2023-07-08,2023-07-17,2023-07-17,9,9,True,231,21,0.0909,33.28,7687.68,True
+PO-10489,SUP-005,Krause Logistik KG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-02-29,2024-03-08,2024-03-08,8,8,True,231,3,0.013,25.21,5823.51,True
+PO-10490,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2024-10-16,2024-10-28,2024-10-28,12,12,True,480,91,0.1896,39.87,19137.6,True
+PO-10491,SUP-002,Fischer Kunststoff AG,medium,SEAL-002,Press Fitting Seal,Seals,2024-01-10,2024-01-19,2024-01-19,9,9,True,317,21,0.0662,40.03,12689.51,True
+PO-10492,SUP-004,Weber International Ltd.,high,SEAL-002,Press Fitting Seal,Seals,2023-03-31,2023-04-12,2023-04-12,12,12,True,371,20,0.0539,49.74,18453.54,True
+PO-10493,SUP-002,Fischer Kunststoff AG,medium,VALV-001,"Ball Valve 1/2""",Valves,2023-05-30,2023-06-06,2023-06-06,7,7,True,463,28,0.0605,78.04,36132.52,True
+PO-10494,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-06-02,2024-06-05,2024-06-05,3,3,True,489,14,0.0286,18.72,9154.08,True
+PO-10495,SUP-007,Hoffmann Global Supply,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-06-28,2023-07-12,2023-07-12,14,14,True,288,35,0.1215,52.25,15048.0,True
+PO-10496,SUP-005,Krause Logistik KG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-01-01,2024-01-09,2024-01-09,8,8,True,317,27,0.0852,69.9,22158.3,True
+PO-10497,SUP-003,Müller Rohre & Armaturen,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-06-06,2024-06-12,2024-06-17,6,11,False,107,2,0.0187,21.42,2291.94,True
+PO-10498,SUP-002,Fischer Kunststoff AG,medium,SEAL-002,Press Fitting Seal,Seals,2024-07-17,2024-07-26,2024-07-30,9,13,False,342,33,0.0965,65.14,22277.88,True
+PO-10499,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-12-26,2024-01-05,2024-01-05,10,10,True,441,0,0.0,20.63,9097.83,True
+PO-10500,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2024-02-24,2024-03-06,2024-03-11,11,16,False,150,26,0.1733,16.53,2479.5,True
+PO-10501,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-01-11,2024-01-16,2024-01-16,5,5,True,80,1,0.0125,27.45,2196.0,True
+PO-10502,SUP-005,Krause Logistik KG,medium,SEAL-002,Press Fitting Seal,Seals,2024-04-30,2024-05-07,2024-05-07,7,7,True,287,0,0.0,28.21,8096.27,True
+PO-10503,SUP-007,Hoffmann Global Supply,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-03-06,2023-03-22,2023-03-22,16,16,True,362,20,0.0552,61.5,22263.0,True
+PO-10504,SUP-006,Bauer Präzisionsteile,low,FIXT-001,Push-Fit Connector,Fittings,2023-03-30,2023-04-03,2023-04-03,4,4,True,473,3,0.0063,57.3,27102.9,False
+PO-10505,SUP-007,Hoffmann Global Supply,high,SEAL-001,EPDM O-Ring Pack,Seals,2024-06-08,2024-06-22,2024-06-22,14,14,True,89,3,0.0337,33.15,2950.35,True
+PO-10506,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-001,Copper Pipe 15mm,Pipes,2024-03-22,2024-03-31,2024-03-31,9,9,True,376,30,0.0798,12.15,4568.4,True
+PO-10507,SUP-007,Hoffmann Global Supply,high,VALV-002,Pressure Relief Valve,Valves,2023-07-06,2023-07-20,2023-07-20,14,14,True,446,72,0.1614,75.92,33860.32,True
+PO-10508,SUP-005,Krause Logistik KG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-07-07,2023-07-14,2023-07-14,7,7,True,359,19,0.0529,21.46,7704.14,True
+PO-10509,SUP-008,Schneider Dichtungen GmbH,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-04-30,2024-05-10,2024-05-10,10,10,True,269,22,0.0818,16.14,4341.66,True
+PO-10510,SUP-006,Bauer Präzisionsteile,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-12-20,2024-12-24,2024-12-24,4,4,True,471,10,0.0212,82.52,38866.92,True
+PO-10511,SUP-006,Bauer Präzisionsteile,low,SEAL-002,Press Fitting Seal,Seals,2024-09-02,2024-09-06,2024-09-06,4,4,True,236,6,0.0254,30.34,7160.24,True
+PO-10512,SUP-005,Krause Logistik KG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-11-04,2023-11-10,2023-11-17,6,13,False,262,6,0.0229,74.61,19547.82,True
+PO-10513,SUP-005,Krause Logistik KG,medium,FIXT-001,Push-Fit Connector,Fittings,2024-09-30,2024-10-07,2024-10-07,7,7,True,325,7,0.0215,33.56,10907.0,True
+PO-10514,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-09-30,2023-10-05,2023-10-05,5,5,True,268,3,0.0112,5.8,1554.4,True
+PO-10515,SUP-002,Fischer Kunststoff AG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-11-29,2024-12-06,2024-12-06,7,7,True,205,3,0.0146,65.25,13376.25,True
+PO-10516,SUP-002,Fischer Kunststoff AG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-10-13,2023-10-22,2023-10-22,9,9,True,270,12,0.0444,60.92,16448.4,True
+PO-10517,SUP-006,Bauer Präzisionsteile,low,FIXT-001,Push-Fit Connector,Fittings,2024-09-15,2024-09-20,2024-09-20,5,5,True,165,3,0.0182,57.78,9533.7,True
+PO-10518,SUP-005,Krause Logistik KG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-01-19,2024-01-26,2024-01-26,7,7,True,357,35,0.098,79.09,28235.13,True
+PO-10519,SUP-003,Müller Rohre & Armaturen,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-12-20,2024-12-25,2024-12-25,5,5,True,189,0,0.0,62.28,11770.92,True
+PO-10520,SUP-008,Schneider Dichtungen GmbH,medium,VALV-001,"Ball Valve 1/2""",Valves,2023-07-09,2023-07-17,2023-07-17,8,8,True,91,6,0.0659,34.85,3171.35,True
+PO-10521,SUP-001,Schmidt Metallteile GmbH,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-02-20,2024-02-25,2024-02-25,5,5,True,390,14,0.0359,71.39,27842.1,True
+PO-10522,SUP-006,Bauer Präzisionsteile,low,FIXT-001,Push-Fit Connector,Fittings,2024-05-07,2024-05-12,2024-05-12,5,5,True,282,4,0.0142,25.83,7284.06,True
+PO-10523,SUP-005,Krause Logistik KG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-03-25,2024-04-02,2024-04-07,8,13,False,322,6,0.0186,56.4,18160.8,True
+PO-10524,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-10-20,2023-10-25,2023-10-25,5,5,True,263,2,0.0076,25.39,6677.57,True
+PO-10525,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-10-15,2023-10-26,2023-10-26,11,11,True,296,47,0.1588,38.44,11378.24,True
+PO-10526,SUP-006,Bauer Präzisionsteile,low,SEAL-002,Press Fitting Seal,Seals,2024-11-26,2024-12-01,2024-12-01,5,5,True,475,15,0.0316,30.83,14644.25,True
+PO-10527,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2024-12-20,2024-12-29,2024-12-29,9,9,True,460,7,0.0152,10.12,4655.2,True
+PO-10528,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-10-15,2024-10-23,2024-10-23,8,8,True,339,0,0.0,18.12,6142.68,True
+PO-10529,SUP-001,Schmidt Metallteile GmbH,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-12-26,2023-12-31,2023-12-31,5,5,True,201,6,0.0299,69.94,14057.94,False
+PO-10530,SUP-007,Hoffmann Global Supply,high,VALV-001,"Ball Valve 1/2""",Valves,2024-04-04,2024-04-18,2024-04-18,14,14,True,331,56,0.1692,61.66,20409.46,True
+PO-10531,SUP-004,Weber International Ltd.,high,SEAL-001,EPDM O-Ring Pack,Seals,2023-05-12,2023-05-25,2023-05-27,13,15,False,295,10,0.0339,18.23,5377.85,True
+PO-10532,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2024-03-08,2024-03-13,2024-03-13,5,5,True,421,8,0.019,26.26,11055.46,True
+PO-10533,SUP-004,Weber International Ltd.,high,SEAL-001,EPDM O-Ring Pack,Seals,2023-10-29,2023-11-09,2023-11-11,11,13,False,427,77,0.1803,47.6,20325.2,True
+PO-10534,SUP-007,Hoffmann Global Supply,high,SEAL-001,EPDM O-Ring Pack,Seals,2023-04-01,2023-04-16,2023-04-20,15,19,False,263,36,0.1369,45.66,12008.58,True
+PO-10535,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-06-29,2023-07-06,2023-07-10,7,11,False,110,1,0.0091,66.85,7353.5,True
+PO-10536,SUP-005,Krause Logistik KG,medium,SEAL-002,Press Fitting Seal,Seals,2024-03-18,2024-03-24,2024-03-24,6,6,True,246,14,0.0569,8.05,1980.3,True
+PO-10537,SUP-004,Weber International Ltd.,high,VALV-001,"Ball Valve 1/2""",Valves,2023-01-30,2023-02-12,2023-02-12,13,13,True,381,60,0.1575,74.53,28395.93,True
+PO-10538,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-001,Push-Fit Connector,Fittings,2024-03-13,2024-03-22,2024-03-22,9,9,True,152,6,0.0395,82.5,12540.0,True
+PO-10539,SUP-007,Hoffmann Global Supply,high,SEAL-001,EPDM O-Ring Pack,Seals,2024-07-17,2024-07-31,2024-07-31,14,14,True,488,96,0.1967,20.51,10008.88,True
+PO-10540,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-05-04,2024-05-09,2024-05-09,5,5,True,384,7,0.0182,70.21,26960.64,True
+PO-10541,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-11-17,2024-11-25,2024-11-25,8,8,True,139,11,0.0791,15.37,2136.43,True
+PO-10542,SUP-005,Krause Logistik KG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-06-12,2023-06-19,2023-06-25,7,13,False,192,7,0.0365,70.45,13526.4,True
+PO-10543,SUP-005,Krause Logistik KG,medium,SEAL-002,Press Fitting Seal,Seals,2024-11-05,2024-11-12,2024-11-12,7,7,True,107,5,0.0467,58.92,6304.44,False
+PO-10544,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-06-15,2024-06-22,2024-06-25,7,10,False,195,18,0.0923,29.9,5830.5,True
+PO-10545,SUP-007,Hoffmann Global Supply,high,SEAL-002,Press Fitting Seal,Seals,2024-07-09,2024-07-25,2024-07-25,16,16,True,112,14,0.125,79.92,8951.04,True
+PO-10546,SUP-003,Müller Rohre & Armaturen,low,VALV-002,Pressure Relief Valve,Valves,2024-09-03,2024-09-10,2024-09-10,7,7,True,481,6,0.0125,6.36,3059.16,True
+PO-10547,SUP-007,Hoffmann Global Supply,high,VALV-001,"Ball Valve 1/2""",Valves,2023-02-19,2023-03-05,2023-03-05,14,14,True,213,28,0.1315,36.59,7793.67,True
+PO-10548,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-07-06,2023-07-15,2023-07-18,9,12,False,333,23,0.0691,45.26,15071.58,True
+PO-10549,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2023-06-20,2023-06-30,2023-06-30,10,10,True,94,0,0.0,71.51,6721.94,True
+PO-10550,SUP-007,Hoffmann Global Supply,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-05-05,2023-05-19,2023-05-26,14,21,False,279,37,0.1326,46.33,12926.07,True
+PO-10551,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-06-20,2023-07-02,2023-07-08,12,18,False,399,67,0.1679,47.07,18780.93,True
+PO-10552,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2023-01-06,2023-01-18,2023-01-18,12,12,True,473,25,0.0529,47.67,22547.91,True
+PO-10553,SUP-006,Bauer Präzisionsteile,low,SEAL-002,Press Fitting Seal,Seals,2024-01-11,2024-01-16,2024-01-16,5,5,True,155,6,0.0387,3.03,469.65,True
+PO-10554,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2024-02-20,2024-03-03,2024-03-03,12,12,True,340,27,0.0794,80.61,27407.4,True
+PO-10555,SUP-003,Müller Rohre & Armaturen,low,FIXT-001,Push-Fit Connector,Fittings,2024-05-29,2024-06-03,2024-06-03,5,5,True,136,2,0.0147,40.42,5497.12,True
+PO-10556,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-12-14,2024-12-20,2024-12-20,6,6,True,118,2,0.0169,27.85,3286.3,True
+PO-10557,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-08-25,2023-09-07,2023-09-07,13,13,True,255,35,0.1373,62.25,15873.75,True
+PO-10558,SUP-007,Hoffmann Global Supply,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-01-25,2023-02-09,2023-02-12,15,18,False,315,1,0.0032,21.79,6863.85,True
+PO-10559,SUP-005,Krause Logistik KG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-05-17,2024-05-23,2024-05-23,6,6,True,113,0,0.0,25.41,2871.33,True
+PO-10560,SUP-003,Müller Rohre & Armaturen,low,VALV-001,"Ball Valve 1/2""",Valves,2023-08-29,2023-09-05,2023-09-05,7,7,True,236,0,0.0,50.62,11946.32,True
+PO-10561,SUP-007,Hoffmann Global Supply,high,SEAL-001,EPDM O-Ring Pack,Seals,2023-10-31,2023-11-15,2023-11-15,15,15,True,382,0,0.0,49.21,18798.22,True
+PO-10562,SUP-003,Müller Rohre & Armaturen,low,VALV-001,"Ball Valve 1/2""",Valves,2024-08-13,2024-08-20,2024-08-20,7,7,True,240,5,0.0208,33.41,8018.4,False
+PO-10563,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2024-07-08,2024-07-19,2024-07-21,11,13,False,425,7,0.0165,23.9,10157.5,True
+PO-10564,SUP-004,Weber International Ltd.,high,VALV-002,Pressure Relief Valve,Valves,2024-09-21,2024-10-02,2024-10-02,11,11,True,150,6,0.04,9.39,1408.5,True
+PO-10565,SUP-005,Krause Logistik KG,medium,VALV-002,Pressure Relief Valve,Valves,2023-05-04,2023-05-10,2023-05-10,6,6,True,244,16,0.0656,42.46,10360.24,True
+PO-10566,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-01-21,2023-01-27,2023-01-27,6,6,True,334,8,0.024,14.81,4946.54,True
+PO-10567,SUP-006,Bauer Präzisionsteile,low,SEAL-002,Press Fitting Seal,Seals,2023-05-26,2023-05-29,2023-05-29,3,3,True,79,2,0.0253,34.83,2751.57,True
+PO-10568,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-08-09,2023-08-13,2023-08-13,4,4,True,416,3,0.0072,27.03,11244.48,True
+PO-10569,SUP-006,Bauer Präzisionsteile,low,VALV-002,Pressure Relief Valve,Valves,2023-08-27,2023-09-01,2023-09-01,5,5,True,58,0,0.0,47.51,2755.58,False
+PO-10570,SUP-007,Hoffmann Global Supply,high,FIXT-002,Elbow 90deg 15mm,Fittings,2024-08-09,2024-08-23,2024-08-28,14,19,False,349,69,0.1977,9.2,3210.8,True
+PO-10571,SUP-007,Hoffmann Global Supply,high,VALV-002,Pressure Relief Valve,Valves,2023-05-27,2023-06-11,2023-06-11,15,15,True,433,43,0.0993,65.34,28292.22,True
+PO-10572,SUP-007,Hoffmann Global Supply,high,FIXT-001,Push-Fit Connector,Fittings,2023-10-15,2023-10-30,2023-10-30,15,15,True,187,12,0.0642,37.77,7062.99,True
+PO-10573,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2023-10-29,2023-11-08,2023-11-08,10,10,True,156,2,0.0128,25.51,3979.56,True
+PO-10574,SUP-007,Hoffmann Global Supply,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-11-02,2023-11-18,2023-11-18,16,16,True,397,51,0.1285,18.59,7380.23,True
+PO-10575,SUP-007,Hoffmann Global Supply,high,PIPE-002,Steel Pipe 22mm,Pipes,2024-09-09,2024-09-25,2024-09-28,16,19,False,220,5,0.0227,82.02,18044.4,True
+PO-10576,SUP-003,Müller Rohre & Armaturen,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-07-01,2023-07-07,2023-07-07,6,6,True,435,7,0.0161,49.97,21736.95,True
+PO-10577,SUP-001,Schmidt Metallteile GmbH,low,SEAL-002,Press Fitting Seal,Seals,2024-01-16,2024-01-21,2024-01-21,5,5,True,345,9,0.0261,29.22,10080.9,True
+PO-10578,SUP-007,Hoffmann Global Supply,high,FIXT-001,Push-Fit Connector,Fittings,2023-09-03,2023-09-17,2023-09-17,14,14,True,291,42,0.1443,6.21,1807.11,True
+PO-10579,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-11-18,2023-11-25,2023-11-25,7,7,True,250,20,0.08,53.88,13470.0,True
+PO-10580,SUP-007,Hoffmann Global Supply,high,VALV-002,Pressure Relief Valve,Valves,2024-07-31,2024-08-14,2024-08-14,14,14,True,213,12,0.0563,16.91,3601.83,True
+PO-10581,SUP-006,Bauer Präzisionsteile,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-10-12,2023-10-17,2023-10-17,5,5,True,205,0,0.0,16.19,3318.95,True
+PO-10582,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-10-19,2024-10-23,2024-10-23,4,4,True,363,2,0.0055,36.04,13082.52,True
+PO-10583,SUP-004,Weber International Ltd.,high,FIXT-002,Elbow 90deg 15mm,Fittings,2023-07-25,2023-08-07,2023-08-07,13,13,True,405,24,0.0593,52.45,21242.25,True
+PO-10584,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-10-21,2023-11-03,2023-11-09,13,19,False,172,31,0.1802,9.24,1589.28,True
+PO-10585,SUP-003,Müller Rohre & Armaturen,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-12-18,2024-12-24,2024-12-24,6,6,True,386,8,0.0207,57.37,22144.82,True
+PO-10586,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-07-09,2024-07-17,2024-07-17,8,8,True,93,0,0.0,56.11,5218.23,True
+PO-10587,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2023-07-25,2023-08-04,2023-08-04,10,10,True,294,10,0.034,61.25,18007.5,True
+PO-10588,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-09-08,2023-09-13,2023-09-13,5,5,True,334,7,0.021,9.52,3179.68,True
+PO-10589,SUP-005,Krause Logistik KG,medium,FIXT-001,Push-Fit Connector,Fittings,2024-05-22,2024-05-30,2024-05-30,8,8,True,296,4,0.0135,42.1,12461.6,True
+PO-10590,SUP-007,Hoffmann Global Supply,high,SEAL-001,EPDM O-Ring Pack,Seals,2024-07-19,2024-08-04,2024-08-04,16,16,True,267,47,0.176,7.93,2117.31,True
+PO-10591,SUP-007,Hoffmann Global Supply,high,PIPE-002,Steel Pipe 22mm,Pipes,2024-03-12,2024-03-28,2024-03-31,16,19,False,462,54,0.1169,73.41,33915.42,True
+PO-10592,SUP-001,Schmidt Metallteile GmbH,low,VALV-001,"Ball Valve 1/2""",Valves,2023-07-07,2023-07-13,2023-07-13,6,6,True,413,11,0.0266,59.71,24660.23,True
+PO-10593,SUP-004,Weber International Ltd.,high,VALV-001,"Ball Valve 1/2""",Valves,2023-04-12,2023-04-25,2023-04-25,13,13,True,190,29,0.1526,58.08,11035.2,True
+PO-10594,SUP-007,Hoffmann Global Supply,high,FIXT-001,Push-Fit Connector,Fittings,2023-02-12,2023-02-28,2023-03-03,16,19,False,395,37,0.0937,11.41,4506.95,True
+PO-10595,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-01-20,2023-02-02,2023-02-02,13,13,True,484,52,0.1074,50.81,24592.04,True
+PO-10596,SUP-002,Fischer Kunststoff AG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-02-15,2024-02-24,2024-02-28,9,13,False,324,8,0.0247,59.37,19235.88,True
+PO-10597,SUP-002,Fischer Kunststoff AG,medium,VALV-002,Pressure Relief Valve,Valves,2024-07-30,2024-08-08,2024-08-08,9,9,True,492,43,0.0874,13.69,6735.48,True
+PO-10598,SUP-007,Hoffmann Global Supply,high,FIXT-001,Push-Fit Connector,Fittings,2023-11-20,2023-12-04,2023-12-04,14,14,True,407,29,0.0713,48.41,19702.87,True
+PO-10599,SUP-006,Bauer Präzisionsteile,low,FIXT-001,Push-Fit Connector,Fittings,2024-08-22,2024-08-25,2024-08-25,3,3,True,430,5,0.0116,60.42,25980.6,True
+PO-10600,SUP-003,Müller Rohre & Armaturen,low,SEAL-002,Press Fitting Seal,Seals,2023-11-01,2023-11-08,2023-11-08,7,7,True,60,1,0.0167,33.03,1981.8,True
+PO-10601,SUP-002,Fischer Kunststoff AG,medium,VALV-002,Pressure Relief Valve,Valves,2024-01-02,2024-01-09,2024-01-09,7,7,True,103,0,0.0,41.01,4224.03,True
+PO-10602,SUP-003,Müller Rohre & Armaturen,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-12-14,2023-12-19,2023-12-19,5,5,True,287,4,0.0139,31.77,9117.99,True
+PO-10603,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-12-24,2024-01-02,2024-01-02,9,9,True,230,14,0.0609,38.97,8963.1,True
+PO-10604,SUP-007,Hoffmann Global Supply,high,PIPE-001,Copper Pipe 15mm,Pipes,2024-05-04,2024-05-20,2024-05-20,16,16,True,259,9,0.0347,18.81,4871.79,True
+PO-10605,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-001,Push-Fit Connector,Fittings,2023-11-02,2023-11-11,2023-11-11,9,9,True,210,8,0.0381,12.96,2721.6,True
+PO-10606,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2024-03-02,2024-03-07,2024-03-09,5,7,False,120,4,0.0333,51.61,6193.2,True
+PO-10607,SUP-005,Krause Logistik KG,medium,SEAL-002,Press Fitting Seal,Seals,2023-10-19,2023-10-26,2023-10-26,7,7,True,348,31,0.0891,49.18,17114.64,True
+PO-10608,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2024-06-11,2024-06-24,2024-06-28,13,17,False,80,1,0.0125,51.64,4131.2,True
+PO-10609,SUP-002,Fischer Kunststoff AG,medium,SEAL-002,Press Fitting Seal,Seals,2023-02-08,2023-02-15,2023-02-15,7,7,True,207,16,0.0773,28.49,5897.43,True
+PO-10610,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-03-31,2023-04-11,2023-04-17,11,17,False,306,60,0.1961,29.16,8922.96,True
+PO-10611,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-02-13,2023-02-17,2023-02-17,4,4,True,451,16,0.0355,50.4,22730.4,True
+PO-10612,SUP-001,Schmidt Metallteile GmbH,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-08-17,2023-08-22,2023-08-22,5,5,True,472,1,0.0021,83.56,39440.32,True
+PO-10613,SUP-001,Schmidt Metallteile GmbH,low,VALV-001,"Ball Valve 1/2""",Valves,2024-12-02,2024-12-06,2024-12-06,4,4,True,229,1,0.0044,4.49,1028.21,True
+PO-10614,SUP-007,Hoffmann Global Supply,high,VALV-001,"Ball Valve 1/2""",Valves,2024-12-22,2025-01-06,2025-01-08,15,17,False,413,67,0.1622,6.49,2680.37,True
+PO-10615,SUP-002,Fischer Kunststoff AG,medium,VALV-002,Pressure Relief Valve,Valves,2023-04-08,2023-04-15,2023-04-18,7,10,False,221,10,0.0452,79.67,17607.07,True
+PO-10616,SUP-005,Krause Logistik KG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-05-24,2023-06-01,2023-06-01,8,8,True,461,0,0.0,36.75,16941.75,True
+PO-10617,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2024-10-23,2024-10-30,2024-10-30,7,7,True,91,7,0.0769,25.88,2355.08,True
+PO-10618,SUP-002,Fischer Kunststoff AG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-05-03,2023-05-12,2023-05-15,9,12,False,397,23,0.0579,22.64,8988.08,True
+PO-10619,SUP-006,Bauer Präzisionsteile,low,FIXT-001,Push-Fit Connector,Fittings,2023-12-15,2023-12-20,2023-12-20,5,5,True,57,0,0.0,71.73,4088.61,True
+PO-10620,SUP-005,Krause Logistik KG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-07-10,2024-07-18,2024-07-18,8,8,True,244,13,0.0533,74.94,18285.36,True
+PO-10621,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-01-15,2023-01-21,2023-01-23,6,8,False,327,8,0.0245,47.15,15418.05,False
+PO-10622,SUP-003,Müller Rohre & Armaturen,low,SEAL-002,Press Fitting Seal,Seals,2024-09-13,2024-09-18,2024-09-23,5,10,False,394,1,0.0025,12.97,5110.18,True
+PO-10623,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2023-06-20,2023-06-25,2023-06-25,5,5,True,476,17,0.0357,6.38,3036.88,True
+PO-10624,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-11-11,2023-11-24,2023-11-24,13,13,True,228,34,0.1491,29.82,6798.96,True
+PO-10625,SUP-008,Schneider Dichtungen GmbH,medium,VALV-002,Pressure Relief Valve,Valves,2024-04-25,2024-05-04,2024-05-04,9,9,True,372,20,0.0538,82.34,30630.48,True
+PO-10626,SUP-007,Hoffmann Global Supply,high,FIXT-002,Elbow 90deg 15mm,Fittings,2024-03-04,2024-03-18,2024-03-23,14,19,False,167,6,0.0359,53.45,8926.15,True
+PO-10627,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-06-24,2023-07-02,2023-07-02,8,8,True,163,10,0.0613,54.29,8849.27,True
+PO-10628,SUP-007,Hoffmann Global Supply,high,FIXT-001,Push-Fit Connector,Fittings,2024-06-21,2024-07-06,2024-07-06,15,15,True,94,7,0.0745,21.03,1976.82,True
+PO-10629,SUP-007,Hoffmann Global Supply,high,FIXT-002,Elbow 90deg 15mm,Fittings,2024-10-24,2024-11-08,2024-11-13,15,20,False,488,71,0.1455,24.99,12195.12,True
+PO-10630,SUP-004,Weber International Ltd.,high,VALV-001,"Ball Valve 1/2""",Valves,2024-11-22,2024-12-03,2024-12-09,11,17,False,459,59,0.1285,75.94,34856.46,True
+PO-10631,SUP-006,Bauer Präzisionsteile,low,FIXT-001,Push-Fit Connector,Fittings,2024-09-29,2024-10-04,2024-10-04,5,5,True,199,5,0.0251,13.66,2718.34,True
+PO-10632,SUP-006,Bauer Präzisionsteile,low,SEAL-002,Press Fitting Seal,Seals,2023-08-24,2023-08-29,2023-08-29,5,5,True,134,0,0.0,38.31,5133.54,True
+PO-10633,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-09-18,2024-09-23,2024-09-23,5,5,True,456,17,0.0373,51.09,23297.04,True
+PO-10634,SUP-007,Hoffmann Global Supply,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-11-09,2023-11-25,2023-11-25,16,16,True,350,4,0.0114,21.03,7360.5,True
+PO-10635,SUP-003,Müller Rohre & Armaturen,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-05-15,2023-05-21,2023-05-25,6,10,False,183,5,0.0273,29.77,5447.91,True
+PO-10636,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-10-23,2023-10-29,2023-10-29,6,6,True,392,35,0.0893,28.68,11242.56,True
+PO-10637,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2024-06-20,2024-07-02,2024-07-09,12,19,False,380,55,0.1447,26.06,9902.8,False
+PO-10638,SUP-006,Bauer Präzisionsteile,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-06-17,2023-06-22,2023-06-22,5,5,True,404,0,0.0,7.52,3038.08,True
+PO-10639,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2023-12-10,2023-12-21,2023-12-23,11,13,False,202,34,0.1683,4.36,880.72,True
+PO-10640,SUP-001,Schmidt Metallteile GmbH,low,SEAL-002,Press Fitting Seal,Seals,2023-08-09,2023-08-15,2023-08-15,6,6,True,74,2,0.027,64.36,4762.64,True
+PO-10641,SUP-003,Müller Rohre & Armaturen,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-03-14,2024-03-20,2024-03-20,6,6,True,430,10,0.0233,51.51,22149.3,True
+PO-10642,SUP-001,Schmidt Metallteile GmbH,low,SEAL-002,Press Fitting Seal,Seals,2024-05-05,2024-05-11,2024-05-11,6,6,True,59,0,0.0,45.24,2669.16,True
+PO-10643,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2023-11-25,2023-12-08,2023-12-10,13,15,False,158,29,0.1835,68.39,10805.62,False
+PO-10644,SUP-003,Müller Rohre & Armaturen,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-03-10,2023-03-17,2023-03-17,7,7,True,128,3,0.0234,57.2,7321.6,True
+PO-10645,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-11-26,2023-12-03,2023-12-03,7,7,True,57,1,0.0175,55.18,3145.26,False
+PO-10646,SUP-006,Bauer Präzisionsteile,low,FIXT-001,Push-Fit Connector,Fittings,2023-09-24,2023-09-29,2023-09-29,5,5,True,347,6,0.0173,73.38,25462.86,True
+PO-10647,SUP-002,Fischer Kunststoff AG,medium,VALV-002,Pressure Relief Valve,Valves,2023-03-14,2023-03-23,2023-03-23,9,9,True,361,22,0.0609,79.37,28652.57,True
+PO-10648,SUP-005,Krause Logistik KG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-10-30,2024-11-06,2024-11-06,7,7,True,246,17,0.0691,65.68,16157.28,True
+PO-10649,SUP-004,Weber International Ltd.,high,SEAL-001,EPDM O-Ring Pack,Seals,2023-07-28,2023-08-08,2023-08-08,11,11,True,62,7,0.1129,37.83,2345.46,True
+PO-10650,SUP-003,Müller Rohre & Armaturen,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-04-09,2023-04-15,2023-04-15,6,6,True,389,3,0.0077,63.98,24888.22,True
+PO-10651,SUP-003,Müller Rohre & Armaturen,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-01-02,2024-01-08,2024-01-08,6,6,True,265,8,0.0302,70.58,18703.7,True
+PO-10652,SUP-003,Müller Rohre & Armaturen,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-09-27,2023-10-02,2023-10-02,5,5,True,149,2,0.0134,33.58,5003.42,True
+PO-10653,SUP-007,Hoffmann Global Supply,high,FIXT-002,Elbow 90deg 15mm,Fittings,2023-08-20,2023-09-05,2023-09-10,16,21,False,129,22,0.1705,69.23,8930.67,True
+PO-10654,SUP-005,Krause Logistik KG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-06-04,2023-06-11,2023-06-11,7,7,True,458,4,0.0087,77.73,35600.34,True
+PO-10655,SUP-006,Bauer Präzisionsteile,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-03-14,2024-03-17,2024-03-17,3,3,True,380,1,0.0026,44.62,16955.6,True
+PO-10656,SUP-003,Müller Rohre & Armaturen,low,VALV-001,"Ball Valve 1/2""",Valves,2023-06-15,2023-06-20,2023-06-20,5,5,True,139,3,0.0216,9.45,1313.55,True
+PO-10657,SUP-003,Müller Rohre & Armaturen,low,SEAL-002,Press Fitting Seal,Seals,2023-06-28,2023-07-04,2023-07-04,6,6,True,442,10,0.0226,83.89,37079.38,True
+PO-10658,SUP-006,Bauer Präzisionsteile,low,VALV-002,Pressure Relief Valve,Valves,2023-02-04,2023-02-09,2023-02-09,5,5,True,286,8,0.028,6.92,1979.12,True
+PO-10659,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-06-21,2023-06-26,2023-06-26,5,5,True,380,9,0.0237,58.32,22161.6,True
+PO-10660,SUP-005,Krause Logistik KG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2024-11-29,2024-12-07,2024-12-07,8,8,True,481,39,0.0811,70.87,34088.47,True
+PO-10661,SUP-006,Bauer Präzisionsteile,low,VALV-001,"Ball Valve 1/2""",Valves,2023-04-26,2023-04-30,2023-04-30,4,4,True,302,1,0.0033,78.58,23731.16,True
+PO-10662,SUP-004,Weber International Ltd.,high,SEAL-001,EPDM O-Ring Pack,Seals,2023-02-19,2023-03-03,2023-03-03,12,12,True,384,26,0.0677,8.35,3206.4,True
+PO-10663,SUP-007,Hoffmann Global Supply,high,SEAL-002,Press Fitting Seal,Seals,2024-08-13,2024-08-29,2024-08-29,16,16,True,410,80,0.1951,13.41,5498.1,True
+PO-10664,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-01-01,2023-01-10,2023-01-10,9,9,True,285,4,0.014,46.02,13115.7,True
+PO-10665,SUP-007,Hoffmann Global Supply,high,FIXT-001,Push-Fit Connector,Fittings,2024-12-04,2024-12-18,2024-12-18,14,14,True,63,3,0.0476,83.58,5265.54,True
+PO-10666,SUP-006,Bauer Präzisionsteile,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-07-21,2024-07-25,2024-07-25,4,4,True,134,4,0.0299,36.38,4874.92,True
+PO-10667,SUP-002,Fischer Kunststoff AG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-05-08,2023-05-15,2023-05-18,7,10,False,179,11,0.0615,79.29,14192.91,True
+PO-10668,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-11-21,2023-11-25,2023-11-25,4,4,True,65,1,0.0154,33.55,2180.75,True
+PO-10669,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-09-22,2023-10-01,2023-10-01,9,9,True,369,30,0.0813,25.71,9486.99,True
+PO-10670,SUP-003,Müller Rohre & Armaturen,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-08-31,2024-09-06,2024-09-06,6,6,True,432,2,0.0046,38.02,16424.64,True
+PO-10671,SUP-002,Fischer Kunststoff AG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-11-13,2024-11-22,2024-11-22,9,9,True,333,24,0.0721,21.85,7276.05,True
+PO-10672,SUP-006,Bauer Präzisionsteile,low,SEAL-002,Press Fitting Seal,Seals,2024-08-21,2024-08-25,2024-08-25,4,4,True,105,0,0.0,54.03,5673.15,True
+PO-10673,SUP-001,Schmidt Metallteile GmbH,low,FIXT-001,Push-Fit Connector,Fittings,2023-06-20,2023-06-26,2023-06-26,6,6,True,128,3,0.0234,66.29,8485.12,False
+PO-10674,SUP-002,Fischer Kunststoff AG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-12-08,2024-12-17,2024-12-17,9,9,True,195,14,0.0718,83.92,16364.4,True
+PO-10675,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2024-05-08,2024-05-12,2024-05-12,4,4,True,412,8,0.0194,24.53,10106.36,True
+PO-10676,SUP-007,Hoffmann Global Supply,high,VALV-002,Pressure Relief Valve,Valves,2023-10-25,2023-11-10,2023-11-17,16,23,False,177,2,0.0113,77.09,13644.93,True
+PO-10677,SUP-006,Bauer Präzisionsteile,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-01-04,2024-01-09,2024-01-09,5,5,True,368,3,0.0082,7.57,2785.76,True
+PO-10678,SUP-005,Krause Logistik KG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-04-03,2024-04-10,2024-04-10,7,7,True,474,39,0.0823,46.81,22187.94,True
+PO-10679,SUP-002,Fischer Kunststoff AG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-05-02,2023-05-09,2023-05-09,7,7,True,256,3,0.0117,67.11,17180.16,True
+PO-10680,SUP-003,Müller Rohre & Armaturen,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-04-26,2024-05-03,2024-05-03,7,7,True,434,9,0.0207,70.25,30488.5,True
+PO-10681,SUP-003,Müller Rohre & Armaturen,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-08-07,2023-08-12,2023-08-12,5,5,True,428,0,0.0,72.95,31222.6,True
+PO-10682,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2024-08-08,2024-08-14,2024-08-18,6,10,False,72,1,0.0139,83.42,6006.24,True
+PO-10683,SUP-002,Fischer Kunststoff AG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-03-27,2024-04-04,2024-04-04,8,8,True,376,26,0.0691,51.36,19311.36,True
+PO-10684,SUP-001,Schmidt Metallteile GmbH,low,FIXT-001,Push-Fit Connector,Fittings,2024-10-13,2024-10-18,2024-10-18,5,5,True,410,2,0.0049,55.76,22861.6,True
+PO-10685,SUP-006,Bauer Präzisionsteile,low,VALV-001,"Ball Valve 1/2""",Valves,2023-02-14,2023-02-17,2023-02-20,3,6,False,440,17,0.0386,24.03,10573.2,True
+PO-10686,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2024-07-20,2024-08-02,2024-08-02,13,13,True,366,60,0.1639,44.05,16122.3,True
+PO-10687,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-12-20,2024-12-24,2024-12-24,4,4,True,84,0,0.0,54.28,4559.52,True
+PO-10688,SUP-001,Schmidt Metallteile GmbH,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-10-24,2024-10-30,2024-10-30,6,6,True,81,2,0.0247,59.97,4857.57,True
+PO-10689,SUP-005,Krause Logistik KG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-06-29,2023-07-06,2023-07-06,7,7,True,120,8,0.0667,70.55,8466.0,True
+PO-10690,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-04-07,2023-04-19,2023-04-19,12,12,True,219,40,0.1826,49.06,10744.14,True
+PO-10691,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-07-27,2024-08-06,2024-08-06,10,10,True,369,29,0.0786,41.2,15202.8,True
+PO-10692,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-07-18,2023-07-29,2023-08-03,11,16,False,327,37,0.1131,8.46,2766.42,True
+PO-10693,SUP-001,Schmidt Metallteile GmbH,low,FIXT-001,Push-Fit Connector,Fittings,2023-06-25,2023-07-01,2023-07-01,6,6,True,90,0,0.0,9.15,823.5,True
+PO-10694,SUP-001,Schmidt Metallteile GmbH,low,SEAL-002,Press Fitting Seal,Seals,2023-08-17,2023-08-21,2023-08-23,4,6,False,367,5,0.0136,69.52,25513.84,True
+PO-10695,SUP-002,Fischer Kunststoff AG,medium,SEAL-002,Press Fitting Seal,Seals,2023-04-04,2023-04-12,2023-04-12,8,8,True,198,5,0.0253,39.11,7743.78,True
+PO-10696,SUP-001,Schmidt Metallteile GmbH,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-07-07,2024-07-11,2024-07-11,4,4,True,66,2,0.0303,33.2,2191.2,True
+PO-10697,SUP-002,Fischer Kunststoff AG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-02-08,2024-02-17,2024-02-17,9,9,True,314,15,0.0478,28.41,8920.74,True
+PO-10698,SUP-007,Hoffmann Global Supply,high,VALV-001,"Ball Valve 1/2""",Valves,2024-06-21,2024-07-05,2024-07-05,14,14,True,223,19,0.0852,81.83,18248.09,True
+PO-10699,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-09-30,2023-10-07,2023-10-07,7,7,True,233,10,0.0429,30.7,7153.1,True
+PO-10700,SUP-003,Müller Rohre & Armaturen,low,SEAL-002,Press Fitting Seal,Seals,2023-11-04,2023-11-09,2023-11-09,5,5,True,95,3,0.0316,63.68,6049.6,True
+PO-10701,SUP-006,Bauer Präzisionsteile,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-07-14,2024-07-17,2024-07-17,3,3,True,193,5,0.0259,39.65,7652.45,True
+PO-10702,SUP-008,Schneider Dichtungen GmbH,medium,VALV-002,Pressure Relief Valve,Valves,2023-12-02,2023-12-12,2023-12-12,10,10,True,348,20,0.0575,11.81,4109.88,True
+PO-10703,SUP-001,Schmidt Metallteile GmbH,low,FIXT-001,Push-Fit Connector,Fittings,2024-12-24,2024-12-30,2024-12-30,6,6,True,117,4,0.0342,61.5,7195.5,True
+PO-10704,SUP-006,Bauer Präzisionsteile,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-05-20,2023-05-24,2023-05-24,4,4,True,318,8,0.0252,53.51,17016.18,True
+PO-10705,SUP-005,Krause Logistik KG,medium,VALV-002,Pressure Relief Valve,Valves,2024-07-31,2024-08-07,2024-08-07,7,7,True,128,4,0.0312,30.03,3843.84,True
+PO-10706,SUP-002,Fischer Kunststoff AG,medium,VALV-002,Pressure Relief Valve,Valves,2023-10-03,2023-10-12,2023-10-12,9,9,True,232,17,0.0733,62.83,14576.56,True
+PO-10707,SUP-008,Schneider Dichtungen GmbH,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-11-04,2024-11-12,2024-11-12,8,8,True,241,2,0.0083,17.22,4150.02,True
+PO-10708,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-01-08,2024-01-13,2024-01-13,5,5,True,97,0,0.0,50.67,4914.99,True
+PO-10709,SUP-005,Krause Logistik KG,medium,SEAL-002,Press Fitting Seal,Seals,2024-10-08,2024-10-16,2024-10-16,8,8,True,192,3,0.0156,38.0,7296.0,True
+PO-10710,SUP-005,Krause Logistik KG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-09-28,2023-10-06,2023-10-08,8,10,False,203,6,0.0296,5.92,1201.76,True
+PO-10711,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-04-16,2024-04-24,2024-04-24,8,8,True,63,4,0.0635,24.37,1535.31,True
+PO-10712,SUP-007,Hoffmann Global Supply,high,FIXT-002,Elbow 90deg 15mm,Fittings,2024-06-29,2024-07-13,2024-07-13,14,14,True,450,27,0.06,12.51,5629.5,True
+PO-10713,SUP-004,Weber International Ltd.,high,SEAL-001,EPDM O-Ring Pack,Seals,2024-05-30,2024-06-11,2024-06-14,12,15,False,134,25,0.1866,53.42,7158.28,True
+PO-10714,SUP-002,Fischer Kunststoff AG,medium,VALV-002,Pressure Relief Valve,Valves,2023-03-22,2023-03-30,2023-03-30,8,8,True,441,21,0.0476,29.59,13049.19,False
+PO-10715,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-01-02,2023-01-14,2023-01-20,12,18,False,277,44,0.1588,18.8,5207.6,True
+PO-10716,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-04-04,2024-04-10,2024-04-10,6,6,True,487,39,0.0801,64.37,31348.19,True
+PO-10717,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-01-20,2023-01-25,2023-01-25,5,5,True,178,5,0.0281,62.29,11087.62,True
+PO-10718,SUP-006,Bauer Präzisionsteile,low,VALV-002,Pressure Relief Valve,Valves,2024-01-10,2024-01-14,2024-01-16,4,6,False,100,1,0.01,63.6,6360.0,True
+PO-10719,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-001,Push-Fit Connector,Fittings,2023-09-05,2023-09-14,2023-09-14,9,9,True,431,20,0.0464,40.25,17347.75,True
+PO-10720,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-12-18,2023-12-30,2024-01-06,12,19,False,229,44,0.1921,33.68,7712.72,True
+PO-10721,SUP-007,Hoffmann Global Supply,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-02-26,2023-03-13,2023-03-13,15,15,True,336,29,0.0863,6.22,2089.92,True
+PO-10722,SUP-002,Fischer Kunststoff AG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-08-17,2023-08-25,2023-08-25,8,8,True,484,27,0.0558,50.15,24272.6,True
+PO-10723,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2024-06-25,2024-07-03,2024-07-08,8,13,False,226,21,0.0929,82.22,18581.72,True
+PO-10724,SUP-007,Hoffmann Global Supply,high,FIXT-001,Push-Fit Connector,Fittings,2024-08-23,2024-09-07,2024-09-07,15,15,True,278,11,0.0396,26.43,7347.54,True
+PO-10725,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-05-20,2023-05-29,2023-06-01,9,12,False,106,1,0.0094,47.65,5050.9,True
+PO-10726,SUP-003,Müller Rohre & Armaturen,low,FIXT-001,Push-Fit Connector,Fittings,2023-09-16,2023-09-22,2023-09-22,6,6,True,235,0,0.0,44.97,10567.95,False
+PO-10727,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2024-08-11,2024-08-22,2024-08-22,11,11,True,307,24,0.0782,3.37,1034.59,True
+PO-10728,SUP-004,Weber International Ltd.,high,SEAL-002,Press Fitting Seal,Seals,2023-05-31,2023-06-12,2023-06-12,12,12,True,81,8,0.0988,15.75,1275.75,True
+PO-10729,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2023-06-18,2023-06-29,2023-07-02,11,14,False,297,45,0.1515,77.48,23011.56,True
+PO-10730,SUP-007,Hoffmann Global Supply,high,SEAL-001,EPDM O-Ring Pack,Seals,2024-12-10,2024-12-24,2024-12-29,14,19,False,75,14,0.1867,80.4,6030.0,True
+PO-10731,SUP-005,Krause Logistik KG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-08-07,2023-08-15,2023-08-15,8,8,True,200,6,0.03,81.05,16210.0,True
+PO-10732,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2024-11-01,2024-11-09,2024-11-09,8,8,True,349,28,0.0802,39.28,13708.72,True
+PO-10733,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2024-06-07,2024-06-18,2024-06-18,11,11,True,231,5,0.0216,53.75,12416.25,True
+PO-10734,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2024-09-06,2024-09-14,2024-09-14,8,8,True,107,10,0.0935,32.48,3475.36,True
+PO-10735,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-07-21,2024-07-25,2024-07-25,4,4,True,305,0,0.0,84.8,25864.0,True
+PO-10736,SUP-007,Hoffmann Global Supply,high,FIXT-001,Push-Fit Connector,Fittings,2023-08-09,2023-08-25,2023-08-28,16,19,False,445,81,0.182,81.25,36156.25,False
+PO-10737,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-08-03,2023-08-15,2023-08-15,12,12,True,58,2,0.0345,74.24,4305.92,True
+PO-10738,SUP-007,Hoffmann Global Supply,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-08-14,2023-08-28,2023-08-28,14,14,True,398,35,0.0879,52.68,20966.64,True
+PO-10739,SUP-002,Fischer Kunststoff AG,medium,SEAL-002,Press Fitting Seal,Seals,2024-08-10,2024-08-17,2024-08-17,7,7,True,50,1,0.02,16.36,818.0,True
+PO-10740,SUP-003,Müller Rohre & Armaturen,low,SEAL-002,Press Fitting Seal,Seals,2024-11-16,2024-11-22,2024-11-22,6,6,True,139,3,0.0216,51.82,7202.98,True
+PO-10741,SUP-001,Schmidt Metallteile GmbH,low,VALV-001,"Ball Valve 1/2""",Valves,2023-07-18,2023-07-24,2023-07-31,6,13,False,288,11,0.0382,32.88,9469.44,True
+PO-10742,SUP-002,Fischer Kunststoff AG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-12-28,2025-01-04,2025-01-04,7,7,True,129,9,0.0698,46.73,6028.17,True
+PO-10743,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2024-04-22,2024-05-01,2024-05-01,9,9,True,263,22,0.0837,59.35,15609.05,True
+PO-10744,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2024-08-10,2024-08-23,2024-08-28,13,18,False,400,17,0.0425,74.61,29844.0,True
+PO-10745,SUP-004,Weber International Ltd.,high,SEAL-001,EPDM O-Ring Pack,Seals,2023-05-31,2023-06-11,2023-06-11,11,11,True,194,33,0.1701,41.23,7998.62,True
+PO-10746,SUP-002,Fischer Kunststoff AG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-03-03,2023-03-12,2023-03-12,9,9,True,56,0,0.0,3.29,184.24,True
+PO-10747,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-02-24,2023-03-04,2023-03-04,8,8,True,346,30,0.0867,17.28,5978.88,True
+PO-10748,SUP-006,Bauer Präzisionsteile,low,VALV-001,"Ball Valve 1/2""",Valves,2024-03-19,2024-03-24,2024-03-24,5,5,True,242,2,0.0083,61.94,14989.48,True
+PO-10749,SUP-005,Krause Logistik KG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-05-25,2023-05-31,2023-06-07,6,13,False,357,15,0.042,52.49,18738.93,False
+PO-10750,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2024-11-03,2024-11-14,2024-11-14,11,11,True,146,23,0.1575,49.4,7212.4,True
+PO-10751,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-04-05,2023-04-17,2023-04-17,12,12,True,120,14,0.1167,30.2,3624.0,True
+PO-10752,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-01-07,2024-01-16,2024-01-16,9,9,True,205,9,0.0439,24.17,4954.85,True
+PO-10753,SUP-001,Schmidt Metallteile GmbH,low,FIXT-001,Push-Fit Connector,Fittings,2023-01-19,2023-01-23,2023-01-23,4,4,True,436,6,0.0138,70.2,30607.2,True
+PO-10754,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-08-25,2023-08-30,2023-09-04,5,10,False,485,16,0.033,12.02,5829.7,True
+PO-10755,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-07-17,2023-07-27,2023-07-27,10,10,True,136,8,0.0588,68.02,9250.72,True
+PO-10756,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-04-28,2023-05-08,2023-05-08,10,10,True,364,0,0.0,46.85,17053.4,True
+PO-10757,SUP-007,Hoffmann Global Supply,high,FIXT-002,Elbow 90deg 15mm,Fittings,2024-09-03,2024-09-19,2024-09-19,16,16,True,472,90,0.1907,74.04,34946.88,True
+PO-10758,SUP-007,Hoffmann Global Supply,high,VALV-002,Pressure Relief Valve,Valves,2024-02-28,2024-03-13,2024-03-15,14,16,False,246,41,0.1667,7.26,1785.96,False
+PO-10759,SUP-004,Weber International Ltd.,high,VALV-001,"Ball Valve 1/2""",Valves,2024-10-25,2024-11-06,2024-11-09,12,15,False,106,2,0.0189,57.61,6106.66,True
+PO-10760,SUP-003,Müller Rohre & Armaturen,low,VALV-001,"Ball Valve 1/2""",Valves,2023-10-06,2023-10-11,2023-10-11,5,5,True,337,10,0.0297,38.12,12846.44,True
+PO-10761,SUP-005,Krause Logistik KG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-12-26,2025-01-03,2025-01-03,8,8,True,125,2,0.016,60.7,7587.5,True
+PO-10762,SUP-002,Fischer Kunststoff AG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-01-14,2024-01-23,2024-01-28,9,14,False,391,37,0.0946,39.26,15350.66,True
+PO-10763,SUP-002,Fischer Kunststoff AG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-11-09,2024-11-16,2024-11-16,7,7,True,477,44,0.0922,39.63,18903.51,True
+PO-10764,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2024-05-22,2024-06-03,2024-06-05,12,14,False,250,48,0.192,22.63,5657.5,True
+PO-10765,SUP-005,Krause Logistik KG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-06-07,2023-06-15,2023-06-15,8,8,True,458,7,0.0153,75.84,34734.72,True
+PO-10766,SUP-007,Hoffmann Global Supply,high,SEAL-001,EPDM O-Ring Pack,Seals,2024-02-08,2024-02-22,2024-02-27,14,19,False,137,20,0.146,13.96,1912.52,False
+PO-10767,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2024-09-11,2024-09-19,2024-09-24,8,13,False,445,34,0.0764,44.91,19984.95,True
+PO-10768,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-01-17,2023-01-30,2023-01-30,13,13,True,301,29,0.0963,33.92,10209.92,False
+PO-10769,SUP-002,Fischer Kunststoff AG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-02-14,2023-02-22,2023-02-22,8,8,True,467,1,0.0021,71.93,33591.31,True
+PO-10770,SUP-002,Fischer Kunststoff AG,medium,SEAL-002,Press Fitting Seal,Seals,2024-05-29,2024-06-06,2024-06-06,8,8,True,100,1,0.01,8.49,849.0,True
+PO-10771,SUP-007,Hoffmann Global Supply,high,FIXT-001,Push-Fit Connector,Fittings,2024-01-11,2024-01-26,2024-01-28,15,17,False,101,8,0.0792,20.12,2032.12,True
+PO-10772,SUP-003,Müller Rohre & Armaturen,low,FIXT-001,Push-Fit Connector,Fittings,2024-12-23,2024-12-28,2024-12-28,5,5,True,53,0,0.0,74.41,3943.73,True
+PO-10773,SUP-005,Krause Logistik KG,medium,SEAL-002,Press Fitting Seal,Seals,2024-11-18,2024-11-25,2024-11-25,7,7,True,105,8,0.0762,44.24,4645.2,True
+PO-10774,SUP-006,Bauer Präzisionsteile,low,FIXT-001,Push-Fit Connector,Fittings,2024-10-28,2024-11-01,2024-11-01,4,4,True,281,7,0.0249,21.67,6089.27,True
+PO-10775,SUP-005,Krause Logistik KG,medium,VALV-002,Pressure Relief Valve,Valves,2023-03-07,2023-03-15,2023-03-15,8,8,True,71,5,0.0704,27.59,1958.89,True
+PO-10776,SUP-002,Fischer Kunststoff AG,medium,VALV-002,Pressure Relief Valve,Valves,2024-12-28,2025-01-04,2025-01-04,7,7,True,88,0,0.0,6.84,601.92,True
+PO-10777,SUP-005,Krause Logistik KG,medium,SEAL-002,Press Fitting Seal,Seals,2023-12-19,2023-12-25,2023-12-25,6,6,True,385,0,0.0,49.47,19045.95,True
+PO-10778,SUP-002,Fischer Kunststoff AG,medium,VALV-001,"Ball Valve 1/2""",Valves,2023-04-27,2023-05-05,2023-05-05,8,8,True,211,0,0.0,39.18,8266.98,True
+PO-10779,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-03-11,2023-03-17,2023-03-22,6,11,False,490,21,0.0429,6.85,3356.5,True
+PO-10780,SUP-007,Hoffmann Global Supply,high,PIPE-001,Copper Pipe 15mm,Pipes,2024-07-10,2024-07-26,2024-07-30,16,20,False,287,46,0.1603,66.51,19088.37,True
+PO-10781,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-01-04,2024-01-08,2024-01-08,4,4,True,98,1,0.0102,55.83,5471.34,True
+PO-10782,SUP-007,Hoffmann Global Supply,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-06-15,2023-06-30,2023-07-07,15,22,False,292,31,0.1062,26.64,7778.88,True
+PO-10783,SUP-008,Schneider Dichtungen GmbH,medium,VALV-002,Pressure Relief Valve,Valves,2023-03-23,2023-04-02,2023-04-09,10,17,False,407,35,0.086,14.51,5905.57,True
+PO-10784,SUP-001,Schmidt Metallteile GmbH,low,SEAL-002,Press Fitting Seal,Seals,2024-01-10,2024-01-14,2024-01-14,4,4,True,197,0,0.0,54.15,10667.55,True
+PO-10785,SUP-003,Müller Rohre & Armaturen,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-05-08,2023-05-15,2023-05-15,7,7,True,102,1,0.0098,13.52,1379.04,True
+PO-10786,SUP-005,Krause Logistik KG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-08-12,2023-08-19,2023-08-19,7,7,True,196,5,0.0255,63.21,12389.16,True
+PO-10787,SUP-003,Müller Rohre & Armaturen,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-01-03,2023-01-08,2023-01-08,5,5,True,146,0,0.0,84.85,12388.1,True
+PO-10788,SUP-007,Hoffmann Global Supply,high,SEAL-001,EPDM O-Ring Pack,Seals,2023-04-12,2023-04-27,2023-05-02,15,20,False,160,20,0.125,55.82,8931.2,True
+PO-10789,SUP-007,Hoffmann Global Supply,high,VALV-002,Pressure Relief Valve,Valves,2024-09-06,2024-09-20,2024-09-20,14,14,True,133,9,0.0677,5.8,771.4,True
+PO-10790,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2024-08-03,2024-08-14,2024-08-14,11,11,True,237,44,0.1857,67.2,15926.4,True
+PO-10791,SUP-004,Weber International Ltd.,high,FIXT-002,Elbow 90deg 15mm,Fittings,2023-03-26,2023-04-06,2023-04-08,11,13,False,436,30,0.0688,41.92,18277.12,True
+PO-10792,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-08-18,2023-08-26,2023-08-26,8,8,True,121,8,0.0661,30.8,3726.8,True
+PO-10793,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-001,Push-Fit Connector,Fittings,2023-09-16,2023-09-26,2023-09-26,10,10,True,425,20,0.0471,83.6,35530.0,True
+PO-10794,SUP-003,Müller Rohre & Armaturen,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-03-31,2023-04-06,2023-04-06,6,6,True,407,14,0.0344,71.7,29181.9,True
+PO-10795,SUP-005,Krause Logistik KG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-04-30,2024-05-06,2024-05-06,6,6,True,496,35,0.0706,4.56,2261.76,True
+PO-10796,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-05-12,2024-05-15,2024-05-15,3,3,True,314,9,0.0287,10.04,3152.56,True
+PO-10797,SUP-008,Schneider Dichtungen GmbH,medium,VALV-002,Pressure Relief Valve,Valves,2023-03-25,2023-04-02,2023-04-09,8,15,False,376,31,0.0824,50.99,19172.24,False
+PO-10798,SUP-004,Weber International Ltd.,high,SEAL-002,Press Fitting Seal,Seals,2024-11-08,2024-11-21,2024-11-21,13,13,True,274,15,0.0547,47.16,12921.84,True
+PO-10799,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-06-24,2024-07-02,2024-07-02,8,8,True,269,18,0.0669,61.54,16554.26,True
+PO-10800,SUP-002,Fischer Kunststoff AG,medium,VALV-002,Pressure Relief Valve,Valves,2023-10-10,2023-10-18,2023-10-20,8,10,False,122,11,0.0902,73.33,8946.26,True
+PO-10801,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2024-11-24,2024-12-05,2024-12-05,11,11,True,174,27,0.1552,29.09,5061.66,True
+PO-10802,SUP-002,Fischer Kunststoff AG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-01-02,2023-01-10,2023-01-10,8,8,True,152,4,0.0263,80.9,12296.8,False
+PO-10803,SUP-003,Müller Rohre & Armaturen,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-04-27,2023-05-02,2023-05-02,5,5,True,308,2,0.0065,61.26,18868.08,True
+PO-10804,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2024-03-24,2024-04-06,2024-04-06,13,13,True,73,13,0.1781,43.8,3197.4,True
+PO-10805,SUP-001,Schmidt Metallteile GmbH,low,VALV-001,"Ball Valve 1/2""",Valves,2023-07-26,2023-08-01,2023-08-01,6,6,True,316,6,0.019,71.2,22499.2,True
+PO-10806,SUP-005,Krause Logistik KG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-02-01,2024-02-08,2024-02-11,7,10,False,152,0,0.0,77.26,11743.52,True
+PO-10807,SUP-007,Hoffmann Global Supply,high,VALV-001,"Ball Valve 1/2""",Valves,2024-12-16,2025-01-01,2025-01-01,16,16,True,210,27,0.1286,11.04,2318.4,True
+PO-10808,SUP-007,Hoffmann Global Supply,high,SEAL-002,Press Fitting Seal,Seals,2024-10-05,2024-10-20,2024-10-20,15,15,True,337,20,0.0593,58.34,19660.58,True
+PO-10809,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-11-06,2023-11-14,2023-11-14,8,8,True,129,10,0.0775,37.39,4823.31,True
+PO-10810,SUP-006,Bauer Präzisionsteile,low,SEAL-002,Press Fitting Seal,Seals,2024-09-10,2024-09-13,2024-09-13,3,3,True,230,0,0.0,47.46,10915.8,True
+PO-10811,SUP-002,Fischer Kunststoff AG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-04-08,2024-04-15,2024-04-15,7,7,True,115,7,0.0609,58.36,6711.4,True
+PO-10812,SUP-007,Hoffmann Global Supply,high,FIXT-001,Push-Fit Connector,Fittings,2024-08-24,2024-09-07,2024-09-07,14,14,True,237,39,0.1646,49.48,11726.76,True
+PO-10813,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-06-25,2023-07-02,2023-07-02,7,7,True,402,27,0.0672,83.81,33691.62,True
+PO-10814,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-10-24,2023-11-06,2023-11-06,13,13,True,131,16,0.1221,34.08,4464.48,True
+PO-10815,SUP-007,Hoffmann Global Supply,high,VALV-002,Pressure Relief Valve,Valves,2024-01-24,2024-02-07,2024-02-10,14,17,False,220,38,0.1727,16.92,3722.4,True
+PO-10816,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2023-04-10,2023-04-15,2023-04-15,5,5,True,234,1,0.0043,2.81,657.54,True
+PO-10817,SUP-006,Bauer Präzisionsteile,low,SEAL-002,Press Fitting Seal,Seals,2024-11-12,2024-11-15,2024-11-15,3,3,True,309,1,0.0032,54.21,16750.89,True
+PO-10818,SUP-008,Schneider Dichtungen GmbH,medium,VALV-001,"Ball Valve 1/2""",Valves,2023-09-27,2023-10-07,2023-10-07,10,10,True,111,0,0.0,16.85,1870.35,True
+PO-10819,SUP-002,Fischer Kunststoff AG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-06-15,2024-06-23,2024-06-25,8,10,False,245,16,0.0653,36.63,8974.35,True
+PO-10820,SUP-008,Schneider Dichtungen GmbH,medium,VALV-002,Pressure Relief Valve,Valves,2023-04-08,2023-04-16,2023-04-22,8,14,False,186,13,0.0699,7.6,1413.6,True
+PO-10821,SUP-002,Fischer Kunststoff AG,medium,VALV-002,Pressure Relief Valve,Valves,2023-01-29,2023-02-07,2023-02-07,9,9,True,302,10,0.0331,9.79,2956.58,True
+PO-10822,SUP-006,Bauer Präzisionsteile,low,VALV-002,Pressure Relief Valve,Valves,2024-06-20,2024-06-25,2024-06-25,5,5,True,349,0,0.0,13.86,4837.14,False
+PO-10823,SUP-006,Bauer Präzisionsteile,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-06-21,2023-06-26,2023-06-26,5,5,True,179,2,0.0112,22.61,4047.19,True
+PO-10824,SUP-002,Fischer Kunststoff AG,medium,VALV-002,Pressure Relief Valve,Valves,2023-11-26,2023-12-05,2023-12-05,9,9,True,211,1,0.0047,55.08,11621.88,True
+PO-10825,SUP-007,Hoffmann Global Supply,high,VALV-001,"Ball Valve 1/2""",Valves,2024-02-01,2024-02-17,2024-02-17,16,16,True,175,12,0.0686,73.36,12838.0,True
+PO-10826,SUP-001,Schmidt Metallteile GmbH,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-12-16,2024-12-20,2024-12-20,4,4,True,60,1,0.0167,54.48,3268.8,True
+PO-10827,SUP-008,Schneider Dichtungen GmbH,medium,VALV-002,Pressure Relief Valve,Valves,2024-07-11,2024-07-20,2024-07-20,9,9,True,163,2,0.0123,30.98,5049.74,True
+PO-10828,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-11-25,2023-12-04,2023-12-04,9,9,True,330,11,0.0333,57.31,18912.3,False
+PO-10829,SUP-003,Müller Rohre & Armaturen,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-07-05,2024-07-11,2024-07-11,6,6,True,132,0,0.0,45.24,5971.68,True
+PO-10830,SUP-001,Schmidt Metallteile GmbH,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-08-17,2023-08-23,2023-08-23,6,6,True,65,1,0.0154,69.58,4522.7,True
+PO-10831,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-11-19,2024-11-26,2024-11-26,7,7,True,318,17,0.0535,4.91,1561.38,False
+PO-10832,SUP-002,Fischer Kunststoff AG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-04-27,2023-05-05,2023-05-05,8,8,True,254,12,0.0472,84.64,21498.56,True
+PO-10833,SUP-006,Bauer Präzisionsteile,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-01-04,2024-01-08,2024-01-08,4,4,True,215,5,0.0233,2.56,550.4,True
+PO-10834,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2024-03-21,2024-04-01,2024-04-08,11,18,False,199,19,0.0955,40.71,8101.29,True
+PO-10835,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-07-16,2024-07-21,2024-07-21,5,5,True,153,3,0.0196,10.68,1634.04,True
+PO-10836,SUP-005,Krause Logistik KG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-09-08,2023-09-14,2023-09-17,6,9,False,458,32,0.0699,78.94,36154.52,True
+PO-10837,SUP-006,Bauer Präzisionsteile,low,VALV-001,"Ball Valve 1/2""",Valves,2024-09-23,2024-09-28,2024-09-28,5,5,True,481,13,0.027,54.57,26248.17,True
+PO-10838,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2024-04-04,2024-04-08,2024-04-08,4,4,True,170,5,0.0294,61.7,10489.0,True
+PO-10839,SUP-007,Hoffmann Global Supply,high,FIXT-001,Push-Fit Connector,Fittings,2024-12-22,2025-01-05,2025-01-05,14,14,True,342,67,0.1959,22.98,7859.16,True
+PO-10840,SUP-004,Weber International Ltd.,high,VALV-001,"Ball Valve 1/2""",Valves,2024-05-17,2024-05-29,2024-06-02,12,16,False,192,8,0.0417,36.42,6992.64,False
+PO-10841,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-07-11,2023-07-20,2023-07-20,9,9,True,264,22,0.0833,84.83,22395.12,True
+PO-10842,SUP-005,Krause Logistik KG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-05-20,2024-05-27,2024-05-27,7,7,True,353,21,0.0595,6.2,2188.6,True
+PO-10843,SUP-001,Schmidt Metallteile GmbH,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-08-21,2024-08-25,2024-08-25,4,4,True,454,2,0.0044,72.15,32756.1,True
+PO-10844,SUP-004,Weber International Ltd.,high,VALV-002,Pressure Relief Valve,Valves,2024-06-23,2024-07-04,2024-07-04,11,11,True,428,80,0.1869,9.71,4155.88,True
+PO-10845,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-09-05,2023-09-17,2023-09-17,12,12,True,207,38,0.1836,14.7,3042.9,True
+PO-10846,SUP-003,Müller Rohre & Armaturen,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-12-28,2025-01-04,2025-01-04,7,7,True,143,5,0.035,35.47,5072.21,True
+PO-10847,SUP-003,Müller Rohre & Armaturen,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-01-12,2024-01-18,2024-01-18,6,6,True,76,2,0.0263,79.41,6035.16,True
+PO-10848,SUP-005,Krause Logistik KG,medium,VALV-002,Pressure Relief Valve,Valves,2023-12-07,2023-12-13,2023-12-13,6,6,True,366,25,0.0683,8.46,3096.36,True
+PO-10849,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-03-29,2024-04-06,2024-04-08,8,10,False,50,4,0.08,16.72,836.0,True
+PO-10850,SUP-001,Schmidt Metallteile GmbH,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-01-06,2024-01-12,2024-01-12,6,6,True,310,3,0.0097,50.76,15735.6,False
+PO-10851,SUP-006,Bauer Präzisionsteile,low,VALV-001,"Ball Valve 1/2""",Valves,2024-04-12,2024-04-17,2024-04-17,5,5,True,153,0,0.0,64.66,9892.98,True
+PO-10852,SUP-004,Weber International Ltd.,high,SEAL-002,Press Fitting Seal,Seals,2024-05-12,2024-05-23,2024-05-23,11,11,True,88,16,0.1818,81.96,7212.48,True
+PO-10853,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-06-21,2023-06-29,2023-07-02,8,11,False,126,11,0.0873,81.77,10303.02,True
+PO-10854,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-11-21,2023-11-26,2023-11-26,5,5,True,379,1,0.0026,74.58,28265.82,True
+PO-10855,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-03-01,2023-03-10,2023-03-10,9,9,True,78,0,0.0,65.11,5078.58,True
+PO-10856,SUP-001,Schmidt Metallteile GmbH,low,FIXT-001,Push-Fit Connector,Fittings,2024-02-05,2024-02-11,2024-02-11,6,6,True,235,3,0.0128,46.69,10972.15,True
+PO-10857,SUP-007,Hoffmann Global Supply,high,SEAL-002,Press Fitting Seal,Seals,2024-08-11,2024-08-26,2024-08-26,15,15,True,287,31,0.108,7.07,2029.09,True
+PO-10858,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-001,Push-Fit Connector,Fittings,2023-01-17,2023-01-27,2023-01-27,10,10,True,169,5,0.0296,42.63,7204.47,True
+PO-10859,SUP-002,Fischer Kunststoff AG,medium,SEAL-002,Press Fitting Seal,Seals,2024-06-06,2024-06-15,2024-06-15,9,9,True,494,15,0.0304,40.51,20011.94,False
+PO-10860,SUP-008,Schneider Dichtungen GmbH,medium,VALV-001,"Ball Valve 1/2""",Valves,2023-01-16,2023-01-25,2023-01-25,9,9,True,290,9,0.031,57.97,16811.3,True
+PO-10861,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-05-14,2023-05-24,2023-05-24,10,10,True,115,7,0.0609,8.82,1014.3,True
+PO-10862,SUP-004,Weber International Ltd.,high,FIXT-002,Elbow 90deg 15mm,Fittings,2023-04-13,2023-04-24,2023-04-24,11,11,True,150,22,0.1467,19.41,2911.5,False
+PO-10863,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2024-05-20,2024-05-28,2024-05-31,8,11,False,80,7,0.0875,28.84,2307.2,True
+PO-10864,SUP-001,Schmidt Metallteile GmbH,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-08-20,2023-08-25,2023-08-25,5,5,True,158,4,0.0253,50.62,7997.96,True
+PO-10865,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-02-06,2023-02-18,2023-02-18,12,12,True,276,14,0.0507,84.1,23211.6,True
+PO-10866,SUP-003,Müller Rohre & Armaturen,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-02-22,2023-03-01,2023-03-01,7,7,True,316,9,0.0285,68.69,21706.04,True
+PO-10867,SUP-007,Hoffmann Global Supply,high,VALV-001,"Ball Valve 1/2""",Valves,2024-01-31,2024-02-16,2024-02-22,16,22,False,214,23,0.1075,64.9,13888.6,True
+PO-10868,SUP-002,Fischer Kunststoff AG,medium,VALV-002,Pressure Relief Valve,Valves,2023-09-28,2023-10-06,2023-10-06,8,8,True,328,17,0.0518,72.58,23806.24,True
+PO-10869,SUP-002,Fischer Kunststoff AG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-10-09,2024-10-16,2024-10-19,7,10,False,488,1,0.002,10.36,5055.68,True
+PO-10870,SUP-001,Schmidt Metallteile GmbH,low,VALV-001,"Ball Valve 1/2""",Valves,2024-01-30,2024-02-05,2024-02-05,6,6,True,372,0,0.0,6.65,2473.8,True
+PO-10871,SUP-007,Hoffmann Global Supply,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-01-21,2023-02-05,2023-02-05,15,15,True,260,25,0.0962,57.42,14929.2,True
+PO-10872,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-05-31,2023-06-08,2023-06-08,8,8,True,383,7,0.0183,39.63,15178.29,True
+PO-10873,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-10-19,2024-10-25,2024-10-25,6,6,True,290,24,0.0828,7.0,2030.0,True
+PO-10874,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-03-08,2023-03-11,2023-03-11,3,3,True,448,3,0.0067,51.46,23054.08,True
+PO-10875,SUP-004,Weber International Ltd.,high,FIXT-002,Elbow 90deg 15mm,Fittings,2024-03-03,2024-03-15,2024-03-15,12,12,True,375,10,0.0267,27.02,10132.5,True
+PO-10876,SUP-005,Krause Logistik KG,medium,SEAL-002,Press Fitting Seal,Seals,2023-10-07,2023-10-14,2023-10-14,7,7,True,96,6,0.0625,2.68,257.28,True
+PO-10877,SUP-002,Fischer Kunststoff AG,medium,VALV-002,Pressure Relief Valve,Valves,2023-11-09,2023-11-18,2023-11-23,9,14,False,248,22,0.0887,35.71,8856.08,True
+PO-10878,SUP-003,Müller Rohre & Armaturen,low,VALV-002,Pressure Relief Valve,Valves,2024-08-27,2024-09-02,2024-09-02,6,6,True,259,8,0.0309,28.53,7389.27,True
+PO-10879,SUP-006,Bauer Präzisionsteile,low,FIXT-001,Push-Fit Connector,Fittings,2023-11-05,2023-11-10,2023-11-10,5,5,True,354,7,0.0198,24.61,8711.94,True
+PO-10880,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-10-20,2023-10-28,2023-10-28,8,8,True,473,17,0.0359,18.21,8613.33,True
+PO-10881,SUP-006,Bauer Präzisionsteile,low,FIXT-001,Push-Fit Connector,Fittings,2024-04-30,2024-05-04,2024-05-04,4,4,True,161,3,0.0186,44.01,7085.61,False
+PO-10882,SUP-004,Weber International Ltd.,high,SEAL-001,EPDM O-Ring Pack,Seals,2024-01-02,2024-01-14,2024-01-14,12,12,True,132,17,0.1288,55.65,7345.8,True
+PO-10883,SUP-007,Hoffmann Global Supply,high,SEAL-001,EPDM O-Ring Pack,Seals,2024-12-01,2024-12-17,2024-12-20,16,19,False,452,68,0.1504,63.59,28742.68,True
+PO-10884,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-001,Push-Fit Connector,Fittings,2023-08-22,2023-08-30,2023-08-30,8,8,True,157,14,0.0892,48.44,7605.08,True
+PO-10885,SUP-003,Müller Rohre & Armaturen,low,SEAL-002,Press Fitting Seal,Seals,2023-03-15,2023-03-22,2023-03-22,7,7,True,196,5,0.0255,53.62,10509.52,True
+PO-10886,SUP-001,Schmidt Metallteile GmbH,low,SEAL-002,Press Fitting Seal,Seals,2024-01-29,2024-02-04,2024-02-04,6,6,True,308,5,0.0162,18.22,5611.76,True
+PO-10887,SUP-004,Weber International Ltd.,high,FIXT-002,Elbow 90deg 15mm,Fittings,2024-09-10,2024-09-23,2024-09-29,13,19,False,428,79,0.1846,31.38,13430.64,True
+PO-10888,SUP-001,Schmidt Metallteile GmbH,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-08-24,2023-08-30,2023-08-30,6,6,True,295,9,0.0305,32.58,9611.1,True
+PO-10889,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-001,Push-Fit Connector,Fittings,2024-04-24,2024-05-04,2024-05-09,10,15,False,338,4,0.0118,39.17,13239.46,True
+PO-10890,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-10-25,2023-11-03,2023-11-03,9,9,True,136,12,0.0882,34.63,4709.68,True
+PO-10891,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-10-08,2023-10-21,2023-10-28,13,20,False,201,0,0.0,33.17,6667.17,True
+PO-10892,SUP-007,Hoffmann Global Supply,high,VALV-001,"Ball Valve 1/2""",Valves,2024-11-05,2024-11-19,2024-11-26,14,21,False,470,34,0.0723,33.54,15763.8,True
+PO-10893,SUP-004,Weber International Ltd.,high,SEAL-001,EPDM O-Ring Pack,Seals,2023-09-30,2023-10-11,2023-10-11,11,11,True,357,22,0.0616,62.59,22344.63,True
+PO-10894,SUP-001,Schmidt Metallteile GmbH,low,FIXT-001,Push-Fit Connector,Fittings,2023-07-24,2023-07-28,2023-07-28,4,4,True,246,6,0.0244,4.92,1210.32,True
+PO-10895,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2023-08-27,2023-09-01,2023-09-01,5,5,True,418,11,0.0263,28.52,11921.36,True
+PO-10896,SUP-001,Schmidt Metallteile GmbH,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-08-05,2023-08-11,2023-08-11,6,6,True,213,2,0.0094,44.47,9472.11,True
+PO-10897,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-02-25,2023-03-06,2023-03-06,9,9,True,335,3,0.009,57.35,19212.25,True
+PO-10898,SUP-006,Bauer Präzisionsteile,low,VALV-001,"Ball Valve 1/2""",Valves,2024-12-08,2024-12-13,2024-12-13,5,5,True,380,4,0.0105,60.07,22826.6,True
+PO-10899,SUP-007,Hoffmann Global Supply,high,VALV-002,Pressure Relief Valve,Valves,2023-01-07,2023-01-23,2023-01-23,16,16,True,411,36,0.0876,39.36,16176.96,True
+PO-10900,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-11-29,2023-12-08,2023-12-08,9,9,True,394,9,0.0228,40.92,16122.48,True
+PO-10901,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-10-11,2023-10-19,2023-10-19,8,8,True,281,23,0.0819,44.06,12380.86,True
+PO-10902,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-09-27,2023-10-03,2023-10-03,6,6,True,134,5,0.0373,50.47,6762.98,False
+PO-10903,SUP-006,Bauer Präzisionsteile,low,FIXT-001,Push-Fit Connector,Fittings,2024-10-14,2024-10-19,2024-10-23,5,9,False,96,2,0.0208,40.42,3880.32,True
+PO-10904,SUP-005,Krause Logistik KG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-07-02,2024-07-10,2024-07-10,8,8,True,431,31,0.0719,56.02,24144.62,True
+PO-10905,SUP-001,Schmidt Metallteile GmbH,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-07-23,2023-07-28,2023-07-28,5,5,True,289,10,0.0346,39.1,11299.9,True
+PO-10906,SUP-008,Schneider Dichtungen GmbH,medium,VALV-001,"Ball Valve 1/2""",Valves,2023-09-11,2023-09-19,2023-09-19,8,8,True,65,5,0.0769,7.43,482.95,True
+PO-10907,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-06-30,2023-07-03,2023-07-03,3,3,True,139,1,0.0072,19.68,2735.52,True
+PO-10908,SUP-007,Hoffmann Global Supply,high,PIPE-001,Copper Pipe 15mm,Pipes,2024-11-18,2024-12-02,2024-12-02,14,14,True,273,48,0.1758,24.73,6751.29,True
+PO-10909,SUP-002,Fischer Kunststoff AG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-07-01,2023-07-08,2023-07-11,7,10,False,193,5,0.0259,65.77,12693.61,True
+PO-10910,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-01-29,2024-02-01,2024-02-01,3,3,True,141,3,0.0213,53.47,7539.27,True
+PO-10911,SUP-002,Fischer Kunststoff AG,medium,VALV-001,"Ball Valve 1/2""",Valves,2023-08-09,2023-08-17,2023-08-17,8,8,True,241,15,0.0622,23.32,5620.12,True
+PO-10912,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-06-11,2023-06-19,2023-06-19,8,8,True,210,11,0.0524,7.75,1627.5,True
+PO-10913,SUP-007,Hoffmann Global Supply,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-04-23,2023-05-08,2023-05-15,15,22,False,361,44,0.1219,18.28,6599.08,True
+PO-10914,SUP-006,Bauer Präzisionsteile,low,VALV-002,Pressure Relief Valve,Valves,2024-02-22,2024-02-25,2024-02-25,3,3,True,413,15,0.0363,75.36,31123.68,True
+PO-10915,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-02-14,2023-02-24,2023-02-28,10,14,False,226,14,0.0619,65.72,14852.72,True
+PO-10916,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-01-14,2024-01-17,2024-01-17,3,3,True,339,8,0.0236,64.69,21929.91,True
+PO-10917,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2024-07-05,2024-07-18,2024-07-18,13,13,True,230,0,0.0,53.86,12387.8,True
+PO-10918,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2024-11-22,2024-12-02,2024-12-02,10,10,True,226,1,0.0044,25.35,5729.1,True
+PO-10919,SUP-007,Hoffmann Global Supply,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-02-18,2023-03-04,2023-03-06,14,16,False,440,68,0.1545,20.8,9152.0,True
+PO-10920,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-01-11,2023-01-15,2023-01-15,4,4,True,496,11,0.0222,26.16,12975.36,True
+PO-10921,SUP-003,Müller Rohre & Armaturen,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-08-17,2023-08-24,2023-08-24,7,7,True,402,12,0.0299,72.25,29044.5,True
+PO-10922,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-06-26,2024-07-05,2024-07-05,9,9,True,362,8,0.0221,15.34,5553.08,True
+PO-10923,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-01-16,2023-01-25,2023-01-27,9,11,False,454,37,0.0815,4.55,2065.7,True
+PO-10924,SUP-005,Krause Logistik KG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-10-24,2023-10-31,2023-11-07,7,14,False,110,10,0.0909,20.69,2275.9,True
+PO-10925,SUP-003,Müller Rohre & Armaturen,low,FIXT-001,Push-Fit Connector,Fittings,2023-12-25,2023-12-31,2023-12-31,6,6,True,235,5,0.0213,82.57,19403.95,True
+PO-10926,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-06-02,2023-06-05,2023-06-05,3,3,True,164,4,0.0244,22.36,3667.04,True
+PO-10927,SUP-001,Schmidt Metallteile GmbH,low,FIXT-001,Push-Fit Connector,Fittings,2023-12-06,2023-12-10,2023-12-13,4,7,False,255,5,0.0196,26.03,6637.65,False
+PO-10928,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2024-10-18,2024-10-30,2024-10-30,12,12,True,51,1,0.0196,50.1,2555.1,True
+PO-10929,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2024-12-17,2024-12-29,2024-12-29,12,12,True,138,15,0.1087,64.17,8855.46,True
+PO-10930,SUP-008,Schneider Dichtungen GmbH,medium,VALV-002,Pressure Relief Valve,Valves,2023-05-29,2023-06-07,2023-06-07,9,9,True,321,12,0.0374,7.45,2391.45,True
+PO-10931,SUP-003,Müller Rohre & Armaturen,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-10-02,2023-10-07,2023-10-07,5,5,True,135,3,0.0222,9.65,1302.75,True
+PO-10932,SUP-003,Müller Rohre & Armaturen,low,FIXT-001,Push-Fit Connector,Fittings,2023-10-16,2023-10-21,2023-10-21,5,5,True,460,3,0.0065,31.89,14669.4,True
+PO-10933,SUP-003,Müller Rohre & Armaturen,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-01-04,2024-01-10,2024-01-10,6,6,True,240,2,0.0083,12.19,2925.6,True
+PO-10934,SUP-001,Schmidt Metallteile GmbH,low,SEAL-002,Press Fitting Seal,Seals,2023-06-26,2023-06-30,2023-06-30,4,4,True,389,8,0.0206,20.01,7783.89,True
+PO-10935,SUP-002,Fischer Kunststoff AG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-03-29,2024-04-07,2024-04-11,9,13,False,235,1,0.0043,52.45,12325.75,True
+PO-10936,SUP-002,Fischer Kunststoff AG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-08-22,2024-08-29,2024-08-29,7,7,True,395,12,0.0304,19.07,7532.65,True
+PO-10937,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-04-16,2023-04-19,2023-04-19,3,3,True,85,0,0.0,26.08,2216.8,True
+PO-10938,SUP-002,Fischer Kunststoff AG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-03-30,2024-04-08,2024-04-08,9,9,True,336,17,0.0506,57.43,19296.48,True
+PO-10939,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-05-08,2023-05-18,2023-05-18,10,10,True,315,23,0.073,39.61,12477.15,True
+PO-10940,SUP-007,Hoffmann Global Supply,high,FIXT-002,Elbow 90deg 15mm,Fittings,2023-11-19,2023-12-05,2023-12-05,16,16,True,158,28,0.1772,76.63,12107.54,True
+PO-10941,SUP-002,Fischer Kunststoff AG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-03-12,2023-03-21,2023-03-21,9,9,True,421,18,0.0428,36.22,15248.62,True
+PO-10942,SUP-003,Müller Rohre & Armaturen,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-08-28,2024-09-03,2024-09-03,6,6,True,114,2,0.0175,49.71,5666.94,True
+PO-10943,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2024-04-15,2024-04-26,2024-04-26,11,11,True,432,34,0.0787,79.44,34318.08,True
+PO-10944,SUP-006,Bauer Präzisionsteile,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-09-27,2023-09-30,2023-10-05,3,8,False,400,9,0.0225,49.63,19852.0,True
+PO-10945,SUP-006,Bauer Präzisionsteile,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-12-06,2024-12-10,2024-12-10,4,4,True,124,1,0.0081,73.81,9152.44,True
+PO-10946,SUP-002,Fischer Kunststoff AG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-10-22,2023-10-30,2023-10-30,8,8,True,476,38,0.0798,19.64,9348.64,True
+PO-10947,SUP-004,Weber International Ltd.,high,SEAL-001,EPDM O-Ring Pack,Seals,2024-07-07,2024-07-19,2024-07-22,12,15,False,465,33,0.071,61.87,28769.55,True
+PO-10948,SUP-002,Fischer Kunststoff AG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-10-31,2024-11-09,2024-11-13,9,13,False,442,37,0.0837,36.03,15925.26,True
+PO-10949,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2023-12-22,2024-01-02,2024-01-04,11,13,False,199,5,0.0251,20.51,4081.49,False
+PO-10950,SUP-006,Bauer Präzisionsteile,low,VALV-001,"Ball Valve 1/2""",Valves,2023-02-17,2023-02-21,2023-02-21,4,4,True,321,0,0.0,66.21,21253.41,True
+PO-10951,SUP-005,Krause Logistik KG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-12-03,2023-12-10,2023-12-10,7,7,True,377,36,0.0955,9.9,3732.3,True
+PO-10952,SUP-004,Weber International Ltd.,high,VALV-002,Pressure Relief Valve,Valves,2023-03-23,2023-04-05,2023-04-05,13,13,True,457,60,0.1313,15.29,6987.53,True
+PO-10953,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-12-06,2024-12-12,2024-12-12,6,6,True,250,21,0.084,49.54,12385.0,True
+PO-10954,SUP-001,Schmidt Metallteile GmbH,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-08-19,2024-08-23,2024-08-27,4,8,False,490,2,0.0041,62.31,30531.9,True
+PO-10955,SUP-007,Hoffmann Global Supply,high,SEAL-001,EPDM O-Ring Pack,Seals,2024-07-21,2024-08-06,2024-08-06,16,16,True,154,28,0.1818,17.15,2641.1,True
+PO-10956,SUP-005,Krause Logistik KG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-08-13,2023-08-21,2023-08-21,8,8,True,342,27,0.0789,26.03,8902.26,True
+PO-10957,SUP-006,Bauer Präzisionsteile,low,VALV-002,Pressure Relief Valve,Valves,2024-02-24,2024-02-27,2024-02-27,3,3,True,203,4,0.0197,26.2,5318.6,True
+PO-10958,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-12-16,2024-12-26,2024-12-26,10,10,True,475,14,0.0295,3.74,1776.5,True
+PO-10959,SUP-007,Hoffmann Global Supply,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-10-04,2023-10-18,2023-10-18,14,14,True,237,41,0.173,62.66,14850.42,True
+PO-10960,SUP-004,Weber International Ltd.,high,FIXT-002,Elbow 90deg 15mm,Fittings,2024-06-28,2024-07-10,2024-07-10,12,12,True,315,25,0.0794,27.54,8675.1,True
+PO-10961,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-06-23,2024-07-03,2024-07-03,10,10,True,158,8,0.0506,10.59,1673.22,False
+PO-10962,SUP-003,Müller Rohre & Armaturen,low,VALV-002,Pressure Relief Valve,Valves,2023-04-09,2023-04-14,2023-04-14,5,5,True,336,12,0.0357,69.99,23516.64,True
+PO-10963,SUP-005,Krause Logistik KG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-12-09,2024-12-16,2024-12-18,7,9,False,69,3,0.0435,69.12,4769.28,False
+PO-10964,SUP-004,Weber International Ltd.,high,FIXT-002,Elbow 90deg 15mm,Fittings,2024-01-22,2024-02-02,2024-02-02,11,11,True,339,65,0.1917,82.96,28123.44,True
+PO-10965,SUP-002,Fischer Kunststoff AG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-12-06,2024-12-14,2024-12-16,8,10,False,294,25,0.085,26.42,7767.48,True
+PO-10966,SUP-004,Weber International Ltd.,high,SEAL-002,Press Fitting Seal,Seals,2023-11-26,2023-12-08,2023-12-12,12,16,False,215,6,0.0279,53.58,11519.7,True
+PO-10967,SUP-005,Krause Logistik KG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-06-27,2023-07-04,2023-07-04,7,7,True,463,8,0.0173,77.53,35896.39,True
+PO-10968,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2024-03-20,2024-04-01,2024-04-04,12,15,False,160,29,0.1812,79.35,12696.0,True
+PO-10969,SUP-001,Schmidt Metallteile GmbH,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-04-21,2024-04-27,2024-04-27,6,6,True,202,5,0.0248,77.54,15663.08,True
+PO-10970,SUP-006,Bauer Präzisionsteile,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-06-14,2024-06-19,2024-06-21,5,7,False,72,0,0.0,61.5,4428.0,True
+PO-10971,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2024-08-11,2024-08-17,2024-08-17,6,6,True,336,4,0.0119,53.65,18026.4,True
+PO-10972,SUP-001,Schmidt Metallteile GmbH,low,SEAL-002,Press Fitting Seal,Seals,2023-08-18,2023-08-23,2023-08-23,5,5,True,205,0,0.0,4.96,1016.8,True
+PO-10973,SUP-004,Weber International Ltd.,high,VALV-001,"Ball Valve 1/2""",Valves,2024-01-17,2024-01-29,2024-02-05,12,19,False,87,14,0.1609,11.27,980.49,True
+PO-10974,SUP-003,Müller Rohre & Armaturen,low,FIXT-001,Push-Fit Connector,Fittings,2024-11-11,2024-11-18,2024-11-18,7,7,True,69,1,0.0145,34.14,2355.66,True
+PO-10975,SUP-002,Fischer Kunststoff AG,medium,SEAL-002,Press Fitting Seal,Seals,2024-11-12,2024-11-20,2024-11-20,8,8,True,463,31,0.067,42.23,19552.49,True
+PO-10976,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-01-03,2023-01-13,2023-01-13,10,10,True,391,31,0.0793,21.56,8429.96,True
+PO-10977,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-11-07,2024-11-12,2024-11-12,5,5,True,102,0,0.0,26.58,2711.16,True
+PO-10978,SUP-003,Müller Rohre & Armaturen,low,VALV-002,Pressure Relief Valve,Valves,2023-02-16,2023-02-22,2023-02-22,6,6,True,289,9,0.0311,16.7,4826.3,True
+PO-10979,SUP-003,Müller Rohre & Armaturen,low,FIXT-001,Push-Fit Connector,Fittings,2024-01-16,2024-01-21,2024-01-21,5,5,True,378,9,0.0238,60.09,22714.02,True
+PO-10980,SUP-005,Krause Logistik KG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-04-20,2024-04-27,2024-05-01,7,11,False,418,13,0.0311,41.7,17430.6,True
+PO-10981,SUP-002,Fischer Kunststoff AG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-12-17,2024-12-25,2024-12-25,8,8,True,191,0,0.0,58.02,11081.82,True
+PO-10982,SUP-001,Schmidt Metallteile GmbH,low,SEAL-002,Press Fitting Seal,Seals,2023-06-07,2023-06-12,2023-06-12,5,5,True,300,9,0.03,82.8,24840.0,True
+PO-10983,SUP-003,Müller Rohre & Armaturen,low,SEAL-002,Press Fitting Seal,Seals,2023-01-03,2023-01-08,2023-01-08,5,5,True,65,1,0.0154,55.4,3601.0,True
+PO-10984,SUP-006,Bauer Präzisionsteile,low,VALV-001,"Ball Valve 1/2""",Valves,2024-07-14,2024-07-19,2024-07-19,5,5,True,335,8,0.0239,81.18,27195.3,True
+PO-10985,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-12-18,2024-12-22,2024-12-22,4,4,True,367,1,0.0027,36.68,13461.56,True
+PO-10986,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-09-06,2023-09-15,2023-09-15,9,9,True,206,17,0.0825,64.27,13239.62,True
+PO-10987,SUP-001,Schmidt Metallteile GmbH,low,VALV-001,"Ball Valve 1/2""",Valves,2023-03-07,2023-03-12,2023-03-12,5,5,True,377,4,0.0106,31.6,11913.2,True
+PO-10988,SUP-005,Krause Logistik KG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-03-02,2023-03-08,2023-03-08,6,6,True,295,27,0.0915,5.06,1492.7,True
+PO-10989,SUP-006,Bauer Präzisionsteile,low,VALV-001,"Ball Valve 1/2""",Valves,2023-04-12,2023-04-16,2023-04-16,4,4,True,259,4,0.0154,35.87,9290.33,True
+PO-10990,SUP-007,Hoffmann Global Supply,high,SEAL-001,EPDM O-Ring Pack,Seals,2023-11-17,2023-12-03,2023-12-03,16,16,True,162,22,0.1358,32.92,5333.04,True
+PO-10991,SUP-007,Hoffmann Global Supply,high,VALV-001,"Ball Valve 1/2""",Valves,2023-04-21,2023-05-05,2023-05-12,14,21,False,69,0,0.0,23.02,1588.38,True
+PO-10992,SUP-002,Fischer Kunststoff AG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-01-23,2023-02-01,2023-02-03,9,11,False,62,2,0.0323,8.98,556.76,True
+PO-10993,SUP-006,Bauer Präzisionsteile,low,VALV-002,Pressure Relief Valve,Valves,2024-12-05,2024-12-09,2024-12-09,4,4,True,442,7,0.0158,60.29,26648.18,True
+PO-10994,SUP-004,Weber International Ltd.,high,FIXT-002,Elbow 90deg 15mm,Fittings,2023-07-15,2023-07-26,2023-07-30,11,15,False,177,9,0.0508,69.23,12253.71,True
+PO-10995,SUP-005,Krause Logistik KG,medium,VALV-002,Pressure Relief Valve,Valves,2024-10-13,2024-10-20,2024-10-20,7,7,True,278,7,0.0252,73.69,20485.82,True
+PO-10996,SUP-003,Müller Rohre & Armaturen,low,SEAL-002,Press Fitting Seal,Seals,2024-12-13,2024-12-19,2024-12-19,6,6,True,138,4,0.029,59.28,8180.64,True
+PO-10997,SUP-001,Schmidt Metallteile GmbH,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-03-18,2024-03-22,2024-03-22,4,4,True,196,3,0.0153,42.41,8312.36,True
+PO-10998,SUP-001,Schmidt Metallteile GmbH,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-01-14,2023-01-19,2023-01-19,5,5,True,235,0,0.0,40.46,9508.1,True
+PO-10999,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-08-09,2023-08-19,2023-08-19,10,10,True,388,9,0.0232,34.52,13393.76,True
+PO-11000,SUP-007,Hoffmann Global Supply,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-11-24,2023-12-10,2023-12-10,16,16,True,496,79,0.1593,20.77,10301.92,False
+PO-11001,SUP-007,Hoffmann Global Supply,high,SEAL-002,Press Fitting Seal,Seals,2023-12-12,2023-12-26,2023-12-31,14,19,False,256,15,0.0586,40.46,10357.76,False
+PO-11002,SUP-005,Krause Logistik KG,medium,SEAL-002,Press Fitting Seal,Seals,2023-01-11,2023-01-19,2023-01-19,8,8,True,315,2,0.0063,9.58,3017.7,True
+PO-11003,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-01-17,2023-01-30,2023-02-05,13,19,False,303,39,0.1287,71.66,21712.98,True
+PO-11004,SUP-006,Bauer Präzisionsteile,low,SEAL-002,Press Fitting Seal,Seals,2023-07-23,2023-07-26,2023-07-26,3,3,True,424,4,0.0094,53.11,22518.64,True
+PO-11005,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-09-23,2023-10-01,2023-10-01,8,8,True,344,7,0.0203,62.23,21407.12,True
+PO-11006,SUP-003,Müller Rohre & Armaturen,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-12-25,2024-12-30,2024-12-30,5,5,True,373,0,0.0,29.47,10992.31,True
+PO-11007,SUP-007,Hoffmann Global Supply,high,SEAL-001,EPDM O-Ring Pack,Seals,2023-04-19,2023-05-03,2023-05-03,14,14,True,457,7,0.0153,50.67,23156.19,True
+PO-11008,SUP-006,Bauer Präzisionsteile,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-07-22,2024-07-26,2024-07-26,4,4,True,376,8,0.0213,77.71,29218.96,True
+PO-11009,SUP-007,Hoffmann Global Supply,high,SEAL-002,Press Fitting Seal,Seals,2023-03-27,2023-04-11,2023-04-11,15,15,True,414,55,0.1329,54.17,22426.38,True
+PO-11010,SUP-003,Müller Rohre & Armaturen,low,VALV-001,"Ball Valve 1/2""",Valves,2023-12-17,2023-12-23,2023-12-23,6,6,True,212,7,0.033,54.15,11479.8,True
+PO-11011,SUP-005,Krause Logistik KG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2024-03-11,2024-03-19,2024-03-25,8,14,False,167,9,0.0539,70.19,11721.73,True
+PO-11012,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-01-25,2024-01-28,2024-01-28,3,3,True,403,13,0.0323,8.28,3336.84,True
+PO-11013,SUP-003,Müller Rohre & Armaturen,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-09-26,2024-10-01,2024-10-01,5,5,True,247,2,0.0081,64.89,16027.83,True
+PO-11014,SUP-003,Müller Rohre & Armaturen,low,VALV-002,Pressure Relief Valve,Valves,2023-02-20,2023-02-27,2023-02-27,7,7,True,171,3,0.0175,10.49,1793.79,True
+PO-11015,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-05-06,2024-05-15,2024-05-15,9,9,True,117,9,0.0769,36.29,4245.93,True
+PO-11016,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-11-19,2023-11-28,2023-11-30,9,11,False,482,44,0.0913,23.52,11336.64,True
+PO-11017,SUP-002,Fischer Kunststoff AG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-09-14,2023-09-21,2023-09-21,7,7,True,436,5,0.0115,47.2,20579.2,True
+PO-11018,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-04-24,2023-05-04,2023-05-04,10,10,True,408,4,0.0098,45.27,18470.16,True
+PO-11019,SUP-006,Bauer Präzisionsteile,low,FIXT-001,Push-Fit Connector,Fittings,2023-07-18,2023-07-23,2023-07-23,5,5,True,299,10,0.0334,80.34,24021.66,True
+PO-11020,SUP-005,Krause Logistik KG,medium,SEAL-002,Press Fitting Seal,Seals,2023-01-06,2023-01-13,2023-01-13,7,7,True,332,23,0.0693,49.17,16324.44,True
+PO-11021,SUP-003,Müller Rohre & Armaturen,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-08-13,2024-08-19,2024-08-19,6,6,True,429,15,0.035,27.44,11771.76,True
+PO-11022,SUP-001,Schmidt Metallteile GmbH,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-09-16,2024-09-21,2024-09-21,5,5,True,92,1,0.0109,3.27,300.84,False
+PO-11023,SUP-001,Schmidt Metallteile GmbH,low,VALV-001,"Ball Valve 1/2""",Valves,2024-06-26,2024-06-30,2024-06-30,4,4,True,488,14,0.0287,16.08,7847.04,True
+PO-11024,SUP-006,Bauer Präzisionsteile,low,SEAL-002,Press Fitting Seal,Seals,2024-12-11,2024-12-15,2024-12-15,4,4,True,214,5,0.0234,6.38,1365.32,True
+PO-11025,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2024-05-30,2024-06-06,2024-06-06,7,7,True,284,25,0.088,24.39,6926.76,True
+PO-11026,SUP-006,Bauer Präzisionsteile,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-11-06,2024-11-11,2024-11-11,5,5,True,70,0,0.0,39.17,2741.9,True
+PO-11027,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-07-24,2023-07-28,2023-07-28,4,4,True,342,5,0.0146,18.3,6258.6,True
+PO-11028,SUP-007,Hoffmann Global Supply,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-11-21,2023-12-06,2023-12-06,15,15,True,275,1,0.0036,14.66,4031.5,True
+PO-11029,SUP-001,Schmidt Metallteile GmbH,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-03-01,2023-03-05,2023-03-05,4,4,True,288,0,0.0,56.87,16378.56,True
+PO-11030,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-12-23,2024-01-05,2024-01-05,13,13,True,106,6,0.0566,47.45,5029.7,True
+PO-11031,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2023-03-10,2023-03-15,2023-03-15,5,5,True,330,7,0.0212,55.53,18324.9,True
+PO-11032,SUP-003,Müller Rohre & Armaturen,low,VALV-002,Pressure Relief Valve,Valves,2024-02-17,2024-02-23,2024-02-23,6,6,True,489,5,0.0102,54.51,26655.39,True
+PO-11033,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2024-03-19,2024-03-24,2024-03-24,5,5,True,106,1,0.0094,42.1,4462.6,True
+PO-11034,SUP-002,Fischer Kunststoff AG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-02-21,2024-03-01,2024-03-01,9,9,True,279,27,0.0968,57.65,16084.35,True
+PO-11035,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-03-29,2023-04-05,2023-04-05,7,7,True,450,18,0.04,52.63,23683.5,True
+PO-11036,SUP-003,Müller Rohre & Armaturen,low,VALV-001,"Ball Valve 1/2""",Valves,2023-08-02,2023-08-08,2023-08-08,6,6,True,80,1,0.0125,18.1,1448.0,True
+PO-11037,SUP-001,Schmidt Metallteile GmbH,low,VALV-001,"Ball Valve 1/2""",Valves,2023-08-25,2023-08-31,2023-08-31,6,6,True,95,2,0.0211,84.4,8018.0,True
+PO-11038,SUP-004,Weber International Ltd.,high,SEAL-001,EPDM O-Ring Pack,Seals,2024-04-17,2024-04-30,2024-05-05,13,18,False,341,23,0.0674,70.95,24193.95,True
+PO-11039,SUP-003,Müller Rohre & Armaturen,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-04-30,2024-05-06,2024-05-06,6,6,True,417,5,0.012,80.1,33401.7,False
+PO-11040,SUP-004,Weber International Ltd.,high,SEAL-002,Press Fitting Seal,Seals,2023-12-02,2023-12-13,2023-12-18,11,16,False,196,37,0.1888,83.76,16416.96,True
+PO-11041,SUP-002,Fischer Kunststoff AG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-05-18,2024-05-25,2024-05-25,7,7,True,476,22,0.0462,72.59,34552.84,True
+PO-11042,SUP-005,Krause Logistik KG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2024-04-05,2024-04-13,2024-04-17,8,12,False,51,1,0.0196,45.33,2311.83,True
+PO-11043,SUP-005,Krause Logistik KG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-12-03,2023-12-11,2023-12-18,8,15,False,190,1,0.0053,51.08,9705.2,True
+PO-11044,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-07-26,2024-08-05,2024-08-05,10,10,True,291,2,0.0069,29.35,8540.85,True
+PO-11045,SUP-001,Schmidt Metallteile GmbH,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-01-19,2024-01-25,2024-01-25,6,6,True,225,4,0.0178,69.35,15603.75,True
+PO-11046,SUP-003,Müller Rohre & Armaturen,low,SEAL-002,Press Fitting Seal,Seals,2023-05-03,2023-05-09,2023-05-09,6,6,True,354,8,0.0226,27.36,9685.44,True
+PO-11047,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-08-23,2023-08-28,2023-08-28,5,5,True,363,1,0.0028,29.95,10871.85,True
+PO-11048,SUP-004,Weber International Ltd.,high,SEAL-001,EPDM O-Ring Pack,Seals,2024-07-10,2024-07-21,2024-07-21,11,11,True,70,12,0.1714,59.25,4147.5,True
+PO-11049,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2024-11-02,2024-11-07,2024-11-07,5,5,True,374,9,0.0241,18.01,6735.74,True
+PO-11050,SUP-005,Krause Logistik KG,medium,VALV-002,Pressure Relief Valve,Valves,2024-08-13,2024-08-19,2024-08-19,6,6,True,123,8,0.065,57.26,7042.98,True
+PO-11051,SUP-003,Müller Rohre & Armaturen,low,SEAL-002,Press Fitting Seal,Seals,2024-05-15,2024-05-21,2024-05-21,6,6,True,50,0,0.0,76.48,3824.0,True
+PO-11052,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2023-07-08,2023-07-12,2023-07-12,4,4,True,437,13,0.0297,39.68,17340.16,True
+PO-11053,SUP-008,Schneider Dichtungen GmbH,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-04-15,2024-04-23,2024-04-23,8,8,True,326,6,0.0184,71.27,23234.02,True
+PO-11054,SUP-002,Fischer Kunststoff AG,medium,VALV-001,"Ball Valve 1/2""",Valves,2023-10-21,2023-10-30,2023-10-30,9,9,True,296,11,0.0372,52.64,15581.44,True
+PO-11055,SUP-003,Müller Rohre & Armaturen,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-11-30,2023-12-05,2023-12-05,5,5,True,191,4,0.0209,76.87,14682.17,True
+PO-11056,SUP-004,Weber International Ltd.,high,SEAL-001,EPDM O-Ring Pack,Seals,2023-11-03,2023-11-15,2023-11-15,12,12,True,210,1,0.0048,69.98,14695.8,True
+PO-11057,SUP-001,Schmidt Metallteile GmbH,low,SEAL-002,Press Fitting Seal,Seals,2024-07-11,2024-07-15,2024-07-15,4,4,True,187,4,0.0214,14.06,2629.22,False
+PO-11058,SUP-003,Müller Rohre & Armaturen,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-07-17,2024-07-23,2024-07-23,6,6,True,136,1,0.0074,61.61,8378.96,True
+PO-11059,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-001,Push-Fit Connector,Fittings,2023-04-30,2023-05-10,2023-05-10,10,10,True,376,14,0.0372,11.52,4331.52,True
+PO-11060,SUP-006,Bauer Präzisionsteile,low,VALV-002,Pressure Relief Valve,Valves,2024-08-30,2024-09-02,2024-09-08,3,9,False,162,4,0.0247,20.06,3249.72,True
+PO-11061,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-05-01,2023-05-08,2023-05-08,7,7,True,171,7,0.0409,80.58,13779.18,True
+PO-11062,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-10-16,2023-10-23,2023-10-23,7,7,True,297,18,0.0606,11.81,3507.57,True
+PO-11063,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-01-12,2023-01-23,2023-01-23,11,11,True,180,25,0.1389,29.28,5270.4,True
+PO-11064,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2024-01-22,2024-01-31,2024-01-31,9,9,True,457,19,0.0416,72.29,33036.53,True
+PO-11065,SUP-005,Krause Logistik KG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-08-23,2024-08-31,2024-09-02,8,10,False,465,1,0.0022,43.12,20050.8,True
+PO-11066,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-06-04,2024-06-12,2024-06-15,8,11,False,324,32,0.0988,51.25,16605.0,True
+PO-11067,SUP-006,Bauer Präzisionsteile,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-03-30,2023-04-03,2023-04-03,4,4,True,133,5,0.0376,60.57,8055.81,True
+PO-11068,SUP-004,Weber International Ltd.,high,SEAL-002,Press Fitting Seal,Seals,2023-09-21,2023-10-02,2023-10-02,11,11,True,170,17,0.1,18.06,3070.2,True
+PO-11069,SUP-002,Fischer Kunststoff AG,medium,SEAL-002,Press Fitting Seal,Seals,2024-04-16,2024-04-24,2024-04-24,8,8,True,120,6,0.05,61.95,7434.0,True
+PO-11070,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2024-06-27,2024-07-05,2024-07-05,8,8,True,391,37,0.0946,10.26,4011.66,True
+PO-11071,SUP-001,Schmidt Metallteile GmbH,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-08-14,2024-08-19,2024-08-19,5,5,True,397,14,0.0353,61.44,24391.68,True
+PO-11072,SUP-008,Schneider Dichtungen GmbH,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-10-22,2024-10-31,2024-11-02,9,11,False,332,22,0.0663,46.6,15471.2,True
+PO-11073,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-05-03,2023-05-10,2023-05-17,7,14,False,346,25,0.0723,71.8,24842.8,True
+PO-11074,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-12-05,2023-12-13,2023-12-13,8,8,True,436,32,0.0734,21.58,9408.88,True
+PO-11075,SUP-003,Müller Rohre & Armaturen,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-11-20,2024-11-25,2024-11-25,5,5,True,160,4,0.025,28.91,4625.6,True
+PO-11076,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-001,EPDM O-Ring Pack,Seals,2023-02-07,2023-02-15,2023-02-15,8,8,True,284,25,0.088,26.91,7642.44,True
+PO-11077,SUP-006,Bauer Präzisionsteile,low,VALV-001,"Ball Valve 1/2""",Valves,2024-06-24,2024-06-27,2024-06-27,3,3,True,396,13,0.0328,38.64,15301.44,True
+PO-11078,SUP-001,Schmidt Metallteile GmbH,low,VALV-001,"Ball Valve 1/2""",Valves,2023-02-02,2023-02-06,2023-02-06,4,4,True,489,8,0.0164,75.9,37115.1,True
+PO-11079,SUP-007,Hoffmann Global Supply,high,VALV-001,"Ball Valve 1/2""",Valves,2024-09-03,2024-09-17,2024-09-17,14,14,True,275,46,0.1673,75.63,20798.25,True
+PO-11080,SUP-007,Hoffmann Global Supply,high,FIXT-002,Elbow 90deg 15mm,Fittings,2023-08-25,2023-09-08,2023-09-15,14,21,False,187,12,0.0642,39.63,7410.81,True
+PO-11081,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-001,Push-Fit Connector,Fittings,2023-11-13,2023-11-22,2023-11-22,9,9,True,264,12,0.0455,12.39,3270.96,True
+PO-11082,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2023-06-27,2023-07-05,2023-07-05,8,8,True,220,16,0.0727,69.52,15294.4,True
+PO-11083,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2023-04-05,2023-04-16,2023-04-23,11,18,False,56,9,0.1607,62.41,3494.96,True
+PO-11084,SUP-006,Bauer Präzisionsteile,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-09-19,2023-09-22,2023-09-28,3,9,False,371,6,0.0162,71.45,26507.95,True
+PO-11085,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-001,Push-Fit Connector,Fittings,2023-02-16,2023-02-25,2023-02-25,9,9,True,259,14,0.0541,45.2,11706.8,True
+PO-11086,SUP-005,Krause Logistik KG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-03-18,2023-03-24,2023-03-28,6,10,False,116,7,0.0603,46.21,5360.36,True
+PO-11087,SUP-005,Krause Logistik KG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-12-25,2024-01-01,2024-01-01,7,7,True,365,30,0.0822,27.76,10132.4,True
+PO-11088,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-05-27,2023-06-02,2023-06-02,6,6,True,192,3,0.0156,12.96,2488.32,True
+PO-11089,SUP-008,Schneider Dichtungen GmbH,medium,VALV-002,Pressure Relief Valve,Valves,2024-04-25,2024-05-03,2024-05-03,8,8,True,127,4,0.0315,55.69,7072.63,False
+PO-11090,SUP-004,Weber International Ltd.,high,VALV-001,"Ball Valve 1/2""",Valves,2024-11-17,2024-11-29,2024-11-29,12,12,True,260,4,0.0154,3.81,990.6,True
+PO-11091,SUP-007,Hoffmann Global Supply,high,VALV-002,Pressure Relief Valve,Valves,2024-09-15,2024-10-01,2024-10-01,16,16,True,76,2,0.0263,59.86,4549.36,True
+PO-11092,SUP-003,Müller Rohre & Armaturen,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-05-04,2023-05-11,2023-05-11,7,7,True,465,16,0.0344,64.23,29866.95,True
+PO-11093,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-08-09,2024-08-17,2024-08-17,8,8,True,156,2,0.0128,69.04,10770.24,True
+PO-11094,SUP-001,Schmidt Metallteile GmbH,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-12-02,2023-12-08,2023-12-08,6,6,True,139,3,0.0216,19.71,2739.69,True
+PO-11095,SUP-008,Schneider Dichtungen GmbH,medium,VALV-002,Pressure Relief Valve,Valves,2024-04-29,2024-05-08,2024-05-08,9,9,True,228,13,0.057,40.73,9286.44,True
+PO-11096,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2024-07-31,2024-08-12,2024-08-12,12,12,True,298,48,0.1611,39.28,11705.44,True
+PO-11097,SUP-006,Bauer Präzisionsteile,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-06-19,2023-06-22,2023-06-22,3,3,True,394,14,0.0355,75.24,29644.56,True
+PO-11098,SUP-007,Hoffmann Global Supply,high,SEAL-002,Press Fitting Seal,Seals,2024-03-31,2024-04-14,2024-04-14,14,14,True,237,46,0.1941,74.0,17538.0,True
+PO-11099,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-05-13,2024-05-16,2024-05-16,3,3,True,136,3,0.0221,44.07,5993.52,True
+PO-11100,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-001,Push-Fit Connector,Fittings,2024-11-05,2024-11-15,2024-11-15,10,10,True,150,13,0.0867,68.77,10315.5,True
+PO-11101,SUP-002,Fischer Kunststoff AG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-08-16,2023-08-23,2023-08-23,7,7,True,480,23,0.0479,80.44,38611.2,True
+PO-11102,SUP-006,Bauer Präzisionsteile,low,FIXT-001,Push-Fit Connector,Fittings,2023-09-10,2023-09-13,2023-09-13,3,3,True,452,17,0.0376,24.25,10961.0,True
+PO-11103,SUP-003,Müller Rohre & Armaturen,low,VALV-002,Pressure Relief Valve,Valves,2023-03-11,2023-03-17,2023-03-17,6,6,True,413,4,0.0097,17.89,7388.57,True
+PO-11104,SUP-005,Krause Logistik KG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-06-24,2023-06-30,2023-07-05,6,11,False,397,10,0.0252,73.0,28981.0,False
+PO-11105,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-02-06,2024-02-10,2024-02-10,4,4,True,80,0,0.0,45.07,3605.6,True
+PO-11106,SUP-005,Krause Logistik KG,medium,VALV-001,"Ball Valve 1/2""",Valves,2023-04-17,2023-04-25,2023-04-25,8,8,True,450,32,0.0711,47.13,21208.5,True
+PO-11107,SUP-003,Müller Rohre & Armaturen,low,FIXT-002,Elbow 90deg 15mm,Fittings,2023-03-17,2023-03-24,2023-03-24,7,7,True,349,1,0.0029,48.76,17017.24,True
+PO-11108,SUP-002,Fischer Kunststoff AG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-05-16,2024-05-24,2024-05-24,8,8,True,224,13,0.058,40.09,8980.16,True
+PO-11109,SUP-001,Schmidt Metallteile GmbH,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-12-18,2024-12-22,2024-12-22,4,4,True,299,1,0.0033,62.72,18753.28,True
+PO-11110,SUP-005,Krause Logistik KG,medium,SEAL-002,Press Fitting Seal,Seals,2023-09-13,2023-09-21,2023-09-21,8,8,True,195,0,0.0,12.27,2392.65,True
+PO-11111,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-09-28,2023-10-04,2023-10-04,6,6,True,243,3,0.0123,49.61,12055.23,True
+PO-11112,SUP-003,Müller Rohre & Armaturen,low,VALV-001,"Ball Valve 1/2""",Valves,2024-05-17,2024-05-23,2024-05-23,6,6,True,283,7,0.0247,3.26,922.58,True
+PO-11113,SUP-008,Schneider Dichtungen GmbH,medium,VALV-002,Pressure Relief Valve,Valves,2023-07-21,2023-07-30,2023-07-30,9,9,True,176,10,0.0568,27.06,4762.56,True
+PO-11114,SUP-007,Hoffmann Global Supply,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-10-23,2023-11-08,2023-11-08,16,16,True,159,13,0.0818,3.77,599.43,True
+PO-11115,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2023-06-15,2023-06-20,2023-06-20,5,5,True,66,1,0.0152,44.79,2956.14,True
+PO-11116,SUP-003,Müller Rohre & Armaturen,low,SEAL-002,Press Fitting Seal,Seals,2023-07-26,2023-08-02,2023-08-02,7,7,True,150,0,0.0,35.51,5326.5,True
+PO-11117,SUP-007,Hoffmann Global Supply,high,VALV-001,"Ball Valve 1/2""",Valves,2023-06-22,2023-07-07,2023-07-07,15,15,True,408,40,0.098,60.75,24786.0,True
+PO-11118,SUP-004,Weber International Ltd.,high,VALV-001,"Ball Valve 1/2""",Valves,2024-08-31,2024-09-13,2024-09-13,13,13,True,382,3,0.0079,41.99,16040.18,True
+PO-11119,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-001,Copper Pipe 15mm,Pipes,2024-05-17,2024-05-27,2024-05-31,10,14,False,233,12,0.0515,36.57,8520.81,False
+PO-11120,SUP-001,Schmidt Metallteile GmbH,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-04-06,2023-04-10,2023-04-10,4,4,True,392,10,0.0255,41.51,16271.92,True
+PO-11121,SUP-007,Hoffmann Global Supply,high,VALV-002,Pressure Relief Valve,Valves,2023-12-17,2024-01-01,2024-01-05,15,19,False,130,22,0.1692,24.0,3120.0,True
+PO-11122,SUP-007,Hoffmann Global Supply,high,SEAL-002,Press Fitting Seal,Seals,2024-04-25,2024-05-10,2024-05-10,15,15,True,158,1,0.0063,83.14,13136.12,True
+PO-11123,SUP-003,Müller Rohre & Armaturen,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-07-24,2023-07-29,2023-07-29,5,5,True,256,3,0.0117,41.72,10680.32,True
+PO-11124,SUP-001,Schmidt Metallteile GmbH,low,PIPE-001,Copper Pipe 15mm,Pipes,2024-03-08,2024-03-12,2024-03-12,4,4,True,285,11,0.0386,82.43,23492.55,True
+PO-11125,SUP-003,Müller Rohre & Armaturen,low,FIXT-001,Push-Fit Connector,Fittings,2024-11-06,2024-11-13,2024-11-20,7,14,False,180,6,0.0333,70.68,12722.4,True
+PO-11126,SUP-007,Hoffmann Global Supply,high,FIXT-002,Elbow 90deg 15mm,Fittings,2024-11-13,2024-11-28,2024-11-28,15,15,True,270,53,0.1963,24.05,6493.5,True
+PO-11127,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2023-02-24,2023-03-07,2023-03-07,11,11,True,78,13,0.1667,37.18,2900.04,True
+PO-11128,SUP-003,Müller Rohre & Armaturen,low,FIXT-001,Push-Fit Connector,Fittings,2024-10-31,2024-11-07,2024-11-07,7,7,True,348,4,0.0115,77.98,27137.04,True
+PO-11129,SUP-001,Schmidt Metallteile GmbH,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-08-11,2024-08-17,2024-08-17,6,6,True,246,6,0.0244,19.91,4897.86,True
+PO-11130,SUP-004,Weber International Ltd.,high,SEAL-002,Press Fitting Seal,Seals,2024-01-29,2024-02-09,2024-02-09,11,11,True,212,27,0.1274,27.06,5736.72,True
+PO-11131,SUP-006,Bauer Präzisionsteile,low,FIXT-002,Elbow 90deg 15mm,Fittings,2024-10-22,2024-10-27,2024-10-27,5,5,True,474,11,0.0232,81.79,38768.46,True
+PO-11132,SUP-007,Hoffmann Global Supply,high,PIPE-001,Copper Pipe 15mm,Pipes,2024-05-12,2024-05-26,2024-05-26,14,14,True,411,81,0.1971,30.99,12736.89,True
+PO-11133,SUP-007,Hoffmann Global Supply,high,SEAL-002,Press Fitting Seal,Seals,2023-10-03,2023-10-17,2023-10-21,14,18,False,179,16,0.0894,71.75,12843.25,True
+PO-11134,SUP-003,Müller Rohre & Armaturen,low,VALV-002,Pressure Relief Valve,Valves,2023-05-08,2023-05-15,2023-05-15,7,7,True,439,8,0.0182,53.46,23468.94,True
+PO-11135,SUP-002,Fischer Kunststoff AG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-10-04,2024-10-12,2024-10-12,8,8,True,357,7,0.0196,63.97,22837.29,False
+PO-11136,SUP-005,Krause Logistik KG,medium,SEAL-002,Press Fitting Seal,Seals,2023-03-12,2023-03-19,2023-03-24,7,12,False,292,3,0.0103,22.76,6645.92,True
+PO-11137,SUP-006,Bauer Präzisionsteile,low,VALV-001,"Ball Valve 1/2""",Valves,2023-03-23,2023-03-28,2023-03-28,5,5,True,460,18,0.0391,82.78,38078.8,True
+PO-11138,SUP-002,Fischer Kunststoff AG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-05-13,2024-05-20,2024-05-24,7,11,False,242,3,0.0124,74.29,17978.18,True
+PO-11139,SUP-001,Schmidt Metallteile GmbH,low,PIPE-001,Copper Pipe 15mm,Pipes,2023-02-01,2023-02-07,2023-02-07,6,6,True,382,5,0.0131,66.34,25341.88,True
+PO-11140,SUP-005,Krause Logistik KG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-03-27,2023-04-04,2023-04-04,8,8,True,229,9,0.0393,38.26,8761.54,True
+PO-11141,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-001,Copper Pipe 15mm,Pipes,2024-07-31,2024-08-10,2024-08-10,10,10,True,65,3,0.0462,39.55,2570.75,True
+PO-11142,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2024-07-31,2024-08-07,2024-08-07,7,7,True,90,5,0.0556,23.12,2080.8,True
+PO-11143,SUP-007,Hoffmann Global Supply,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-04-03,2023-04-17,2023-04-19,14,16,False,493,10,0.0203,20.14,9929.02,True
+PO-11144,SUP-008,Schneider Dichtungen GmbH,medium,VALV-001,"Ball Valve 1/2""",Valves,2023-04-07,2023-04-17,2023-04-17,10,10,True,123,2,0.0163,21.45,2638.35,True
+PO-11145,SUP-004,Weber International Ltd.,high,FIXT-002,Elbow 90deg 15mm,Fittings,2023-08-09,2023-08-21,2023-08-27,12,18,False,308,11,0.0357,9.35,2879.8,True
+PO-11146,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2023-11-28,2023-12-03,2023-12-03,5,5,True,284,6,0.0211,68.6,19482.4,True
+PO-11147,SUP-002,Fischer Kunststoff AG,medium,VALV-002,Pressure Relief Valve,Valves,2023-09-02,2023-09-10,2023-09-10,8,8,True,65,0,0.0,67.38,4379.7,True
+PO-11148,SUP-004,Weber International Ltd.,high,VALV-001,"Ball Valve 1/2""",Valves,2023-03-07,2023-03-20,2023-03-24,13,17,False,449,71,0.1581,51.58,23159.42,True
+PO-11149,SUP-005,Krause Logistik KG,medium,VALV-001,"Ball Valve 1/2""",Valves,2023-02-08,2023-02-14,2023-02-21,6,13,False,478,40,0.0837,24.14,11538.92,False
+PO-11150,SUP-002,Fischer Kunststoff AG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-07-23,2023-07-31,2023-07-31,8,8,True,495,33,0.0667,33.32,16493.4,True
+PO-11151,SUP-004,Weber International Ltd.,high,FIXT-001,Push-Fit Connector,Fittings,2023-09-22,2023-10-03,2023-10-03,11,11,True,187,15,0.0802,74.72,13972.64,True
+PO-11152,SUP-002,Fischer Kunststoff AG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-11-14,2023-11-21,2023-11-21,7,7,True,240,18,0.075,27.7,6648.0,True
+PO-11153,SUP-003,Müller Rohre & Armaturen,low,VALV-001,"Ball Valve 1/2""",Valves,2023-05-12,2023-05-19,2023-05-19,7,7,True,425,8,0.0188,60.79,25835.75,True
+PO-11154,SUP-006,Bauer Präzisionsteile,low,VALV-001,"Ball Valve 1/2""",Valves,2024-01-01,2024-01-06,2024-01-06,5,5,True,275,7,0.0255,43.04,11836.0,True
+PO-11155,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-02-23,2023-02-28,2023-02-28,5,5,True,367,2,0.0054,38.49,14125.83,True
+PO-11156,SUP-002,Fischer Kunststoff AG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-12-26,2024-01-04,2024-01-04,9,9,True,429,42,0.0979,77.55,33268.95,True
+PO-11157,SUP-003,Müller Rohre & Armaturen,low,FIXT-001,Push-Fit Connector,Fittings,2024-04-16,2024-04-21,2024-04-21,5,5,True,241,0,0.0,15.12,3643.92,True
+PO-11158,SUP-008,Schneider Dichtungen GmbH,medium,VALV-002,Pressure Relief Valve,Valves,2024-02-21,2024-03-02,2024-03-02,10,10,True,494,18,0.0364,45.41,22432.54,True
+PO-11159,SUP-001,Schmidt Metallteile GmbH,low,PIPE-002,Steel Pipe 22mm,Pipes,2023-07-29,2023-08-03,2023-08-03,5,5,True,423,11,0.026,28.63,12110.49,True
+PO-11160,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2024-04-24,2024-05-03,2024-05-05,9,11,False,67,2,0.0299,11.65,780.55,True
+PO-11161,SUP-001,Schmidt Metallteile GmbH,low,SEAL-002,Press Fitting Seal,Seals,2024-05-27,2024-06-02,2024-06-02,6,6,True,408,2,0.0049,15.51,6328.08,True
+PO-11162,SUP-005,Krause Logistik KG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-09-09,2023-09-15,2023-09-15,6,6,True,331,10,0.0302,48.93,16195.83,True
+PO-11163,SUP-002,Fischer Kunststoff AG,medium,FIXT-001,Push-Fit Connector,Fittings,2024-07-23,2024-07-30,2024-08-05,7,13,False,84,1,0.0119,30.7,2578.8,True
+PO-11164,SUP-003,Müller Rohre & Armaturen,low,VALV-001,"Ball Valve 1/2""",Valves,2023-03-27,2023-04-03,2023-04-03,7,7,True,256,5,0.0195,28.35,7257.6,True
+PO-11165,SUP-008,Schneider Dichtungen GmbH,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2023-11-05,2023-11-15,2023-11-15,10,10,True,495,7,0.0141,54.4,26928.0,True
+PO-11166,SUP-002,Fischer Kunststoff AG,medium,SEAL-002,Press Fitting Seal,Seals,2023-11-18,2023-11-25,2023-11-25,7,7,True,448,9,0.0201,57.73,25863.04,True
+PO-11167,SUP-007,Hoffmann Global Supply,high,VALV-001,"Ball Valve 1/2""",Valves,2024-11-22,2024-12-08,2024-12-08,16,16,True,271,33,0.1218,3.38,915.98,True
+PO-11168,SUP-002,Fischer Kunststoff AG,medium,SEAL-002,Press Fitting Seal,Seals,2024-02-28,2024-03-06,2024-03-06,7,7,True,362,7,0.0193,29.53,10689.86,True
+PO-11169,SUP-003,Müller Rohre & Armaturen,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-10-13,2024-10-20,2024-10-20,7,7,True,496,11,0.0222,51.72,25653.12,True
+PO-11170,SUP-001,Schmidt Metallteile GmbH,low,SEAL-001,EPDM O-Ring Pack,Seals,2023-07-01,2023-07-06,2023-07-06,5,5,True,78,1,0.0128,51.09,3985.02,True
+PO-11171,SUP-003,Müller Rohre & Armaturen,low,SEAL-002,Press Fitting Seal,Seals,2023-04-05,2023-04-10,2023-04-10,5,5,True,402,3,0.0075,17.29,6950.58,False
+PO-11172,SUP-003,Müller Rohre & Armaturen,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-10-07,2024-10-13,2024-10-13,6,6,True,174,0,0.0,38.91,6770.34,True
+PO-11173,SUP-007,Hoffmann Global Supply,high,FIXT-001,Push-Fit Connector,Fittings,2024-04-02,2024-04-17,2024-04-17,15,15,True,137,21,0.1533,18.12,2482.44,True
+PO-11174,SUP-003,Müller Rohre & Armaturen,low,FIXT-001,Push-Fit Connector,Fittings,2024-11-10,2024-11-16,2024-11-18,6,8,False,350,3,0.0086,67.53,23635.5,True
+PO-11175,SUP-007,Hoffmann Global Supply,high,FIXT-001,Push-Fit Connector,Fittings,2023-09-14,2023-09-29,2023-10-03,15,19,False,257,26,0.1012,37.02,9514.14,True
+PO-11176,SUP-002,Fischer Kunststoff AG,medium,PIPE-002,Steel Pipe 22mm,Pipes,2024-10-14,2024-10-22,2024-10-22,8,8,True,171,6,0.0351,79.21,13544.91,True
+PO-11177,SUP-002,Fischer Kunststoff AG,medium,VALV-002,Pressure Relief Valve,Valves,2024-07-28,2024-08-06,2024-08-08,9,11,False,431,23,0.0534,30.64,13205.84,True
+PO-11178,SUP-005,Krause Logistik KG,medium,VALV-001,"Ball Valve 1/2""",Valves,2024-03-12,2024-03-18,2024-03-18,6,6,True,408,7,0.0172,11.66,4757.28,True
+PO-11179,SUP-005,Krause Logistik KG,medium,FIXT-001,Push-Fit Connector,Fittings,2023-06-19,2023-06-26,2023-06-26,7,7,True,309,15,0.0485,80.13,24760.17,True
+PO-11180,SUP-001,Schmidt Metallteile GmbH,low,PIPE-002,Steel Pipe 22mm,Pipes,2024-09-10,2024-09-14,2024-09-14,4,4,True,296,10,0.0338,3.53,1044.88,False
+PO-11181,SUP-006,Bauer Präzisionsteile,low,VALV-002,Pressure Relief Valve,Valves,2024-08-06,2024-08-11,2024-08-11,5,5,True,358,0,0.0,70.98,25410.84,True
+PO-11182,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-05-08,2023-05-17,2023-05-17,9,9,True,90,0,0.0,46.3,4167.0,True
+PO-11183,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2024-04-17,2024-04-26,2024-04-26,9,9,True,437,19,0.0435,65.5,28623.5,True
+PO-11184,SUP-006,Bauer Präzisionsteile,low,SEAL-001,EPDM O-Ring Pack,Seals,2024-12-26,2024-12-31,2024-12-31,5,5,True,357,8,0.0224,59.36,21191.52,True
+PO-11185,SUP-002,Fischer Kunststoff AG,medium,FIXT-002,Elbow 90deg 15mm,Fittings,2024-09-01,2024-09-09,2024-09-09,8,8,True,457,19,0.0416,49.98,22840.86,True
+PO-11186,SUP-005,Krause Logistik KG,medium,SEAL-002,Press Fitting Seal,Seals,2024-01-06,2024-01-14,2024-01-14,8,8,True,271,18,0.0664,48.9,13251.9,True
+PO-11187,SUP-005,Krause Logistik KG,medium,PIPE-001,Copper Pipe 15mm,Pipes,2023-12-30,2024-01-07,2024-01-07,8,8,True,414,39,0.0942,9.89,4094.46,True
+PO-11188,SUP-001,Schmidt Metallteile GmbH,low,SEAL-002,Press Fitting Seal,Seals,2024-11-06,2024-11-11,2024-11-11,5,5,True,270,10,0.037,73.32,19796.4,True
+PO-11189,SUP-002,Fischer Kunststoff AG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-07-10,2024-07-17,2024-07-17,7,7,True,280,23,0.0821,71.18,19930.4,True
+PO-11190,SUP-002,Fischer Kunststoff AG,medium,SEAL-001,EPDM O-Ring Pack,Seals,2024-05-06,2024-05-14,2024-05-14,8,8,True,245,8,0.0327,83.4,20433.0,True
+PO-11191,SUP-004,Weber International Ltd.,high,PIPE-002,Steel Pipe 22mm,Pipes,2023-11-04,2023-11-17,2023-11-17,13,13,True,305,45,0.1475,16.19,4937.95,True
+PO-11192,SUP-004,Weber International Ltd.,high,FIXT-002,Elbow 90deg 15mm,Fittings,2024-08-30,2024-09-11,2024-09-15,12,16,False,235,5,0.0213,28.01,6582.35,True
+PO-11193,SUP-008,Schneider Dichtungen GmbH,medium,SEAL-002,Press Fitting Seal,Seals,2023-09-14,2023-09-22,2023-09-26,8,12,False,486,41,0.0844,7.78,3781.08,True
+PO-11194,SUP-006,Bauer Präzisionsteile,low,FIXT-001,Push-Fit Connector,Fittings,2024-01-22,2024-01-27,2024-01-27,5,5,True,288,8,0.0278,8.42,2424.96,False
+PO-11195,SUP-004,Weber International Ltd.,high,PIPE-001,Copper Pipe 15mm,Pipes,2023-08-22,2023-09-02,2023-09-02,11,11,True,274,47,0.1715,49.12,13458.88,True
+PO-11196,SUP-008,Schneider Dichtungen GmbH,medium,PIPE-002,Steel Pipe 22mm,Pipes,2023-05-15,2023-05-25,2023-05-29,10,14,False,104,9,0.0865,78.24,8136.96,True
+PO-11197,SUP-002,Fischer Kunststoff AG,medium,VALV-001,"Ball Valve 1/2""",Valves,2023-03-29,2023-04-05,2023-04-05,7,7,True,264,20,0.0758,59.06,15591.84,True
+PO-11198,SUP-006,Bauer Präzisionsteile,low,VALV-001,"Ball Valve 1/2""",Valves,2023-09-02,2023-09-06,2023-09-06,4,4,True,432,5,0.0116,45.41,19617.12,False
+PO-11199,SUP-001,Schmidt Metallteile GmbH,low,VALV-002,Pressure Relief Valve,Valves,2023-01-18,2023-01-22,2023-01-22,4,4,True,492,1,0.002,60.66,29844.72,True

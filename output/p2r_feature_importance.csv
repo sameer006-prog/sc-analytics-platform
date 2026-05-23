@@ -1,0 +1,8 @@
+feature,importance
+temperature_c,0.23
+pressure_bar,0.1692
+oil_viscosity,0.1614
+cycle_count,0.1564
+vibration_mm_s,0.1524
+age_years,0.0959
+dept_encoded,0.0346
